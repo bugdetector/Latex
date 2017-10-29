@@ -6,9 +6,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LIST OF FIGURES}{vii}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ABSTRACT}{viii}
+\contentsline {chapter}{LIST OF TABLES}{viii}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\IeC {\"O}ZET}{ix}
+\contentsline {chapter}{ABSTRACT}{ix}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\IeC {\"O}ZET}{x}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \defcounter {refsection}{0}\relax 
@@ -20,36 +22,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}General Information}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Mobile Application}{3}
+\contentsline {section}{\numberline {2.1}Trip Tracker(Android application)}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Website}{3}
+\contentsline {section}{\numberline {2.2}Route Tracker(Android application)}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Front-end}{3}
+\contentsline {section}{\numberline {2.3}Polarsteps - Travel Tracker(Android and Ios application)}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Back-end}{3}
+\contentsline {section}{\numberline {2.4}Maps (Android and Ios application)}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2.1}Database}{3}
+\contentsline {chapter}{\numberline {3}Feasibility}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Web Services}{3}
+\contentsline {section}{\numberline {3.1}Technic Feasibility}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Feasibility}{4}
+\contentsline {subsection}{\numberline {3.1.1}Software Feasibility}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Technic Feasibility}{4}
+\contentsline {subsection}{\numberline {3.1.2}Hardware Feasibility}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Labor Force Feasibility}{4}
+\contentsline {section}{\numberline {3.2}Labor Force Feasibility}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Time Feasibility}{5}
+\contentsline {section}{\numberline {3.3}Time Feasibility}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Legitimate Feasibility}{5}
+\contentsline {section}{\numberline {3.4}Legitimate Feasibility}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Economic Feasibility}{5}
+\contentsline {section}{\numberline {3.5}Economic Feasibility}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}System Analysis}{6}
+\contentsline {chapter}{\numberline {4}System Analysis}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendix}{7}
+\contentsline {chapter}{\numberline {A}Appendix}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {B}Appendix - 2}{8}
+\contentsline {chapter}{\numberline {B}Appendix - 2}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{9}
+\contentsline {chapter}{References}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Curriculum Vitae}{9}
+\contentsline {chapter}{Curriculum Vitae}{12}
