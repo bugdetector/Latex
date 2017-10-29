@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.29)  30 OCT 2017 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.29)  30 OCT 2017 02:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1169,9 +1169,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 56.
 
-[1] [2
-
-]
+[1] [2]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 23.88496pt on input line 88.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
@@ -1211,28 +1209,25 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-) (./frontPages/0b1-listofsymbols.tex [4])
-(./frontPages/0b2-listofabbrevations.tex [5
-
-]) (./frontPages/0b3-lists.tex
+) (./frontPages/0b2-listofabbrevations.tex [4])
+(./frontPages/0b3-lists.tex
 \mylen=\skip112
 \tempp=\skip113
-
-[6
+ [5
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [7
+ [6
 
 ] (./main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [8
+ [7
 
-] [9
+] [8
 
 ]
 Underfull \hbox (badness 3029) in paragraph at lines 83--83
@@ -1259,26 +1254,14 @@ Underfull \hbox (badness 1910) in paragraph at lines 83--83
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 bu durumda yol gösterici olacakt^^Yr. Sistemin kullan^^Yc^^Yla
-r aras^^Ynda etkile³imi
+Underfull \hbox (badness 1661) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 amac^^Yyla bir sosyal medya ortam^^Y olu³turmas^^Y gerekecekti
+r. Kullan^^Yc^^Ylar aras^^Y
  []
 
+) [9
 
-Underfull \hbox (badness 1983) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 uygulama içinde bulunan popüler güzergâhlar ve arkada³ çevresi
-ndeki geziler
- []
-
-
-Underfull \hbox (badness 1152) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 isteyen insanlar içinde kolayl^^Yk üretecektir. Ayr^^Yca uygul
-ama içinde bir sosyal
- []
-
-) [10
-
-] [11] (./projectChapters/1-chapter.tex
+] (./projectChapters/1-chapter.tex
  1.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 28.8002pt on input line 1.
@@ -1305,22 +1288,22 @@ equirements
 
 [5
 
-] [6] <projectChapters/images/gantt.png, id=67, 861.9703pt x 351.56343pt>
+] [6] <projectChapters/images/gantt.png, id=61, 861.9703pt x 351.56343pt>
 File: projectChapters/images/gantt.png Graphic file (type png)
 
 <use projectChapters/images/gantt.png>
-Package pdftex.def Info: projectChapters/images/gantt.png used on input line 61
+Package pdftex.def Info: projectChapters/images/gantt.png used on input line 62
 .
 (pdftex.def)             Requested size: 426.79135pt x 174.0754pt.
 
-Underfull \hbox (badness 3078) in paragraph at lines 71--72
+Underfull \hbox (badness 3078) in paragraph at lines 72--73
 \T1/mdbch/m/n/12 There is no charge for software components to be used during a
 pplication
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 73.
+               Default added (so using `tbp') on input line 74.
 
 ) (./projectChapters/4-chapter.tex [7 <./projectChapters/images/gantt.png>]
 [8]
@@ -1353,9 +1336,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12417 strings out of 494910
- 198930 string characters out of 6179835
- 584802 words of memory out of 5000000
+ 12414 strings out of 494910
+ 198847 string characters out of 6179835
+ 584757 words of memory out of 5000000
  15438 multiletter control sequences out of 15000+600000
  47055 words of font info for 80 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -1366,10 +1349,10 @@ exmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on main.pdf (24 pages, 166740 bytes).
+Output written on main.pdf (22 pages, 166990 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,14 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF SYMBOLS}{v}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{v}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{vi}
+\contentsline {chapter}{LIST OF FIGURES}{vi}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF FIGURES}{vii}
+\contentsline {chapter}{LIST OF TABLES}{vii}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF TABLES}{viii}
+\contentsline {chapter}{ABSTRACT}{viii}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ABSTRACT}{ix}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\IeC {\"O}ZET}{x}
+\contentsline {chapter}{\IeC {\"O}ZET}{ix}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \defcounter {refsection}{0}\relax 
