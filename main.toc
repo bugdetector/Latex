@@ -2,13 +2,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LIST OF ABBREVIATIONS}{v}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF FIGURES}{vi}
+\contentsline {chapter}{ABSTRACT}{vi}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF TABLES}{vii}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ABSTRACT}{viii}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\IeC {\"O}ZET}{ix}
+\contentsline {chapter}{\IeC {\"O}ZET}{vii}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \defcounter {refsection}{0}\relax 
@@ -46,8 +42,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}System Analysis}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Backend and Database Diagrams}{11}
+\contentsline {section}{\numberline {4.1}Backend UML and Database Diagrams}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{References}{14}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Curriculum Vitae}{14}
+\contentsline {chapter}{Curriculum Vitae}{15}
