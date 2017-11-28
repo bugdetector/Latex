@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.30)  31 OCT 2017 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.26)  27 NOV 2017 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
@@ -25,7 +25,7 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
@@ -42,23 +42,23 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 199.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count89
 \leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 297.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count91
 \DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count93
 \c@MaxMatrixCols=\count94
 \dotsspace@=\muskip10
@@ -79,146 +79,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 ) (./ytucestyle.sty
 Package: ytucestyle 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mathdesign.sty
-Package: mathdesign 2013/08/29 v2.31 Math Design Project
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.cfg)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.sty
-Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
-n Project)
+! LaTeX Error: File `mathdesign.sty' not found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdfont.def
-File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdsffont.def
-File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdttfont.def
-File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
-)
-\symmdcal=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
-(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 97.
-\symmdscr=\mathgroup5
-LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
-(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 103.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 110.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/mdbch/m/n on input line 121.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/mdbch/m/it on input line 122.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/mdbch/m/n on input line 123.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/mdbch/m/n on input line 124.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 126.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/mdbch/b/it on input line 127.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/mdbch/b/n on input line 128.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 129.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/mdbch/m/n --> OT1/mdbch/m/n on input line 131.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 132.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/mdbch/m/it on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 134.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 135.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/mdbch/b/n --> OT1/mdbch/b/n on input line 137.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 138.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/mdbch/b/it on input line 139.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/b/n on input line 140.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 141.
-\symlettersupright=\mathgroup6
-LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
-(Font)                  OML/mdbch/m/n --> OML/mdbch/b/n on input line 144.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
-LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
-(Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Enter file name: 
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
-)
-\XKV@depth=\count100
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 18
-6.
+! LaTeX Error: Unknown option `bitstream-charter' for package `mathdesign'.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 186.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
-\symmathdesignA=\mathgroup7
-LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
-(Font)                  MDA/mdbch/m/n --> MDA/mdbch/b/n on input line 491.
-\symmathdesignB=\mathgroup8
-LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
-(Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
-\rulethickness=\skip46
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)
-LaTeX Font Info:    Try loading font information for T1+mdbch on input line 105
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
-File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
-)
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 105.
-))
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usepackage
+                [utf8]{inputenc}
+? 
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -430,11 +325,17 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+01E02 (decimal 7682)
-   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -446,12 +347,14 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -492,7 +395,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -504,10 +407,6 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
-Now handling font encoding MDA ...
-... no UTF-8 mapping file for font encoding MDA
-Now handling font encoding MDB ...
-... no UTF-8 mapping file for font encoding MDB
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -520,60 +419,64 @@ Now handling font encoding MDB ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+File: t1enc.def 2017/02/22 v2.0g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip47
-\cftbeforetoctitleskip=\skip48
-\cftaftertoctitleskip=\skip49
-\cftbeforepartskip=\skip50
-\cftpartnumwidth=\skip51
-\cftpartindent=\skip52
-\cftbeforechapskip=\skip53
-\cftchapindent=\skip54
-\cftchapnumwidth=\skip55
-\cftbeforesecskip=\skip56
-\cftsecindent=\skip57
-\cftsecnumwidth=\skip58
-\cftbeforesubsecskip=\skip59
-\cftsubsecindent=\skip60
-\cftsubsecnumwidth=\skip61
-\cftbeforesubsubsecskip=\skip62
-\cftsubsubsecindent=\skip63
-\cftsubsubsecnumwidth=\skip64
-\cftbeforeparaskip=\skip65
-\cftparaindent=\skip66
-\cftparanumwidth=\skip67
-\cftbeforesubparaskip=\skip68
-\cftsubparaindent=\skip69
-\cftsubparanumwidth=\skip70
-\cftbeforeloftitleskip=\skip71
-\cftafterloftitleskip=\skip72
-\cftbeforefigskip=\skip73
-\cftfigindent=\skip74
-\cftfignumwidth=\skip75
-\c@lofdepth=\count101
-\c@lotdepth=\count102
-\cftbeforelottitleskip=\skip76
-\cftafterlottitleskip=\skip77
-\cftbeforetabskip=\skip78
-\cfttabindent=\skip79
-\cfttabnumwidth=\skip80
+\cftparskip=\skip46
+\cftbeforetoctitleskip=\skip47
+\cftaftertoctitleskip=\skip48
+\cftbeforepartskip=\skip49
+\cftpartnumwidth=\skip50
+\cftpartindent=\skip51
+\cftbeforechapskip=\skip52
+\cftchapindent=\skip53
+\cftchapnumwidth=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count100
+\c@lotdepth=\count101
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen112
 \captionmargin@=\dimen113
@@ -583,19 +486,19 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen117
 \caption@hangindent=\dimen118
 )
-\c@ContinuedFloat=\count103
+\c@ContinuedFloat=\count102
 )
-\c@KVtest=\count104
-\sf@farskip=\skip81
+\c@KVtest=\count103
+\sf@farskip=\skip80
 \sf@captopadj=\dimen119
-\sf@capskip=\skip82
-\sf@nearskip=\skip83
-\c@subfigure=\count105
-\c@subfigure@save=\count106
-\c@subtable=\count107
-\c@subtable@save=\count108
-\sf@top=\skip84
-\sf@bottom=\skip85
+\sf@capskip=\skip81
+\sf@nearskip=\skip82
+\c@subfigure=\count104
+\c@subfigure@save=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\sf@top=\skip83
+\sf@bottom=\skip84
 )
 Package caption Info: We need package `newfloat' on input line 25.
 
@@ -603,35 +506,42 @@ Package caption Info: We need package `newfloat' on input line 25.
 Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
+Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.sty
-Package: biblatex_ 2016/03/03 v3.3 programmable bibliographies (biber) (PK/JW/A
-B)
-
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count109
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -639,66 +549,77 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count110
+\lrq@indent=\count109
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count111
-\c@listtotal=\count112
-\c@listcount=\count113
-\c@liststart=\count114
-\c@liststop=\count115
-\c@citecount=\count116
-\c@citetotal=\count117
-\c@multicitecount=\count118
-\c@multicitetotal=\count119
-\c@instcount=\count120
-\c@maxnames=\count121
-\c@minnames=\count122
-\c@maxitems=\count123
-\c@minitems=\count124
-\c@citecounter=\count125
-\c@savedcitecounter=\count126
-\c@uniquelist=\count127
-\c@uniquename=\count128
-\c@refsection=\count129
-\c@refsegment=\count130
-\c@maxextratitle=\count131
-\c@maxextratitleyear=\count132
-\c@maxextrayear=\count133
-\c@maxextraalpha=\count134
-\c@abbrvpenalty=\count135
-\c@highnamepenalty=\count136
-\c@lownamepenalty=\count137
-\c@maxparens=\count138
-\c@parenlevel=\count139
-\blx@tempcnta=\count140
-\blx@tempcntb=\count141
-\blx@tempcntc=\count142
-\blx@maxsection=\count143
-\blx@maxsegment@0=\count144
-\blx@notetype=\count145
-\blx@parenlevel@text=\count146
-\blx@parenlevel@foot=\count147
-\blx@sectionciteorder@0=\count148
-\labelnumberwidth=\skip86
-\labelalphawidth=\skip87
-\biblabelsep=\skip88
-\bibitemsep=\skip89
-\bibnamesep=\skip90
-\bibinitsep=\skip91
-\bibparsep=\skip92
-\bibhang=\skip93
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count110
+\decimalpart=\count111
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count112
+\c@listtotal=\count113
+\c@listcount=\count114
+\c@liststart=\count115
+\c@liststop=\count116
+\c@citecount=\count117
+\c@citetotal=\count118
+\c@multicitecount=\count119
+\c@multicitetotal=\count120
+\c@instcount=\count121
+\c@maxnames=\count122
+\c@minnames=\count123
+\c@maxitems=\count124
+\c@minitems=\count125
+\c@citecounter=\count126
+\c@savedcitecounter=\count127
+\c@uniquelist=\count128
+\c@uniquename=\count129
+\c@refsection=\count130
+\c@refsegment=\count131
+\c@maxextratitle=\count132
+\c@maxextratitleyear=\count133
+\c@maxextrayear=\count134
+\c@maxextraalpha=\count135
+\c@abbrvpenalty=\count136
+\c@highnamepenalty=\count137
+\c@lownamepenalty=\count138
+\c@maxparens=\count139
+\c@parenlevel=\count140
+\blx@tempcnta=\count141
+\blx@tempcntb=\count142
+\blx@tempcntc=\count143
+\blx@maxsection=\count144
+\blx@maxsegment@0=\count145
+\blx@notetype=\count146
+\blx@parenlevel@text=\count147
+\blx@parenlevel@foot=\count148
+\blx@sectionciteorder@0=\count149
+\labelnumberwidth=\skip85
+\labelalphawidth=\skip86
+\biblabelsep=\skip87
+\bibitemsep=\skip88
+\bibnamesep=\skip89
+\bibinitsep=\skip90
+\bibparsep=\skip91
+\bibhang=\skip92
 \blx@bcfin=\read1
-\blx@bcfout=\write3
-\c@mincomprange=\count149
-\c@maxcomprange=\count150
-\c@mincompwidth=\count151
+\blx@bcfout=\write4
+\c@mincomprange=\count150
+\c@maxcomprange=\count151
+\c@mincompwidth=\count152
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -707,136 +628,132 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count152
-\c@savedafterword=\count153
-\c@annotator=\count154
-\c@savedannotator=\count155
-\c@author=\count156
-\c@savedauthor=\count157
-\c@bookauthor=\count158
-\c@savedbookauthor=\count159
-\c@commentator=\count160
-\c@savedcommentator=\count161
-\c@editor=\count162
-\c@savededitor=\count163
-\c@editora=\count164
-\c@savededitora=\count165
-\c@editorb=\count166
-\c@savededitorb=\count167
-\c@editorc=\count168
-\c@savededitorc=\count169
-\c@foreword=\count170
-\c@savedforeword=\count171
-\c@holder=\count172
-\c@savedholder=\count173
-\c@introduction=\count174
-\c@savedintroduction=\count175
-\c@namea=\count176
-\c@savednamea=\count177
-\c@nameb=\count178
-\c@savednameb=\count179
-\c@namec=\count180
-\c@savednamec=\count181
-\c@translator=\count182
-\c@savedtranslator=\count183
-\c@shortauthor=\count184
-\c@savedshortauthor=\count185
-\c@shorteditor=\count186
-\c@savedshorteditor=\count187
-\c@labelname=\count188
-\c@savedlabelname=\count189
-\c@institution=\count190
-\c@savedinstitution=\count191
-\c@lista=\count192
-\c@savedlista=\count193
-\c@listb=\count194
-\c@savedlistb=\count195
-\c@listc=\count196
-\c@savedlistc=\count197
-\c@listd=\count198
-\c@savedlistd=\count199
-\c@liste=\count266
-\c@savedliste=\count267
-\c@listf=\count268
-\c@savedlistf=\count269
-\c@location=\count270
-\c@savedlocation=\count271
-\c@organization=\count272
-\c@savedorganization=\count273
-\c@origlocation=\count274
-\c@savedoriglocation=\count275
-\c@origpublisher=\count276
-\c@savedorigpublisher=\count277
-\c@publisher=\count278
-\c@savedpublisher=\count279
-\c@language=\count280
-\c@savedlanguage=\count281
-\c@pageref=\count282
-\c@savedpageref=\count283
-\shorthandwidth=\skip94
-\shortjournalwidth=\skip95
-\shortserieswidth=\skip96
-\shorttitlewidth=\skip97
-\shortauthorwidth=\skip98
-\shorteditorwidth=\skip99
+\c@afterword=\count153
+\c@savedafterword=\count154
+\c@annotator=\count155
+\c@savedannotator=\count156
+\c@author=\count157
+\c@savedauthor=\count158
+\c@bookauthor=\count159
+\c@savedbookauthor=\count160
+\c@commentator=\count161
+\c@savedcommentator=\count162
+\c@editor=\count163
+\c@savededitor=\count164
+\c@editora=\count165
+\c@savededitora=\count166
+\c@editorb=\count167
+\c@savededitorb=\count168
+\c@editorc=\count169
+\c@savededitorc=\count170
+\c@foreword=\count171
+\c@savedforeword=\count172
+\c@holder=\count173
+\c@savedholder=\count174
+\c@introduction=\count175
+\c@savedintroduction=\count176
+\c@namea=\count177
+\c@savednamea=\count178
+\c@nameb=\count179
+\c@savednameb=\count180
+\c@namec=\count181
+\c@savednamec=\count182
+\c@translator=\count183
+\c@savedtranslator=\count184
+\c@shortauthor=\count185
+\c@savedshortauthor=\count186
+\c@shorteditor=\count187
+\c@savedshorteditor=\count188
+\c@labelname=\count189
+\c@savedlabelname=\count190
+\c@institution=\count191
+\c@savedinstitution=\count192
+\c@lista=\count193
+\c@savedlista=\count194
+\c@listb=\count195
+\c@savedlistb=\count196
+\c@listc=\count197
+\c@savedlistc=\count198
+\c@listd=\count199
+\c@savedlistd=\count266
+\c@liste=\count267
+\c@savedliste=\count268
+\c@listf=\count269
+\c@savedlistf=\count270
+\c@location=\count271
+\c@savedlocation=\count272
+\c@organization=\count273
+\c@savedorganization=\count274
+\c@origlocation=\count275
+\c@savedoriglocation=\count276
+\c@origpublisher=\count277
+\c@savedorigpublisher=\count278
+\c@publisher=\count279
+\c@savedpublisher=\count280
+\c@language=\count281
+\c@savedlanguage=\count282
+\c@pageref=\count283
+\c@savedpageref=\count284
+\shorthandwidth=\skip93
+\shortjournalwidth=\skip94
+\shortserieswidth=\skip95
+\shorttitlewidth=\skip96
+\shortauthorwidth=\skip97
+\shorteditorwidth=\skip98
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
+File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex_.def' found.
+Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
-File: biblatex_.def 
-\c@textcitecount=\count284
-\c@textcitetotal=\count285
-\c@textcitemaxnames=\count286
-\c@biburlnumpenalty=\count287
-\c@biburlucpenalty=\count288
-\c@biburllcpenalty=\count289
-\c@smartand=\count290
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count285
+\c@textcitetotal=\count286
+\c@textcitemaxnames=\count287
+\c@biburlnumpenalty=\count288
+\c@biburlucpenalty=\count289
+\c@biburllcpenalty=\count290
+\c@smartand=\count291
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-File: ieee.bbx 2015/03/12 v1.1k biblatex bibliography style
+File: ieee.bbx 2016/12/30 vvv1.2 biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+File: numeric-comp.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count291
-\c@bbx:relatedtotal=\count292
-)))
-
-Package biblatex Warning: 'firstinits' option is deprecated, use 'giveninits' i
-nstead.
-
-)
+File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count292
+\c@bbx:relatedtotal=\count293
+))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-File: ieee.cbx 2015/03/12 v1.1k biblatex citation style
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2016/12/30 vvv1.2 biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count293
-\c@cbx@tempcntb=\count294
+File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count294
+\c@cbx@tempcntb=\count295
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -857,36 +774,36 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-)))
+))
 \@input{information.aux}
 \openout2 = `information.aux'.
 
 (./information.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip100
+\labelindent=\skip99
 \enit@outerparindent=\dimen120
-\enit@toks=\toks24
+\enit@toks=\toks22
 \enit@inbox=\box28
-\enitdp@description=\count295
+\enitdp@description=\count296
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count296
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count297
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
@@ -897,20 +814,16 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count297
-\Gm@cntv=\count298
-\c@Gm@tempcnt=\count299
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
 \Gm@bindingoffset=\dimen123
 \Gm@wd@mp=\dimen124
 \Gm@odd@mp=\dimen125
@@ -919,41 +832,42 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen128
 \Gm@layouthoffset=\dimen129
 \Gm@layoutvoffset=\dimen130
-\Gm@dimlist=\toks25
+\Gm@dimlist=\toks23
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip101
-\f@ncyO@elh=\skip102
-\f@ncyO@erh=\skip103
-\f@ncyO@olh=\skip104
-\f@ncyO@orh=\skip105
-\f@ncyO@elf=\skip106
-\f@ncyO@erf=\skip107
-\f@ncyO@olf=\skip108
-\f@ncyO@orf=\skip109
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip100
+\f@ncyO@elh=\skip101
+\f@ncyO@erh=\skip102
+\f@ncyO@olh=\skip103
+\f@ncyO@orh=\skip104
+\f@ncyO@elf=\skip105
+\f@ncyO@erf=\skip106
+\f@ncyO@olf=\skip107
+\f@ncyO@orf=\skip108
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box29
-\beforetitleunit=\skip110
-\aftertitleunit=\skip111
+\beforetitleunit=\skip109
+\aftertitleunit=\skip110
 \ttl@plus=\dimen131
 \ttl@minus=\dimen132
-\ttl@toksa=\toks26
+\ttl@toksa=\toks24
 \titlewidth=\dimen133
 \titlewidthlast=\dimen134
 \titlewidthfirst=\dimen135
 )
-\enitdp@abbrv=\count300
+\enitdp@abbrv=\count301
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count301
-\@quotereset=\count302
+\@quotelevel=\count302
+\@quotereset=\count303
  (./main.aux)
 \openout1 = `main.aux'.
 
@@ -969,67 +883,47 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 25.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 25.
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
-File: mdacmr.fd 
-)
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 25.
-LaTeX Font Info:    Try loading font information for MDB+cmr on input line 25.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
-File: mdbcmr.fd 
-)
-LaTeX Font Info:    ... okay on input line 25.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 25.
 Package biblatex Info: Reference segment=0 on input line 25.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
+\scratchcounter=\count304
 \scratchdimen=\dimen136
 \scratchbox=\box30
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count306
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count307
 \MPscratchDim=\dimen137
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -1070,91 +964,12 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./frontPages/0a.tex
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 13.82408pt on input line 10.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 13.82408pt on input line 12.
-
 <frontPages/ytu_logo.png, id=1, 984.67876pt x 972.63374pt>
 File: frontPages/ytu_logo.png Graphic file (type png)
 
 <use frontPages/ytu_logo.png>
 Package pdftex.def Info: frontPages/ytu_logo.png used on input line 15.
 (pdftex.def)             Requested size: 106.69783pt x 105.38719pt.
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 18.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 22
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
-File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
-)
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 22
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
-File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
-)
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 22
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
-File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
-)
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 22
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
-File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
-)
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 22
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
-File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
-)
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 16.58891pt on input line 22.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 22.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 22.
  [1
 
 
@@ -1162,146 +977,95 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./frontPages/ytu_logo.png>
 ]
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 56.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 56.
-LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 56.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
 
-[1] [2
-
-]
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 23.88496pt on input line 88.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 23.88496pt on input line 88.
- (./main.toc
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-\tf@toc=\write4
-\openout4 = `main.toc'.
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 56.
+ [1] [2
 
-) (./frontPages/0b2-listofabbrevations.tex [3
+] (./main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
-] [4])
-(./frontPages/0b3-lists.tex
-\mylen=\skip112
-\tempp=\skip113
- [5
+)
+(./frontPages/0b2-listofabbrevations.tex [3
 
-] [6
+] [4]) (./frontPages/0b3-lists.tex
+\mylen=\skip111
+\tempp=\skip112
 
-]
-Underfull \hbox (badness 3029) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 ayr^^Yca yap^^Ylacak gezilerde varsa kullan^^Ylan ula³^^Ym ara
-çlar^^Yn^^Yn neler oldu§unu
+[5
+
+] (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [6
+
+] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [7
+
+] [8
+
+] [9]
+Underfull \hbox (badness 1122) in paragraph at lines 83--83
+\T1/cmr/m/n/12 ayr^^Yca yap^^Ylacak gezilerde varsa kullan^^Ylan ula³^^Ym araçl
+ar^^Yn^^Yn neler oldu§unu
  []
 
+[10
 
-Underfull \hbox (badness 2261) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 alg^^Ylayabilecek bir sistem geli³tirilecektir. Tak^^Ym olarak
- düzenlenen gezilerde
- []
-
-
-Underfull \hbox (badness 2205) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 kullan^^Yc^^Ylar, tak^^Ym üyelerinin birbirini takip etmesi am
-ac^^Yyla tak^^Ym içi konum
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 payla³^^Ym^^Yn^^Y internet arac^^Yl^^Y§^^Y ile yapabilecektir.
- Bir kullan^^Yc^^Yn^^Yn veya tak^^Ym^^Yn
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 83--83
-\T1/mdbch/m/n/12 amac^^Yyla bir sosyal medya ortam^^Y olu³turmas^^Y gerekecekti
-r. Kullan^^Yc^^Ylar aras^^Y
- []
-
-) [7
-
-] (./projectChapters/1-chapter.tex
+]) [11] (./projectChapters/1-chapter.tex
  1.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 28.8002pt on input line 1.
 [1
 
 
 ]) (./projectChapters/2-chapter.tex [2]
  2.
+
+Underfull \hbox (badness 1024) in paragraph at lines 7--8
+\T1/cmr/m/n/12 workouts with RunKeeper account, auto-Lap for each mile/kilomete
+r, audio
+ []
+
 ) (./projectChapters/3-chapter.tex [3
 
 ] [4]
  3.
-
-Underfull \hbox (badness 1527) in paragraph at lines 11--15
-\T1/mdbch/m/n/12 workings we decided to do server side programming with Java pr
-ogramming
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 20--21
-\T1/mdbch/m/n/12 developed should be at a level that meets the minimum system r
-equirements
- []
-
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 [5
 
-] [6] <projectChapters/images/gantt.png, id=55, 861.9703pt x 351.56343pt>
+] [6] <projectChapters/images/gantt.png, id=72, 861.9703pt x 351.56343pt>
 File: projectChapters/images/gantt.png Graphic file (type png)
 
 <use projectChapters/images/gantt.png>
-Package pdftex.def Info: projectChapters/images/gantt.png used on input line 62
+Package pdftex.def Info: projectChapters/images/gantt.png used on input line 63
 .
 (pdftex.def)             Requested size: 426.79135pt x 174.0754pt.
 
-Underfull \hbox (badness 3078) in paragraph at lines 72--73
-\T1/mdbch/m/n/12 There is no charge for software components to be used during a
-pplication
+Underfull \hbox (badness 1107) in paragraph at lines 73--74
+\T1/cmr/m/n/12 There is no charge for software components to be used during app
+lication
  []
 
+[7 <./projectChapters/images/gantt.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 74.
+               Default added (so using `tbp') on input line 75.
 
-) (./projectChapters/4-chapter.tex [7 <./projectChapters/images/gantt.png>]
-[8]
+) (./projectChapters/4-chapter.tex [8]
  4.
 [9
 
 ] [10]
-<projectChapters/images/databaseDesign.png, id=68, 664.4825pt x 742.775pt>
+<projectChapters/images/databaseDesign.png, id=86, 664.4825pt x 742.775pt>
 File: projectChapters/images/databaseDesign.png Graphic file (type png)
 
 <use projectChapters/images/databaseDesign.png>
@@ -1309,7 +1073,7 @@ Package pdftex.def Info: projectChapters/images/databaseDesign.png used on inpu
 t line 31.
 (pdftex.def)             Requested size: 426.79135pt x 477.08578pt.
 
-<projectChapters/images/backend1.png, id=69, 1121.18875pt x 433.62pt>
+<projectChapters/images/backend1.png, id=87, 1121.18875pt x 433.62pt>
 File: projectChapters/images/backend1.png Graphic file (type png)
 
 <use projectChapters/images/backend1.png>
@@ -1317,7 +1081,7 @@ Package pdftex.def Info: projectChapters/images/backend1.png used on input line
  38.
 (pdftex.def)             Requested size: 426.79135pt x 165.06181pt.
 
-<projectChapters/images/backend2.png, id=70, 1041.8925pt x 624.3325pt>
+<projectChapters/images/backend2.png, id=88, 1041.8925pt x 624.3325pt>
 File: projectChapters/images/backend2.png Graphic file (type png)
 
 <use projectChapters/images/backend2.png>
@@ -1325,7 +1089,7 @@ Package pdftex.def Info: projectChapters/images/backend2.png used on input line
  44.
 (pdftex.def)             Requested size: 426.79135pt x 255.74934pt.
 
-<projectChapters/images/backend3.png, id=71, 1023.825pt x 472.76625pt>
+<projectChapters/images/backend3.png, id=89, 1023.825pt x 472.76625pt>
 File: projectChapters/images/backend3.png Graphic file (type png)
 
 <use projectChapters/images/backend3.png>
@@ -1335,53 +1099,43 @@ Package pdftex.def Info: projectChapters/images/backend3.png used on input line
 ) [11 <./projectChapters/images/databaseDesign.png>] [12 <./projectChapters/ima
 ges/backend1.png (PNG copy)> <./projectChapters/images/backend2.png (PNG copy)>
 ] [13 <./projectChapters/images/backend3.png (PNG copy)>]
-LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
-(Font)              scaled to size 12.86407pt on input line 65.
- [14
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+[14
 
-] (./frontPages/cv.tex)
-Underfull \hbox (badness 2173) in paragraph at lines 28--71
-\T1/mdbch/m/n/12 Spring Boot,Javascript, AngularJS, Mocha and Chai, Bootstrap, 
-CSS, Android
- []
-
-[15
+] (./frontPages/cv.tex) [15
 
 ] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12556 strings out of 494953
- 201915 string characters out of 6180976
- 584991 words of memory out of 5000000
- 15580 multiletter control sequences out of 15000+600000
- 47368 words of font info for 81 fonts, out of 8000000 for 9000
+ 12102 strings out of 494945
+ 199544 string characters out of 6181031
+ 623469 words of memory out of 5000000
+ 15190 multiletter control sequences out of 15000+600000
+ 16483 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,10n,98p,1622b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/murat/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.643pk>{/usr/sha
-re/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
-f-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/mathdesign/mdbch/md-chb7y.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/mathdesign/mdbch/md-chr7y.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on main.pdf (23 pages, 299647 bytes).
+ 51i,10n,45p,1934b,1155s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600
+pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2986.60
+0pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.6
+00pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.
+600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440
+.600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm120
+0.600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm17
+28.600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+728.600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
+1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on main.pdf (27 pages, 372385 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 481 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

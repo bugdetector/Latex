@@ -2,9 +2,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LIST OF ABBREVIATIONS}{v}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ABSTRACT}{vi}
+\contentsline {chapter}{LIST OF FIGURES}{vi}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\IeC {\"O}ZET}{vii}
+\contentsline {chapter}{LIST OF TABLES}{vii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ABSTRACT}{viii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\IeC {\"O}ZET}{x}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \defcounter {refsection}{0}\relax 
