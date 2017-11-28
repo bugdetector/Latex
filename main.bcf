@@ -2126,6 +2126,20 @@
     <bcf:citekey order="3">routetracker</bcf:citekey>
     <bcf:citekey order="4">polarsteps</bcf:citekey>
     <bcf:citekey order="5">googlemap</bcf:citekey>
+    <bcf:citekey order="6">android</bcf:citekey>
+    <bcf:citekey order="7">androidStudio</bcf:citekey>
+    <bcf:citekey order="8">androidStudioSqlite</bcf:citekey>
+    <bcf:citekey order="9">androidEmulator</bcf:citekey>
+    <bcf:citekey order="10">googleMapAPI</bcf:citekey>
+    <bcf:citekey order="11">scaleway</bcf:citekey>
+    <bcf:citekey order="12">linuxMinimumSystemRequirements</bcf:citekey>
+    <bcf:citekey order="13">androidMinimumSystemRequirements</bcf:citekey>
+    <bcf:citekey order="14">androidMinimumSystemRequirements</bcf:citekey>
+    <bcf:citekey order="15">microsoft</bcf:citekey>
+    <bcf:citekey order="16">androidMinimumSystemRequirements</bcf:citekey>
+    <bcf:citekey order="17">mysql</bcf:citekey>
+    <bcf:citekey order="18">mysql</bcf:citekey>
+    <bcf:citekey order="19">zip</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

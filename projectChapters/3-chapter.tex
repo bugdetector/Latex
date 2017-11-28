@@ -7,49 +7,167 @@ This system needs requirements listed below:
 \end{itemize}
 
 \section{Technic Feasibility}
-In this section there are descriptions about software feasibility and hardware feasibility.
+As technical feasibility study, the software and hardware needs for the project is defined on the following sections.
 \subsection{Software Feasibility}
-In this subsection there are descriptions about choosing database system, web server system, development language and development enviroment.
-As a result of feasibility workings we decided to do server side programming with Java programming language. Because of two of developers working of this project knows Java well, Java is object oriented language, Android can be programming with Java natively, sources about Java can be found easily and Java can run both Android and server.
-We don't choosen any cross platform tools for mobile development. Because mobile application must require low power consuption, so that development must be native.
-Mobile application will be written for only Android because of anyone in our team doesn't have a MacBook to develop for iOS.
+
+In this project a web and a mobile application will be developed. The following software
+technologies will be used.
+
+\textbf{Mobile Side Development}
+\newline
+The tools and development environments used for mobile side development of the
+project are mentioned below.
+\newline
+\newline
+• Android: Android is a mobile operating system based on the Linux kernel. Its
+source code is licensed under open source licenses and it is developing by Google
+and Open Handset Alliance. The top layer of Android’s architecture is called
+The Application Framework layer and it provides many higher-level services to
+applications in the form of Java classes. Android was chosen over iOS because
+of publishing problems, restrictions and lack of design guidelines that come with
+iOS\cite{android}.
+\newline
+• Android Studio: Android Studio is the official IDE for Android application
+development, based on IntelliJ IDEA. Android Studio offers some advantages
+over Eclipse, such as Gradle based flexible build system, advanced layout editor,
+built-in Git source control and Maven library support\cite{androidStudio}.
+\newline
+
+• Android Sqlite Database: SQLite is a opensource SQL database that stores data to a text file on a device. Android comes in with built in SQLite database implementation. SQLite supports all the relational database features\cite{androidStudioSqlite}.
+\newline
+
+• Android Emulator: Android emulator lets prototype, develop and test Android applications without using a physical device\cite{androidEmulator}.
+\newline
+
+• Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization\cite{googleMapAPI}.
+\newline
+\textbf{Server Side Development}
+
+\newline
+The tools and development environments used for server side development of the
+project are mentioned below.
+\newline
+• Java EE:
+
+• Eclipse:
+
+• Sublime Text:
+
+• MySQL Workbench:
+
+• STS:
+
+• Google Map API:
+
 
 \subsection{Hardware Feasibility}
-For a small number of users like 1 to 100 it is enough to use 1 GB RAM and 100 GB disk. But for astronomical number of users there must be a cloud storage and powerful servers. For a solution for this scaling problem server side of this project will be setting on AWS.
+The minimum and recommended hardware requirements for each program/IDE and
+a system requirement compilation for development is shown in Table 3.1 based on
+the requirements.
+
+For this project we selected to rent a cloud computing system for make this project scalable. Scaleway\cite{scaleway} provides cloud computing services. Scaleway can provide multiple datacenters on different locations and developer tools on the machines. We selected scaleway for renting cloud server(s). Starter package is enough for this project at startup.
+
+\begin{table}[!ht]
+\centering
+\caption{Scaleway package options}
+\label{minreq}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Specification}& \textbf{Starter} & \textbf{C2}  & \textbf{ARM64} & \textbf{C1} \\ \hline
+CPU                             & 2x86 64bit & 8x86 64bit  & 8xARMv8 & 4xARMv7 \\ \hline
+RAM                             & 2GB & 32GB & 8GB & 2GB \\ \hline
+Storage                         & 50GB SSD & 50GB SSD & 200GB SSD & 50GB SSD \\ \hline
+Number of public IPv4  & 1 & 1 & 1 & 1  \\ \hline
+Bandwidth                       & 200Mbit/s & 800Mbit/s & 200Mbit/s & 200Mbit/s \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!ht]
+\centering
+\caption{Minimum System Requirement for Mobile Application Development}
+\label{minreq}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Software}& \textbf{CPU} & \textbf{RAM}  & \textbf{Storage} \\ \hline
+Linux OS\cite{linuxMinimumSystemRequirements} & 1GHz & 512 MB & 8 GB \\ \hline
+Android Studio\cite{androidMinimumSystemRequirements} & 1.6GHz & 3 GB RAM  & 8GB(500MB for IDE, 7.5 GB for SDK) \\ \hline
+Android Emulator\cite{androidMinimumSystemRequirements} & unknown & 1GB & 1.5 GB \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!ht]
+\centering
+\caption{Minimum System Requirement for Server Side Application Development}
+\label{minreq}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Software}& \textbf{CPU} & \textbf{RAM}  & \textbf{Storage} \\ \hline
+Windows OS\cite{microsoft} & 1GHz & 2 MB & 20 GB \\ \hline
+Eclipse\cite{androidMinimumSystemRequirements} & 1.5GHz & 1 GB RAM  & 1 GB  \\ \hline
+MySQL\cite{mysql} & 2 core & 2GB & 800 MB \\ \hline
+MySQL Workbench\cite{mysql} & unknown & 4GB & 200 MB \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!ht]
+\centering
+\caption{Android Hardware Requirements}
+\label{androidhardware}
+\begin{tabular}{|c|c|c|c|}
+\hline
+            & \textbf{Minimum}    & \textbf{Recommended} \\\hline
+CPU & 1 Ghz      & 2 Ghz     \\\hline
+RAM       & 512 MB       & 2 GB        \\\hline
+Storage   & 2 GB       & 8 GB       \\\hline
+\end{tabular}
+\end{table}
+
+\subsection{Communication Feasibility}
+The Internet is the main communication technology used in this project. The
+anticipated communication variables are shown in Table \ref{table:commparameters}
+
+\begin{table}[!ht]
+\centering
+\caption{Communication parameters}
+\label{table:commparameters}
+\begin{tabular}{|l|l|r|r|}
+\hline
+\textbf{Description}                                                                   & \multicolumn{1}{l|}{\textbf{Symbol}} & \multicolumn{1}{l|}{\textbf{Values}} \\ \hline
+Average Path Size & A  & 50 kB \\ \hline
+Average Video Size & B & 10 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Video Number\\Per User\end{tabular} & C & 4 \\ \hline
+Average Photo Size & D & 2 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Photo Number\\Per User\end{tabular} & E & 20 \\ \hline
+Average Sound Record Size & F & 1 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Sound Record\\Number Per User\end{tabular} & G & 1 \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Number Of\\Members in Trip\end{tabular} & H & 2 \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Mobile(Unzipped)\end{tabular}  & I & 81 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Web(Unzipped)\end{tabular}  & J & 162 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Mobile(Zipped)\end{tabular}  & K & 113 MB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Number of\\Upload Rate\end{tabular}  & L & 25/month \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Number of\\Download Rate\end{tabular}  & M & 50/month \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Size of\\Uploaded Trips\end{tabular}  & N & 2 GB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Size of\\Downloaded Trips\end{tabular}  & O & 8 GB \\ \hline
+\begin{tabular}[c]{@{}l@{}}Supposed Number\\of Users\end{tabular}  & P & 100 \\ \hline
+\begin{tabular}[c]{@{}l@{}}Average Zip\\Compression Ratio\end{tabular}  & R & 30\%\cite{zip} \\ \hline
+\begin{tabular}[c]{@{}l@{}}Server Data Rate\\Per Month\end{tabular}  & S & 10 GB \\ \hline
+\end{tabular}
+\end{table}
 
 
-For the requirements mentioned above the computer which the project is to be developed should be at a level that meets the minimum system requirements mentioned below separeted by mobile and server side.
+I = G * F + E * D + C * B + A
 
-For Server Side Development:
-\begin{itemize}
-    \item JDK 1.8
-    \item Spring Tool Suit, Spring Boot
-    \item Eclipse, Java IDE
-    \item Sublime text, gedit etc. text editor
-    \item Apache Tomcat or Glassfish
-    \item Access key to use Google Maps API
-    \item A Browser to render HTML and Javascript
-    \item 8 GB RAM minimum, 16 GB RAM recommended
-    \item Minimum 250GB Free Disk Space    
-    \item Linux or Windows Operating System.
-    \item Git
-    
-\end{itemize}
+J = I * H
 
-For Mobile Application Development:
-\begin{itemize}
-    \item JDK 1.8
-    \item Android Studio
-    \item Android SDK
-    \item Android Emulator
-    \item Android System Images
-    \item Access key to use Google Maps API
-    \item 8 GB RAM and 8 GB swap area minimum, 16 GB RAM recommended
-    \item Minimum 250GB Free Disk Space
-    \item Linux or Windows Operating System.
-    \item Git    
-\end{itemize}
+K = I * (1-R)
 
+N = I * L
+
+O = J * M
+
+S = O + N
+
+Based on the calculations above, the monthly data size will be around 10 GB. Scaleway provide 2 GB ram and 50 GB storage with expandable options. As a result these properties are sufficent.
 
 \section{Labor Force Feasibility}
 There are two people needed for developing mobile and server side of system concurrently.
@@ -66,7 +184,10 @@ Gannt diagram shown below.
 
 
 \section{Legitimate Feasibility}
-There are no patent infringements as the software components to be used in the development phase of the project are open source and free of charge. Users are responsible for the legal problems that may arise due to the shares they have made according to Article 8 of Law No. 5651 and Article 125 of the Turkish Penal Code.
+Software which is used within the project does not face any legal issues. All of the
+software used in the project contain license requirements. Users are responsible for
+all shared content. The users are responsible of their well being. So any misusing of 
+any sharing content is their risk. So sharing and publishing content is on their own risk.
 
 
 \section{Economic Feasibility}
