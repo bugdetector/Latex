@@ -18,7 +18,6 @@ technologies will be used.
 The tools and development environments used for mobile side development of the
 project are mentioned below.
 \newline
-\newline
 • Android: Android is a mobile operating system based on the Linux kernel. Its
 source code is licensed under open source licenses and it is developing by Google
 and Open Handset Alliance. The top layer of Android’s architecture is called
@@ -41,9 +40,9 @@ built-in Git source control and Maven library support\cite{androidStudio}.
 
 • Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization\cite{googleMapAPI}.
 \newline
+
 \textbf{Server Side Development}
 
-\newline
 The tools and development environments used for server side development of the
 project are mentioned below.
 \newline
@@ -123,8 +122,10 @@ Storage   & 2 GB       & 8 GB       \\\hline
 \end{table}
 
 \subsection{Communication Feasibility}
+
+Media files and path files are seperately stored on users android device. It so hard to send all of trip data one by one to one device to another without any loss. So we thought about that to compressing all files in a zip file before sending from mobile device to web server or vice versa. So we sended all data in one file. Also we will use less data bandwidth with compress all files in a zip file.
 The Internet is the main communication technology used in this project. The
-anticipated communication variables are shown in Table \ref{table:commparameters}
+anticipated communication variables are shown in Table \ref{table:commparameters}.
 
 \begin{table}[!ht]
 \centering
@@ -191,7 +192,44 @@ any sharing content is their risk. So sharing and publishing content is on their
 
 
 \section{Economic Feasibility}
-There is no charge for software components to be used during application development. The hourly working fee of the person who will develop the project is 25 TL per person. The total cost determined for the project during the project development period stated in the Gantt Chart is 8000 TL. The price of a computer with minimum system requirements stated in the title of hardware feasibility which costs currently between 1500 and 2500 TL. Price of Google Map API is 4\$ and 15 TL per month. Price of AWS is 15\$ and 60 TL per month.
+The salary determined by the government of the Republic of Turkey for engineers
+is 3.500 TL\cite{muhendisMaas}. The amount of assumed work days in a month is 21 days. The
+individual and general cost of the personnel and features
+the cost of hardware and software used for development are shown below.
+
+\begin{table}[!h!]
+\centering
+\caption{Personnel cost table}
+\label{tab:maas}
+\begin{tabular}{|l|r|r|r|}
+\hline
+& \multicolumn{1}{l|}{\textbf{Time(Day)}} & \multicolumn{1}{l|}{\textbf{Price(TL/Day)}} & \multicolumn{1}{l|}{\textbf{Total(TL)}} \\ \hline
+System Programmer   & 37                                      & 170 TL                                      & 6.290 TL                                 \\ \hline
+System Analyst      & 29                                      & 170 TL                                      & 4.930 TL                                 \\ \hline
+System Designer     & 10                                      & 170 TL                                      & 1.700 TL                                 \\ \hline
+Project Coordinator & 4                                       & 170 TL                                      & 680,TL                                  \\ \hline
+General Total:      & \multicolumn{3}{r|}{13.600 TL}                                                                                                  \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!h!]
+\centering
+\caption{Hardware and software used for development cost table}
+\label{tab:hardsoftcost}
+\begin{tabular}{|l|r|}
+\hline
+\textbf{Components}             & \multicolumn{1}{l|}{\textbf{Price}} \\ \hline
+Eclipse \cite{eclipse} & Free \\ \hline
+Android Studio \cite{androidStudio} & Free \\ \hline
+2* Dell Vostro 5468 & 662 TL \\ \hline
+General Mobile GM6 \cite{gm6} & 375 TL                            \\ \hline
+2* Github Account                  & Free                             \\ \hline
+Scaleway Server                  & 15TL/monthly                             \\ \hline
+General Total:                  & 1.112 TL                            \\ \hline
+\end{tabular}
+\end{table}
+The cost of computers used in the development process in 3181 TL\cite{dell}. In the process 2 computer were used. A computer can be used for 2 years so 48 months in average lifetime. From here, we will find the cost of computer as 662TL. General Mobile GM6 used in the development process is 900 TL\cite{gm6}. It can be used for 12 months in average lifetime. From here we will find the cost of phone as 375 TL. Considering these expenditures, the cost of development of our project is X TL.
+
 
 \begin{table}[]
 \centering
