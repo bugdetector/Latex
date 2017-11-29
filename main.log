@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 01:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 03:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,17 +997,16 @@ LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 56.
  [1] [2
 
-] (./main.toc)
+] (./main.toc
+[3
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-)
-(./frontPages/0b2-listofabbrevations.tex [3
-
-] [4]) (./frontPages/0b3-lists.tex
+) (./frontPages/0b2-listofabbrevations.tex [4]) (./frontPages/0b3-lists.tex
 \mylen=\skip111
 \tempp=\skip112
-
 [5
 
 ] (./main.lof)
@@ -1102,52 +1101,64 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9 <./projectChapters/images/gantt.png>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 234.
-
-) (./projectChapters/4-chapter.tex [10]
+) (./projectChapters/4-chapter.tex [9 <./projectChapters/images/gantt.png>]
+[10]
  4.
 [11
 
-] [12]
-<projectChapters/images/databaseDesign.png, id=92, 664.4825pt x 742.775pt>
+]
+Underfull \hbox (badness 3884) in paragraph at lines 33--34
+\T1/cmr/m/n/12 This module runs as a background task on Android device and save
+s
+ []
+
+[12] [13]
+<projectChapters/images/databaseDesign.png, id=96, 664.4825pt x 742.775pt>
 File: projectChapters/images/databaseDesign.png Graphic file (type png)
 
 <use projectChapters/images/databaseDesign.png>
 Package pdftex.def Info: projectChapters/images/databaseDesign.png used on inpu
-t line 31.
+t line 54.
 (pdftex.def)             Requested size: 426.79135pt x 477.08578pt.
 
-<projectChapters/images/backend1.png, id=93, 1121.18875pt x 433.62pt>
+<projectChapters/images/backend1.png, id=97, 1121.18875pt x 433.62pt>
 File: projectChapters/images/backend1.png Graphic file (type png)
 
 <use projectChapters/images/backend1.png>
 Package pdftex.def Info: projectChapters/images/backend1.png used on input line
- 38.
+ 61.
 (pdftex.def)             Requested size: 426.79135pt x 165.06181pt.
 
-<projectChapters/images/backend2.png, id=94, 1041.8925pt x 624.3325pt>
+<projectChapters/images/backend2.png, id=98, 1041.8925pt x 624.3325pt>
 File: projectChapters/images/backend2.png Graphic file (type png)
 
 <use projectChapters/images/backend2.png>
 Package pdftex.def Info: projectChapters/images/backend2.png used on input line
- 44.
+ 67.
 (pdftex.def)             Requested size: 426.79135pt x 255.74934pt.
 
-<projectChapters/images/backend3.png, id=95, 1023.825pt x 472.76625pt>
+<projectChapters/images/backend3.png, id=99, 1023.825pt x 472.76625pt>
 File: projectChapters/images/backend3.png Graphic file (type png)
 
 <use projectChapters/images/backend3.png>
 Package pdftex.def Info: projectChapters/images/backend3.png used on input line
- 51.
+ 74.
 (pdftex.def)             Requested size: 426.79135pt x 197.07442pt.
-) [13 <./projectChapters/images/databaseDesign.png>] [14 <./projectChapters/ima
+
+<projectChapters/images/android_database.png, id=100, 653.44125pt x 398.48875pt
+>
+File: projectChapters/images/android_database.png Graphic file (type png)
+ <use projectChapters/images/android_database.png>
+Package pdftex.def Info: projectChapters/images/android_database.png used on in
+put line 80.
+(pdftex.def)             Requested size: 426.79135pt x 260.26718pt.
+) [14 <./projectChapters/images/databaseDesign.png>] [15 <./projectChapters/ima
 ges/backend1.png (PNG copy)> <./projectChapters/images/backend2.png (PNG copy)>
-] [15 <./projectChapters/images/backend3.png (PNG copy)>]
+] [16 <./projectChapters/images/backend3.png (PNG copy)> <./projectChapters/ima
+ges/android_database.png>]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Underfull \hbox (badness 1400) in paragraph at lines 65--65
@@ -1161,7 +1172,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 65--65
 e].
  []
 
-[16
+[17
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 65--65
@@ -1199,7 +1210,7 @@ Underfull \hbox (badness 1406) in paragraph at lines 65--65
 r/m/n/12 (visited on
  []
 
-[17] (./frontPages/cv.tex) [18
+[18] (./frontPages/cv.tex) [19
 
 ] (./main.aux)
 
@@ -1210,13 +1221,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12137 strings out of 494945
- 200757 string characters out of 6181031
- 635310 words of memory out of 5000000
- 15225 multiletter control sequences out of 15000+600000
+ 12139 strings out of 494945
+ 200934 string characters out of 6181031
+ 635299 words of memory out of 5000000
+ 15226 multiletter control sequences out of 15000+600000
  16483 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 51i,13n,45p,1934b,1168s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,13n,45p,1934b,1166s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600
 pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2986.60
 0pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.6
@@ -1228,10 +1239,10 @@ pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2986.60
 728.600pk> </home/murat/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
 1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (30 pages, 399050 bytes).
+Output written on main.pdf (31 pages, 420470 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 549 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
