@@ -1,44 +1,47 @@
 \chapter{Feasibility}
-This system needs requirements listed below:
+This system requirements are listed below:
 \begin{itemize}
-    \item This system needs real time location of user. So this system needs to run on mobile devices.
+    \item This system needs real time location of a user. The mobile phones have already a GPS sensor so this system needs to run on a mobile device.
     \item This system must provide interaction within users. So to provide intraction of multiple mobile devices this system needs a server side application.
     \item In process of development to provide version controlling Git must used as VCS.
 \end{itemize}
 
 \section{Technic Feasibility}
-As technical feasibility study, the software and hardware needs for the project is defined on the following sections.
+As technical feasibility study, the software, hardware, communication, labor force, legal and economical needs for the project is defined on the following sections.
 \subsection{Software Feasibility}
 
-In this project a web and a mobile application will be developed. The following software
-technologies will be used.
+This project depends on web and mobile technologies.
 
 \textbf{Mobile Side Development}
 \newline
 The tools and development environments used for mobile side development of the
 project are mentioned below.
 \newline
-• Android: Android is a mobile operating system based on the Linux kernel. Its
+• Android \cite{android}: Android is a mobile operating system based on the Linux kernel. Its
 source code is licensed under open source licenses and it is developing by Google
 and Open Handset Alliance. The top layer of Android’s architecture is called
 The Application Framework layer and it provides many higher-level services to
-applications in the form of Java classes. Android was chosen over iOS because
+applications in the form of Java classes. Android was chosen over iOS \cite{iOS} because
 of publishing problems, restrictions and lack of design guidelines that come with
-iOS\cite{android}.
+iOS.
 \newline
 • Android Studio: Android Studio is the official IDE for Android application
 development, based on IntelliJ IDEA. Android Studio offers some advantages
 over Eclipse, such as Gradle based flexible build system, advanced layout editor,
-built-in Git source control and Maven library support\cite{androidStudio}.
+built-in Git source control and Maven library support \cite{androidStudio}.
 \newline
 
-• Android Sqlite Database: SQLite is a opensource SQL database that stores data to a text file on a device. Android comes in with built in SQLite database implementation. SQLite supports all the relational database features\cite{androidStudioSqlite}.
+• Android Sqlite Database: SQLite is a opensource SQL database that stores data to a text file on a device. Android comes in with built in SQLite database implementation. SQLite supports all the relational database features \cite{androidStudioSqlite}.
 \newline
 
-• Android Emulator: Android emulator lets prototype, develop and test Android applications without using a physical device\cite{androidEmulator}.
+• Android Emulator: Android emulator lets prototype, develop and test Android applications without using a physical device \cite{androidEmulator}.
 \newline
 
-• Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization\cite{googleMapAPI}.
+• Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization \cite{googleMapAPI}.
+\newline
+
+• Operating System: An operating system in required for developing mobile application. Android Studio and Android Emulator can run on Windows, Linux or Mac OS \cite{mac}. We prefer to use Linux, because Linux needs low system properties and it's free to use. 
+
 \newline
 
 \textbf{Server Side Development}
@@ -54,12 +57,11 @@ We have chosen JAVA EE platform because it is widely used by developers, its com
 Eclipse can be used as an IDE for any programming language for which a plug-in is available. Eclipse has support for JAVA EE and Spring projects within its marketplace there are few IDEs that have these functionalities but Eclipse is open source and free.
 
 
-• Sublime Text: Sublime Text is a proprietary cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and functions can be added by users with plugins, typically community-built and maintained under free-software licenses. \cite{sublimeTanim}
+• Sublime Text: Sublime Text is a proprietary cross-platform source code editor with a Python API. It natively supports many programming languages and markup languages, and functions can be added by users with plugins, typically community-built and maintained under free-software licenses. \cite{sublimeTanim}
 Sublime Text is one of the greatest text editor in the world, almost every programming language is supported, we chosen it because of its Angular JS editing skills.
 
 
-• MySQL : A database is a structured collection of data. It may be anything from a simple shopping list to a picture gallery or the vast amounts of information in a corporate network.
-\cite{mySQLTanim}
+• MySQL : A database is a structured collection of data. It may be anything from a simple shopping list to a picture gallery or the vast amounts of information in a corporate network. \cite{mySQLTanim}
  MySQL is open-source and free. Developers didn't need to pay licence fee, also it gets updates regularly which makes it reliable.
 
 
@@ -67,17 +69,17 @@ Sublime Text is one of the greatest text editor in the world, almost every progr
 It is best option for MySQL development platform, when we compare to others such as Apache PhpMyAdmin it contains reverse and forward engineering tools, embedded uml diagram chart drawer tools, generating tables from models without complexity.
 
 
-• Bootstrap: Bootstrap is a front-end development framework that enables developers and designers to quickly build fully responsive websites. The framework contains global CSS settings with built-in components and extensible classes in the form of typography, navigation, buttons and many other html elements.\cite{BootstrapTanim}
+• Bootstrap: Bootstrap is a front-end development framework that enables developers and designers to quickly build fully responsive websites. The framework contains global CSS settings with built-in components and extensible classes in the form of typography, navigation, buttons and many other html elements. \cite{BootstrapTanim}
  We have chosen bootstrap because bootstrap equals platform in dependency, by developing on Bootstrap developers are able to run their code on every size of device such as phones,tables,computers,laptops and so on.
 
 
-• Angular JS: AngularJS is a MVVM platform.  AngularJS is a structural framework for dynamic web applications. It lets you use HTML as your template language and lets you extend HTML’s syntax to express your application's components clearly and succinctly. AngularJS’s data binding and dependency injection eliminate much of the code you would otherwise have to write.\cite{AngularJSTanim}
+• Angular JS: AngularJS is a MVVM platform.  AngularJS is a structural framework for dynamic web applications. It lets you use HTML as your template language and lets you extend HTML’s syntax to express your application's components clearly and succinctly. AngularJS’s data binding and dependency injection eliminate much of the code you would otherwise have to write. \cite{AngularJSTanim}
  We have chosen Angular JS because it is officially supported and created by the Google. What that means is that it is more reliable than others. Also it has more libraries than other frameworks its community larger than others.
 
-• Javascript : Javascript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.\cite{JavascriptTanim}
+• Javascript : Javascript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities. \cite{JavascriptTanim}
  We have chosen it because it is almost only option for front end development. 
 
-• Apache Tomcat : The Apache Tomcat software is an open source implementation of the Java Servlet, Java Server Pages, Java Expression Language and Java Web Socket technologies. The Java Servlet, Java Server Pages, Java Expression Language and Java WebSocket specification are developed under the Java Community Process.\cite{TomcatTanim}
+• Apache Tomcat : The Apache Tomcat software is an open source implementation of the Java Servlet, Java Server Pages, Java Expression Language and Java Web Socket technologies. The Java Servlet, Java Server Pages, Java Expression Language and Java WebSocket specification are developed under the Java Community Process. \cite{TomcatTanim}
  We have chosen Apache Tomcat because it is platform independent, we can run web server in a Linux machine. 
 
 • Spring Framework :  The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
@@ -88,11 +90,11 @@ It is best option for MySQL development platform, when we compare to others such
 \cite{STSTanim}
 We have chosen STS because it has embedded Eclipse plug-in integrated, there are other options such as Spring Incubator web page, but when you use others you have to implement some extra steps to import those projects in your local computer.
 
-• Postman : API development tool that is a plug-in which comes as a packaged application in Chrome and is used to test the api services. Users can test the JSON REST based Web Services with this and make a API for cross device applications. 
+• Postman : API development tool that is a plug-in which comes as a packaged application in Chrome and is used to test the API services. Users can test the JSON REST based Web Services with this and make a API for cross device applications. 
 \cite{PostmanTanim}
 We have chosen Postman because its perfect GUI. You can save your REST calls and look it from other computers by registering. 
 
-• Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization\cite{googleMapAPI}. 
+• Google Map API: Google Maps APIs give developers several ways of embedding Google Maps into web pages or retrieving data from Google Maps, and allow for either simple use or extensive customization \cite{googleMapAPI}. 
 We have chosen Google Map API because it is free for the first 100.000 requests.
 
 • PuTTy : PuTTY is a Telnet and SSH terminal software for Unix and Windows platforms that enables any users to remotely access computers over the internet. 
@@ -108,51 +110,35 @@ We have chosen TightVNC as a tool for accessing remote server. TightVNC is also 
  WinSCP is better option with its GUI for accessing remote file system. 
 
 \subsection{Hardware Feasibility}
-The minimum and recommended hardware requirements for each program/IDE and
-a system requirement compilation for development is shown in Table 3.1 based on
-the requirements.
-
-For this project we selected to rent a cloud computing system for make this project scalable. Scaleway\cite{scaleway} provides cloud computing services. Scaleway can provide multiple datacenters on different locations and developer tools on the machines. We selected scaleway for renting cloud server(s). Starter package is enough for this project at startup.
-
-\begin{table}[!ht]
-\centering
-\caption{Scaleway package options}
-\label{minreq}
-\begin{tabular}{|c|c|c|c|c|}
-\hline
-\textbf{Specification}& \textbf{Starter} & \textbf{C2}  & \textbf{ARM64} & \textbf{C1} \\ \hline
-CPU                             & 2x86 64bit & 8x86 64bit  & 8xARMv8 & 4xARMv7 \\ \hline
-RAM                             & 2GB & 32GB & 8GB & 2GB \\ \hline
-Storage                         & 50GB SSD & 50GB SSD & 200GB SSD & 50GB SSD \\ \hline
-Number of public IPv4  & 1 & 1 & 1 & 1  \\ \hline
-Bandwidth                       & 200Mbit/s & 800Mbit/s & 200Mbit/s & 200Mbit/s \\ \hline
-\end{tabular}
-\end{table}
+The minimum hardware requirements for each program/IDE and
+a system requirement compilation for development is shown in ~\ref{minreqmobile}, ~\ref{minreqserver}, ~\ref{androidhardware} based on the requirements.
 
 \begin{table}[!ht]
 \centering
 \caption{Minimum System Requirement for Mobile Application Development}
-\label{minreq}
+\label{minreqmobile}
 \begin{tabular}{|c|c|c|c|}
 \hline
-\textbf{Software}& \textbf{CPU} & \textbf{RAM}  & \textbf{Storage} \\ \hline
-Linux OS\cite{linuxMinimumSystemRequirements} & 1GHz & 512 MB & 8 GB \\ \hline
-Android Studio\cite{androidMinimumSystemRequirements} & 1.6GHz & 3 GB RAM  & 8GB(500MB for IDE, 7.5 GB for SDK) \\ \hline
-Android Emulator\cite{androidMinimumSystemRequirements} & unknown & 1GB & 1.5 GB \\ \hline
+\textbf{Software}& \textbf{CPU (Ghz)} & \textbf{RAM (MB)}  & \textbf{Storage (GB)} \\ \hline
+Linux OS \cite{linuxMinimumSystemRequirements} & 1 & 512 & 8 \\ \hline
+Android Studio \cite{androidMinimumSystemRequirements} & 1.6 & 3072  & 8 (500MB for IDE, 7.5 GB for SDK) \\ \hline
+Android Emulator \cite{androidMinimumSystemRequirements} & unknown & 2048 & 1.5 \\ \hline
+Total & 2.6 & 5632 & 17.5 \\ \hline
 \end{tabular}
 \end{table}
 
 \begin{table}[!ht]
 \centering
 \caption{Minimum System Requirement for Server Side Application Development}
-\label{minreq}
+\label{minreqserver}
 \begin{tabular}{|c|c|c|c|}
 \hline
-\textbf{Software}& \textbf{CPU} & \textbf{RAM}  & \textbf{Storage} \\ \hline
-Windows OS\cite{microsoft} & 1GHz & 2 MB & 20 GB \\ \hline
-Eclipse\cite{androidMinimumSystemRequirements} & 1.5GHz & 1 GB RAM  & 1 GB  \\ \hline
-MySQL\cite{mysql} & 2 core & 2GB & 800 MB \\ \hline
-MySQL Workbench\cite{mysql} & unknown & 4GB & 200 MB \\ \hline
+\textbf{Software}& \textbf{CPU (Ghz)} & \textbf{RAM (MB)}  & \textbf{Storage (GB)} \\ \hline
+Linux OS \cite{linuxMinimumSystemRequirements} & 1 & 512 & 8 \\ \hline
+Eclipse \cite{eclipse} & 1.5GHz & 1024  & 1  \\ \hline
+MySQL \cite{mysql} & 1 (2 core) & 2048 & 0.8 \\ \hline
+MySQL Workbench\cite{mysql} & unknown & 4096 & 0.2 \\ \hline
+Total\cite{mysql} & 2.5 (2 core) & 7168 & 2 \\ \hline
 \end{tabular}
 \end{table}
 
@@ -163,18 +149,20 @@ MySQL Workbench\cite{mysql} & unknown & 4GB & 200 MB \\ \hline
 \begin{tabular}{|c|c|c|c|}
 \hline
             & \textbf{Minimum}    & \textbf{Recommended} \\\hline
-CPU & 1 Ghz      & 2 Ghz     \\\hline
-RAM       & 512 MB       & 2 GB        \\\hline
-Storage   & 2 GB       & 8 GB       \\\hline
+CPU (Ghz) & 1      & 2     \\\hline
+RAM (MB)      & 1024       & 1536        \\\hline
+Storage (GB)   & 8     & 32       \\\hline
 \end{tabular}
 \end{table}
 
+\newpage
 \subsection{Communication Feasibility}
 
 Media files and path files are seperately stored on users android device. It so hard to send all of trip data one by one to one device to another without any loss. So we thought about that to compressing all files in a zip file before sending from mobile device to web server or vice versa. So we sended all data in one file. Also we will use less data bandwidth with compress all files in a zip file.
 The Internet is the main communication technology used in this project. The
 anticipated communication variables are shown in Table \ref{table:commparameters}.
 
+\newpage
 \begin{table}[!ht]
 \centering
 \caption{Communication parameters}
@@ -184,73 +172,84 @@ anticipated communication variables are shown in Table \ref{table:commparameters
 \textbf{Description}                                                                   & \multicolumn{1}{l|}{\textbf{Symbol}} & \multicolumn{1}{l|}{\textbf{Values}} \\ \hline
 Average Path Size & A  & 50 kB \\ \hline
 Average Video Size & B & 10 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Video Number\\Per User\end{tabular} & C & 4 \\ \hline
+Average Video Number Per User & C & 4 \\ \hline
 Average Photo Size & D & 2 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Photo Number\\Per User\end{tabular} & E & 20 \\ \hline
+Average Photo Number Per User & E & 20 \\ \hline
 Average Sound Record Size & F & 1 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Sound Record\\Number Per User\end{tabular} & G & 1 \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Number Of\\Members in Trip\end{tabular} & H & 2 \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Mobile(Unzipped)\end{tabular}  & I & 81 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Web(Unzipped)\end{tabular}  & J & 162 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Trip Data\\Size on Mobile(Zipped)\end{tabular}  & K & 113 MB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Number of\\Upload Rate\end{tabular}  & L & 25/month \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Number of\\Download Rate\end{tabular}  & M & 50/month \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Size of\\Uploaded Trips\end{tabular}  & N & 2 GB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Size of\\Downloaded Trips\end{tabular}  & O & 8 GB \\ \hline
-\begin{tabular}[c]{@{}l@{}}Supposed Number\\of Users\end{tabular}  & P & 100 \\ \hline
-\begin{tabular}[c]{@{}l@{}}Average Zip\\Compression Ratio\end{tabular}  & R & 30\%\cite{zip} \\ \hline
-\begin{tabular}[c]{@{}l@{}}Server Data Rate\\Per Month\end{tabular}  & S & 10 GB \\ \hline
+Average Sound Record Number Per User & G & 1 \\ \hline
+Average Number Of Members in a Trip & H & 2 \\ \hline
+Average Trip Data Size on Mobile(Unzipped) & I & 81 MB \\ \hline
+Average Trip Data Size on Mobile(Zipped) & J & 56,7 MB \\ \hline
+Average Trip Data Size on Web(Unzipped) & K & 162 MB \\ \hline
+Average Trip Data Size on Web(Zipped) & L & 113 MB \\ \hline
+Average Number of Upload Rate & M & 1000/month \\ \hline
+Average Number of Download and View Rate & N & 7500/month \\ \hline
+Average Size of Uploaded Trips & O & 55 GB \\ \hline
+Average Size of Downloaded Trips  & P & 827 GB \\ \hline
+Supposed Number of Users  & R & 10000 \\ \hline
+Average Zip Compression Ratio & S & 30\% \cite{zip} \\ \hline
+Server Data Rate Per Month & T & 827 GB \\ \hline
 \end{tabular}
 \end{table}
 
 
-I = G * F + E * D + C * B + A
+\[ I = G * F + E * D + C * B + A \]
+\[ K = I * H \]
+\[ J = I * (1 - R) \]
+\[ L = K * (1 - R) \]
+\[ O = J * M \]
+\[ P = L * N \]
+\[ T = MAX (O, P) \]
 
-J = I * H
+For this project we selected to rent a cloud computing system for make this project scalable. Scaleway \cite{scaleway} provides cloud computing services. Scaleway can provide multiple datacenters on different locations and developer tools on the machines. We selected scaleway for renting cloud server(s).
 
-K = I * (1-R)
+\begin{table}[!ht]
+\centering
+\caption{Scaleway package options}
+\label{scaleway}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Specification}& \textbf{Starter} & \textbf{C2}  & \textbf{ARM64} & \textbf{C1} \\ \hline
+CPU                             & 2x86 64bit & 8x86 64bit  & 8xARMv8 & 4xARMv7 \\ \hline
+RAM                             & 2GB & 32GB & 8GB & 2GB \\ \hline
+Storage                         & 50GB SSD & 50GB SSD & 200GB SSD & 50GB SSD \\ \hline
+Number of public IPv4  & 1 & 1 & 1 & 1  \\ \hline
+Bandwidth                       & 200Mbit/s & 800Mbit/s & 200Mbit/s & 200Mbit/s \\ \hline
+Price                       & 2.99 Euro & 5.99 Euro & 9.99 Euro & 24.99 Euro \\ \hline
+\end{tabular}
+\end{table}
 
-N = I * L
-
-O = J * M
-
-S = O + N
-
-Based on the calculations above, the monthly data size will be around 10 GB. Scaleway provide 2 GB ram and 50 GB storage with expandable options. As a result these properties are sufficent.
+Based on the calculations above, the monthly data size will be around 827 GB. Scaleway provide 8 GB RAM and 200 GB storage with expandable options on ARM64 package shown on Table \ref{scaleway}. So we have to rent at least 5 ARM64 cloud servers from Scaleway.
 
 \section{Labor Force Feasibility}
-There are two people needed for developing mobile and server side of system concurrently.
+The resource chart for this project shown in ~\ref{fig:resource}.
 
-\newpage
-\section{Time Feasibility}
-Gannt diagram shown in Figure \ref{fig:gantt1}
-\ref{fig:gantt2}
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{projectChapters/images/gantt1.png}
-\caption{Gantt Diagram Drawing}
-\label{fig:gantt1}
-\end{figure}
-\begin{figure}[!htbp]
-\centering
-\includegraphics[width=\textwidth]{projectChapters/images/gantt2.png}
-\caption{Gantt Diagram Drawing}
-\label{fig:gantt2}
+\includegraphics[width=\textwidth, height=10em]{projectChapters/images/resource.png}
+\caption{Resource Chart}
+\label{fig:resource}
 \end{figure}
 
-\newpage
 \section{Legitimate Feasibility}
 Software which is used within the project does not face any legal issues. All of the
 software used in the project contain license requirements. Users are responsible for
-all shared content. The users are responsible of their well being. So any misusing of 
-any sharing content is their risk. So sharing and publishing content is on their own risk.
+all shared content so any misusing of any sharing content is their risk. Sharing and publishing content is on their own risk.
 
+\newpage
+\section{Time Feasibility}
+Gannt diagram shown in Figure \ref{fig:ganttDeneme}
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale= 0.75]{projectChapters/images/gant.png}
+\caption{Gantt Diagram Drawing}
+\label{fig:ganttDeneme}
+\end{figure}
 
+\newpage
 \section{Economic Feasibility}
 The salary determined by the government of the Republic of Turkey for engineers
-is 3.500 TL\cite{muhendisMaas}. The amount of assumed work days in a month is 21 days. The
-individual and general cost of the personnel and features
-the cost of hardware and software used for development are shown below.
+is 3.500 TL \cite{muhendisMaas}. In a month there are 22 work days on average so an employee's daily salary is \ 3500 / 22 = 159.10\ TL.
 
 \begin{table}[!h!]
 \centering
@@ -259,11 +258,11 @@ the cost of hardware and software used for development are shown below.
 \begin{tabular}{|l|r|r|r|}
 \hline
 & \multicolumn{1}{l|}{\textbf{Time(Day)}} & \multicolumn{1}{l|}{\textbf{Price(TL/Day)}} & \multicolumn{1}{l|}{\textbf{Total(TL)}} \\ \hline
-System Programmer   & 37                                      & 170 TL                                      & 6.290 TL                                 \\ \hline
-System Analyst      & 29                                      & 170 TL                                      & 4.930 TL                                 \\ \hline
-System Designer     & 10                                      & 170 TL                                      & 1.700 TL                                 \\ \hline
-Project Coordinator & 4                                       & 170 TL                                      & 680,TL                                  \\ \hline
-General Total:      & \multicolumn{3}{r|}{13.600 TL}                                                                                                  \\ \hline
+System Analyst   & 15                                      & 159.10                                      & 2.386.5                                 \\ \hline
+Project Manager      & 35                                      & 159.10                                      & 5.568,5                                 \\ \hline
+Full Stack Developer     & 35                                      & 159.10                                      & 5.568,5                                 \\ \hline
+Mobile Application Developer & 35                                       & 159.10                                      & 5.568,5                                  \\ \hline
+General Total:      & \multicolumn{3}{r|}{19.092 TL}                                                                                                  \\ \hline
 \end{tabular}
 \end{table}
 
@@ -276,11 +275,11 @@ General Total:      & \multicolumn{3}{r|}{13.600 TL}                            
 \textbf{Components}             & \multicolumn{1}{l|}{\textbf{Price}} \\ \hline
 Eclipse \cite{eclipse} & Free \\ \hline
 Android Studio \cite{androidStudio} & Free \\ \hline
-2* Dell Vostro 5468 & 662 TL \\ \hline
+2* Dell Vostro 5468 \cite{dell} & 662 TL \\ \hline
 General Mobile GM6 \cite{gm6} & 375 TL                            \\ \hline
 2* Github Account                  & Free                             \\ \hline
-Scaleway Server                  & 15TL/monthly                             \\ \hline
-General Total:                  & 1.112 TL                            \\ \hline
+Scaleway Server                  & 310,35                            \\ \hline
+General Total:                  & 1.346 TL                            \\ \hline
 \end{tabular}
 \end{table}
-The cost of computers used in the development process in 3181 TL\cite{dell}. In the process 2 computer were used. A computer can be used for 2 years so 48 months in average lifetime. From here, we will find the cost of computer as 662TL. General Mobile GM6 used in the development process is 900 TL\cite{gm6}. It can be used for 12 months in average lifetime. From here we will find the cost of phone as 375 TL. Considering these expenditures, the cost of development of our project is X TL.
+The cost of computers used in the development process in 3181 TL\cite{dell}. In the process 2 computer were used. A computer can be used for 2 years so 48 months in average lifetime. From here, we will find the cost of computer as 662TL. General Mobile GM6 used in the development process is 900 TL\cite{gm6}. It can be used for 12 months in average lifetime. From here we will find the cost of phone as 375 TL. Mothly price of servers is \ 9.99 * 5 = 49,95\ Euro = 227,09 TL. We need this servers after 17 November 2017 due to 28 December 2017. For this 41 days servers prive is \ 227,09 * (41 / 30) = 310,35\ TL. Considering these expenditures, the cost of hardware and software cost is 1.409 TL. The project cost is \ 19.092 + 1.346 = 20438\ TL.

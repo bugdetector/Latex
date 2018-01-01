@@ -1,30 +1,29 @@
 \chapter{System Analysis}
-Project details and descriptions of modules are in this section.
-This project will contains a mobile application which saves user location, media files and organize an event with other people, and a server side application which provides users to interact, sharing saved contents and access shared contents. 
+Project details and descriptions of modules are contains in this section.
 
-Mobile application will saved location, notes and media files also location of media files to storage when user started trip tracking feature of mobile application. Before starting a trip user can choose some of his/her friends to organize a trip with them on the both on-line and offline modes. If searching friend is not listed on offline mode, user can add friend when internet connection provided. If a person added a trip, this person will give a notification which asks user to accept joining or reject joining to trip. If user accepted invitation he/she can join trip as a member. Inviter is accepted as leader of team. During the trip all user's behavior saved separately. If location sharing feature opened any member of this team can watch other members location. But as we mentioned this feature requires internet connection. At the end of trip when user want to share his/her trip data and all of the data shared by other members will be merged. All users can select sharing data separately. As a result anyone could wants to store a picture but don't want to share. 
+Mobile application will saved location, notes and media files also location of media files to storage when user start trip tracking feature of mobile application. Before starting a trip user can choose some of his/her friends to organize a trip with them when connected to Internet. If a person added a trip, this person will give a invitation notification which asks user to accept joining or reject joining to trip. If user accepted invitation he/she can join trip as a member. Inviter is accepted as leader of team. During the trip all user's behavior saved separately. If location sharing feature opened any member of this team can watch other members location. But as we mentioned this feature requires Internet connection. At the end of trip when user want to share his/her trip data, path data will be provided from team leader but all of media data will be merged. All users can select sharing data separately.
 
-In order to save location on background Android application will use a location saving service. Using service is a must because, Android services provides to execute a process for long time on the background. User can watch his/her location path on map during trip. If user wants to track a path which is shared from other people user can track the path by looking at map.
+In order to save location on background Android application will use a location saving service. Using service is a must because, Android services can provide to execute a process for long time on the background. This application must to run location save service for long time. User can watch his/her location path on map during trip. If user wants to track a path which is shared by anathor user, he/she can track the path by looking at map.
 
 Modules created by project team as follows:
 \begin{itemize}
-    \item User register module
-    \item User login module
-    \item Search module
-    \item Location save module
-    \item Media save module
-    \item Feature extraction module
-    \item Trip management module
-    \item Notification sender module
-    \item Trip upload module
-    \item Trip download module
-	\item Team trip preparing module 
-    \item Team content merging module
-    \item Team members location tracking module
-    \item Content complaint module 
-    \item Shared content interaction module 
-    \item Administrator module
-	\item Users interaction module 
+    \item User Register Module
+    \item User Login Module
+    \item Search Module
+    \item Location Save Module
+    \item Media Save Module
+    \item Feature Extraction Module
+    \item Trip Management Module
+    \item Notification Sender Module
+    \item Trip Upload Module
+    \item Trip Download Module
+	\item Team Trip Preparing Module 
+    \item Team Content Merging Module
+    \item Team Members Location Tracking Module
+    \item Content Complaint Module 
+    \item Shared Content Interaction Module 
+    \item Administrator Module
+	\item Users Interaction Module 
 	    
         
         	        
@@ -52,25 +51,25 @@ This module provides sending notifications to users about any topic. This module
 This module provides user to share trip content on social media with determined access rights. Mobile application prepares a zip file which includes all of chosen contents except chosen share option is "only me" belong to trip and upload this zip file to server side using web application.
 \subsection{Trip Download Module}
 This module provides user to download chosen trip  which he/she can access to his/her mobile device using application. Web application prepares a zip file using chosen trip and send it to mobile application.
-\subsection{Team trip preparing module}
+\subsection{Team Trip Preparing Module}
 This module provides users to send team trip requests each others. They can accept or deny these requests, if they accept they can contribute trips by sending their media. This module works on both mobile and web application.
 
 \subsection{Team Content Merging Module}
 This module provides trip members to merge trip content easily for share on social media. Web application merges all of sent contents from members in one trip. This module runs on web application.
 
-\subsection{Team members location tracking module}
+\subsection{Team Members Location Tracking Module}
 This module can only be used on team trips and requires Internet connection, provides team members to track each others locations simultaneously. This module runs on both mobile  and web application.
    
-\subsection{Content complaint module}   
+\subsection{Content Complaint Module}   
 This module can be used both mobile device and web applications. Users can make complaint about other users, trips, comments. Created complaints are evaluated by the administrators. This module runs on server side but mobile application also interacts with it.
     
-\subsection{Shared content interaction module}    
+\subsection{Shared Content Interaction Module}    
 This module can be used both on mobile application and web application. Users can like each others shared trip they can comment on those trips also can share the trips. This module runs on server side but mobile application also interacts with it.
 
-\subsection{Administrator module}
+\subsection{Administrator Module}
 This module can only be used on web application. Administrator of system are able to interact with it, with the module administrators can evaluate created complaints by the users. Administrators can hide a content,user or comment if he or she thinks that complained content is inappropriate. This module runs on web side application.
 
-\subsection{Users interaction module}
+\subsection{Users Interaction Module}
 This module can be used both web and mobile application. Users can interact with other users by sending friend request, if they accept it they become friends and will be able see contents of each others. This module runs on web side application but can only be used both mobile and web applications.
 
     

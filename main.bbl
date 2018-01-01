@@ -164,6 +164,30 @@
       \verb https://en.wikipedia.org/wiki/Android_(operating_system)
       \endverb
     \endentry
+    \entry{iOS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{7}
+      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{iOS}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.wikizero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvxLBPUw
+      \endverb
+    \endentry
     \entry{androidStudio}{online}{}
       \name{author}{1}{}{%
         {{hash=8b36e9207c24c76e6719268e49201d94}{%
@@ -174,8 +198,8 @@
       \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
-      \field{sortinit}{7}
-      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \field{sortinit}{8}
+      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Android Studio}
@@ -200,8 +224,8 @@
       \strng{fullhash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authornamehash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authorfullhash}{17c630bba78b078e4e4b5966c913d7a6}
-      \field{sortinit}{8}
-      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Sqlite}
@@ -226,8 +250,8 @@
       \strng{fullhash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authornamehash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authorfullhash}{17c630bba78b078e4e4b5966c913d7a6}
-      \field{sortinit}{9}
-      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Android Emulator}
@@ -264,28 +288,388 @@
       \verb https://developers.google.com/maps/faq#whatis
       \endverb
     \endentry
-    \entry{scaleway}{online}{}
+    \entry{mac}{online}{}
       \name{author}{1}{}{%
-        {{hash=73c733efb004028ab32181f48d8dbe79}{%
-           family={Scaleway},
-           familyi={S\bibinitperiod}}}%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{73c733efb004028ab32181f48d8dbe79}
-      \strng{fullhash}{73c733efb004028ab32181f48d8dbe79}
-      \strng{authornamehash}{73c733efb004028ab32181f48d8dbe79}
-      \strng{authorfullhash}{73c733efb004028ab32181f48d8dbe79}
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
       \field{sortinit}{1}
       \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Scaleway}
-      \field{urlday}{28}
-      \field{urlmonth}{11}
-      \field{urlyear}{2017}
-      \field{year}{2017}
+      \field{title}{Mac OS}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
       \field{urldateera}{ce}
       \verb{url}
-      \verb https://www.scaleway.com/
+      \verb http://www.wikizero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTWFjX09T
+      \endverb
+    \endentry
+    \entry{javaEETanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7c4373e5aab9ddc491254305a160ab15}{%
+           family={docs.oracle.com/},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c4373e5aab9ddc491254305a160ab15}
+      \strng{fullhash}{7c4373e5aab9ddc491254305a160ab15}
+      \strng{authornamehash}{7c4373e5aab9ddc491254305a160ab15}
+      \strng{authorfullhash}{7c4373e5aab9ddc491254305a160ab15}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JAVA EE Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html
+      \endverb
+    \endentry
+    \entry{eclipseTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=326e0c5acb11be639cf301298b197024}{%
+           family={eclipse.org/},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{326e0c5acb11be639cf301298b197024}
+      \strng{fullhash}{326e0c5acb11be639cf301298b197024}
+      \strng{authornamehash}{326e0c5acb11be639cf301298b197024}
+      \strng{authorfullhash}{326e0c5acb11be639cf301298b197024}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eclipse Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.eclipse.org/ide//
+      \endverb
+    \endentry
+    \entry{sublimeTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=495ee26150870659e88b5d163a9d3794}{%
+           family={sublimetext.com/},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{495ee26150870659e88b5d163a9d3794}
+      \strng{fullhash}{495ee26150870659e88b5d163a9d3794}
+      \strng{authornamehash}{495ee26150870659e88b5d163a9d3794}
+      \strng{authorfullhash}{495ee26150870659e88b5d163a9d3794}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sublime Text Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.sublimetext.com
+      \endverb
+    \endentry
+    \entry{mySQLTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6e64a7192c8743807ee45160cc10e3a8}{%
+           family={mysql.com/},
+           familyi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{fullhash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{authornamehash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{authorfullhash}{6e64a7192c8743807ee45160cc10e3a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MySQL Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.mysql.com/about/
+      \endverb
+    \endentry
+    \entry{mySQLWorkTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6e64a7192c8743807ee45160cc10e3a8}{%
+           family={mysql.com/},
+           familyi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{fullhash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{authornamehash}{6e64a7192c8743807ee45160cc10e3a8}
+      \strng{authorfullhash}{6e64a7192c8743807ee45160cc10e3a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MySQL WorkBench Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.mysql.com/products/workbench/
+      \endverb
+    \endentry
+    \entry{BootstrapTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3485c9ec2e6d7faae20270a21b0f3db6}{%
+           family={stackoverflow.com/},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{3485c9ec2e6d7faae20270a21b0f3db6}
+      \strng{fullhash}{3485c9ec2e6d7faae20270a21b0f3db6}
+      \strng{authornamehash}{3485c9ec2e6d7faae20270a21b0f3db6}
+      \strng{authorfullhash}{3485c9ec2e6d7faae20270a21b0f3db6}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bootstrap Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://stackoverflow.com/questions/14546709/what-is-bootstrap/
+      \endverb
+    \endentry
+    \entry{AngularJSTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e31fc9c182bd63fa9cf327db4082970e}{%
+           family={docs.angularjs.org/},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{e31fc9c182bd63fa9cf327db4082970e}
+      \strng{fullhash}{e31fc9c182bd63fa9cf327db4082970e}
+      \strng{authornamehash}{e31fc9c182bd63fa9cf327db4082970e}
+      \strng{authorfullhash}{e31fc9c182bd63fa9cf327db4082970e}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Angular JS Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://docs.angularjs.org/guide/introduction
+      \endverb
+    \endentry
+    \entry{JavascriptTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4e5c2075bd65509a6a47f018c8946880}{%
+           family={developer.mozilla.org/},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e5c2075bd65509a6a47f018c8946880}
+      \strng{fullhash}{4e5c2075bd65509a6a47f018c8946880}
+      \strng{authornamehash}{4e5c2075bd65509a6a47f018c8946880}
+      \strng{authorfullhash}{4e5c2075bd65509a6a47f018c8946880}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Javascript Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+      \endverb
+    \endentry
+    \entry{TomcatTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=678dc57d48efd9fe943f6fbdc099959e}{%
+           family={tomcat.apache.org/},
+           familyi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{678dc57d48efd9fe943f6fbdc099959e}
+      \strng{fullhash}{678dc57d48efd9fe943f6fbdc099959e}
+      \strng{authornamehash}{678dc57d48efd9fe943f6fbdc099959e}
+      \strng{authorfullhash}{678dc57d48efd9fe943f6fbdc099959e}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Apache Tomcat Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://tomcat.apache.org/
+      \endverb
+    \endentry
+    \entry{SpringFrameTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6cb1177f6bd20ded32af18d021426e32}{%
+           family={docs.spring.io/},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{fullhash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{authornamehash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{authorfullhash}{6cb1177f6bd20ded32af18d021426e32}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spring Framework Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html
+      \endverb
+    \endentry
+    \entry{STSTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6cb1177f6bd20ded32af18d021426e32}{%
+           family={docs.spring.io/},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{fullhash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{authornamehash}{6cb1177f6bd20ded32af18d021426e32}
+      \strng{authorfullhash}{6cb1177f6bd20ded32af18d021426e32}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spring Tool Suit Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://spring.io/tools/sts
+      \endverb
+    \endentry
+    \entry{PostmanTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c9f39a745fcd12570785953519ca6c09}{%
+           family={getpostman.com/},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9f39a745fcd12570785953519ca6c09}
+      \strng{fullhash}{c9f39a745fcd12570785953519ca6c09}
+      \strng{authornamehash}{c9f39a745fcd12570785953519ca6c09}
+      \strng{authorfullhash}{c9f39a745fcd12570785953519ca6c09}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Postman Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.getpostman.com/
+      \endverb
+    \endentry
+    \entry{PuttyTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b5f54617c9d2c674b2a635296cae2805}{%
+           family={en.wikipedia.org/},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{fullhash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{authornamehash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{authorfullhash}{b5f54617c9d2c674b2a635296cae2805}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Putty Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/PuTTY/
+      \endverb
+    \endentry
+    \entry{VNCTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b5f54617c9d2c674b2a635296cae2805}{%
+           family={en.wikipedia.org/},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{fullhash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{authornamehash}{b5f54617c9d2c674b2a635296cae2805}
+      \strng{authorfullhash}{b5f54617c9d2c674b2a635296cae2805}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{VNC Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Virtual_Network_Computing
+      \endverb
+    \endentry
+    \entry{WinSCPTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d2dca1eab4b2d597043173aa7d22c4b9}{%
+           family={winscp.net/},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2dca1eab4b2d597043173aa7d22c4b9}
+      \strng{fullhash}{d2dca1eab4b2d597043173aa7d22c4b9}
+      \strng{authornamehash}{d2dca1eab4b2d597043173aa7d22c4b9}
+      \strng{authorfullhash}{d2dca1eab4b2d597043173aa7d22c4b9}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{VNC Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://winscp.net/eng/docs/introduction
       \endverb
     \endentry
     \entry{linuxMinimumSystemRequirements}{online}{}
@@ -300,8 +684,8 @@
       \strng{fullhash}{3ca7ddbfb0571e86ec89407160f2aab4}
       \strng{authornamehash}{3ca7ddbfb0571e86ec89407160f2aab4}
       \strng{authorfullhash}{3ca7ddbfb0571e86ec89407160f2aab4}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Pardus Minimum System Requirements}
@@ -324,8 +708,8 @@
       \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Android System Requirements}
@@ -338,28 +722,30 @@
       \verb https://developer.android.com/studio/index.html
       \endverb
     \endentry
-    \entry{microsoft}{online}{}
+    \entry{eclipse}{online}{}
       \name{author}{1}{}{%
-        {{hash=22ed90536ac567b8b0391de0c6b4aa47}{%
-           family={MicrosoftSQLServer},
-           familyi={M\bibinitperiod}}}%
+        {{hash=c12c871df61f50a1ce367288bf9fb6d1}{%
+           family={IDE},
+           familyi={I\bibinitperiod},
+           given={Eclipse},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{22ed90536ac567b8b0391de0c6b4aa47}
-      \strng{fullhash}{22ed90536ac567b8b0391de0c6b4aa47}
-      \strng{authornamehash}{22ed90536ac567b8b0391de0c6b4aa47}
-      \strng{authorfullhash}{22ed90536ac567b8b0391de0c6b4aa47}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \strng{namehash}{c12c871df61f50a1ce367288bf9fb6d1}
+      \strng{fullhash}{c12c871df61f50a1ce367288bf9fb6d1}
+      \strng{authornamehash}{c12c871df61f50a1ce367288bf9fb6d1}
+      \strng{authorfullhash}{c12c871df61f50a1ce367288bf9fb6d1}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{microsoft}
+      \field{title}{Eclipse IDE}
       \field{urlday}{28}
       \field{urlmonth}{11}
       \field{urlyear}{2017}
       \field{year}{2017}
       \field{urldateera}{ce}
       \verb{url}
-      \verb https://tr.wikipedia.org/wiki/Microsoft_SQL_Server
+      \verb http://www.eclipse.org/downloads/eclipse-packages/
       \endverb
     \endentry
     \entry{mysql}{online}{}
@@ -372,8 +758,8 @@
       \strng{fullhash}{62a004b95946bb97541afa471dcca73a}
       \strng{authornamehash}{62a004b95946bb97541afa471dcca73a}
       \strng{authorfullhash}{62a004b95946bb97541afa471dcca73a}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{MySQL}
@@ -396,8 +782,8 @@
       \strng{fullhash}{541f43e716665456675cff4f4800b110}
       \strng{authornamehash}{541f43e716665456675cff4f4800b110}
       \strng{authorfullhash}{541f43e716665456675cff4f4800b110}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Zip Compression Benchmarks}
@@ -410,6 +796,30 @@
       \verb http://www.peazip.org/peazip-compression-benchmark.html
       \endverb
     \endentry
+    \entry{scaleway}{online}{}
+      \name{author}{1}{}{%
+        {{hash=73c733efb004028ab32181f48d8dbe79}{%
+           family={Scaleway},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{73c733efb004028ab32181f48d8dbe79}
+      \strng{fullhash}{73c733efb004028ab32181f48d8dbe79}
+      \strng{authornamehash}{73c733efb004028ab32181f48d8dbe79}
+      \strng{authorfullhash}{73c733efb004028ab32181f48d8dbe79}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scaleway}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.scaleway.com/
+      \endverb
+    \endentry
     \entry{muhendisMaas}{online}{}
       \name{author}{1}{}{%
         {{hash=fb960c1f5f519a52404c485f8327bace}{%
@@ -420,8 +830,8 @@
       \strng{fullhash}{fb960c1f5f519a52404c485f8327bace}
       \strng{authornamehash}{fb960c1f5f519a52404c485f8327bace}
       \strng{authorfullhash}{fb960c1f5f519a52404c485f8327bace}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{TMMOB 2017 yılı mühendis asgari ücretini belirledi}
@@ -434,30 +844,28 @@
       \verb http://politeknik.org.tr/tmmob-2017-yili-muhendis-asgari-ucretini-belirledi/
       \endverb
     \endentry
-    \entry{eclipse}{online}{}
+    \entry{dell}{online}{}
       \name{author}{1}{}{%
-        {{hash=c12c871df61f50a1ce367288bf9fb6d1}{%
-           family={IDE},
-           familyi={I\bibinitperiod},
-           given={Eclipse},
-           giveni={E\bibinitperiod}}}%
+        {{hash=34f5a1fd93722fd396a0940588534588}{%
+           family={Hepsiburada.com},
+           familyi={H\bibinitperiod}}}%
       }
-      \strng{namehash}{c12c871df61f50a1ce367288bf9fb6d1}
-      \strng{fullhash}{c12c871df61f50a1ce367288bf9fb6d1}
-      \strng{authornamehash}{c12c871df61f50a1ce367288bf9fb6d1}
-      \strng{authorfullhash}{c12c871df61f50a1ce367288bf9fb6d1}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \strng{namehash}{34f5a1fd93722fd396a0940588534588}
+      \strng{fullhash}{34f5a1fd93722fd396a0940588534588}
+      \strng{authornamehash}{34f5a1fd93722fd396a0940588534588}
+      \strng{authorfullhash}{34f5a1fd93722fd396a0940588534588}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Eclipse IDE}
+      \field{title}{Dell Vostro 5468 8GB RAM 256 GB SSD}
       \field{urlday}{28}
       \field{urlmonth}{11}
       \field{urlyear}{2017}
       \field{year}{2017}
       \field{urldateera}{ce}
       \verb{url}
-      \verb http://www.eclipse.org/downloads/eclipse-packages/
+      \verb https://urun.n11.com/dizustu-bilgisayar/dell-vostro-5468-g20f82n-i5-7200-1482564g-940mx-P214420418?cid=604001&gclid=CjwKCAiAr_TQBRB5EiwAC_QCq3CPfU6zxKPfjBguonH33douPlwIr0qv-ZH6Ch67XBopfQ8kmvQAXxoCSrcQAvD_BwE&gclsrc=aw.ds
       \endverb
     \endentry
     \entry{gm6}{online}{}
@@ -470,8 +878,8 @@
       \strng{fullhash}{9679a9e224f5d123d7afa7c549fb1d70}
       \strng{authornamehash}{9679a9e224f5d123d7afa7c549fb1d70}
       \strng{authorfullhash}{9679a9e224f5d123d7afa7c549fb1d70}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{General Mobile GM6}
@@ -482,30 +890,6 @@
       \field{urldateera}{ce}
       \verb{url}
       \verb https://urun.gittigidiyor.com/cep-telefonu-ve-aksesuar/general-mobile-gm-6-4-5g-tek-sim-telpa-garantilidir-313702023?pkw=&pmt=&sc_gcsp=gg&ggmktg=PaidSearch*PLA*236136807*22544670567*58375879647*%7btype%7d*313702023*pla-387386522094&gclid=CjwKCAiAr_TQBRB5EiwAC_QCq9xKmi0Z1QR9HjtoWk73NrlFSrNGx0meWF46YyiDv9TP2wfqMU6xwBoCvMgQAvD_BwE&gclsrc=aw.ds&mpch=ads&scxid=14489-145818-2357-0
-      \endverb
-    \endentry
-    \entry{dell}{online}{}
-      \name{author}{1}{}{%
-        {{hash=34f5a1fd93722fd396a0940588534588}{%
-           family={Hepsiburada.com},
-           familyi={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{34f5a1fd93722fd396a0940588534588}
-      \strng{fullhash}{34f5a1fd93722fd396a0940588534588}
-      \strng{authornamehash}{34f5a1fd93722fd396a0940588534588}
-      \strng{authorfullhash}{34f5a1fd93722fd396a0940588534588}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Dell Vostro 5468 8GB RAM 256 GB SSD}
-      \field{urlday}{28}
-      \field{urlmonth}{11}
-      \field{urlyear}{2017}
-      \field{year}{2017}
-      \field{urldateera}{ce}
-      \verb{url}
-      \verb https://urun.n11.com/dizustu-bilgisayar/dell-vostro-5468-g20f82n-i5-7200-1482564g-940mx-P214420418?cid=604001&gclid=CjwKCAiAr_TQBRB5EiwAC_QCq3CPfU6zxKPfjBguonH33douPlwIr0qv-ZH6Ch67XBopfQ8kmvQAXxoCSrcQAvD_BwE&gclsrc=aw.ds
       \endverb
     \endentry
   \endsortlist
