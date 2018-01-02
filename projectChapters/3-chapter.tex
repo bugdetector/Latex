@@ -42,7 +42,6 @@ built-in Git source control and Maven library support \cite{androidStudio}.
 
 • Operating System: An operating system in required for developing mobile application. Android Studio and Android Emulator can run on Windows, Linux or Mac OS \cite{mac}. We prefer to use Linux, because Linux needs low system properties and it's free to use. 
 
-\newline
 
 \textbf{Server Side Development}
 
@@ -108,6 +107,12 @@ We have chosen TightVNC as a tool for accessing remote server. TightVNC is also 
 • WinSCP : This program is an open source free S FTP client, FTP client, Web DAV client and SCP client for Windows. Its main function is file transfer between a local and a remote computer.
 \cite{WinSCPTanim}
  WinSCP is better option with its GUI for accessing remote file system. 
+ 
+• Jmeter : jMeter is an Open Source testing software. It is Java application for load and performance testing. jMeter is designed to cover categories of tests like load, functional, performance, regression, etc., and it requires JDK 5 or higher. \cite{JMeterTanim}
+We have chosen JMeter to make HTTP calls in order to get server's client limit. It makes simultaneous calls between defined time periods and shows the summary of call outputs.
+
+• htop : htop is an interactive system-monitor process-viewer and process-manager. It is designed as an alternative to the Unix program top. It shows a frequently updated list of the processes running on a computer, normally ordered by the amount of CPU usage. Unlike top, htop provides a full list of processes running, instead of the top resource-consuming processes. Htop uses color and gives visual information about processor, swap and memory status.\cite{htopTanim}
+We have chosen to monitor our server's stress test with htop because it has perfect GUI and it is really robust and easy to monitor.
 
 \subsection{Hardware Feasibility}
 The minimum hardware requirements for each program/IDE and
@@ -117,7 +122,7 @@ a system requirement compilation for development is shown in ~\ref{minreqmobile}
 \centering
 \caption{Minimum System Requirement for Mobile Application Development}
 \label{minreqmobile}
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|l|l|l|l|}
 \hline
 \textbf{Software}& \textbf{CPU (Ghz)} & \textbf{RAM (MB)}  & \textbf{Storage (GB)} \\ \hline
 Linux OS \cite{linuxMinimumSystemRequirements} & 1 & 512 & 8 \\ \hline
@@ -131,7 +136,7 @@ Total & 2.6 & 5632 & 17.5 \\ \hline
 \centering
 \caption{Minimum System Requirement for Server Side Application Development}
 \label{minreqserver}
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|l|l|l|l|}
 \hline
 \textbf{Software}& \textbf{CPU (Ghz)} & \textbf{RAM (MB)}  & \textbf{Storage (GB)} \\ \hline
 Linux OS \cite{linuxMinimumSystemRequirements} & 1 & 512 & 8 \\ \hline
@@ -146,7 +151,7 @@ Total\cite{mysql} & 2.5 (2 core) & 7168 & 2 \\ \hline
 \centering
 \caption{Android Hardware Requirements}
 \label{androidhardware}
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|l|l|l|l|}
 \hline
             & \textbf{Minimum}    & \textbf{Recommended} \\\hline
 CPU (Ghz) & 1      & 2     \\\hline
@@ -207,7 +212,7 @@ For this project we selected to rent a cloud computing system for make this proj
 \centering
 \caption{Scaleway package options}
 \label{scaleway}
-\begin{tabular}{|c|c|c|c|c|}
+\begin{tabular}{|l|l|l|l|l|}
 \hline
 \textbf{Specification}& \textbf{Starter} & \textbf{C2}  & \textbf{ARM64} & \textbf{C1} \\ \hline
 CPU                             & 2x86 64bit & 8x86 64bit  & 8xARMv8 & 4xARMv7 \\ \hline
@@ -255,7 +260,7 @@ is 3.500 TL \cite{muhendisMaas}. In a month there are 22 work days on average so
 \centering
 \caption{Personnel cost table}
 \label{tab:maas}
-\begin{tabular}{|l|r|r|r|}
+\begin{tabular}{|l|l|l|l|}
 \hline
 & \multicolumn{1}{l|}{\textbf{Time(Day)}} & \multicolumn{1}{l|}{\textbf{Price(TL/Day)}} & \multicolumn{1}{l|}{\textbf{Total(TL)}} \\ \hline
 System Analyst   & 15                                      & 159.10                                      & 2.386.5                                 \\ \hline
@@ -270,7 +275,7 @@ General Total:      & \multicolumn{3}{r|}{19.092 TL}                            
 \centering
 \caption{Hardware and software used for development cost table}
 \label{tab:hardsoftcost}
-\begin{tabular}{|l|r|}
+\begin{tabular}{|l|l|}
 \hline
 \textbf{Components}             & \multicolumn{1}{l|}{\textbf{Price}} \\ \hline
 Eclipse \cite{eclipse} & Free \\ \hline

@@ -1,14 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.1)  2 JAN 2018 00:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdflatex 2017.10.27)  2 JAN 2018 05:24
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**main.tex
-(./main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2017-04-15>
-Babel <3.12> and hyphenation patterns for 3 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Babel <3.14> and hyphenation patterns for 76 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,24 +22,24 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/11/05 v2.16a AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -81,38 +79,144 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks18
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-) (./ytucestyle.sty
+) (ytucestyle.sty
 Package: ytucestyle 
 
-! LaTeX Error: File `mathdesign.sty' not found.
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mathdesign.sty"
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbch.cfg")
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbch.sty"
+Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
+n Project)
 
-Enter file name: 
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdfont.def"
+File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdsffont.def"
+File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdttfont.def"
+File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+\symmdcal=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 97.
+\symmdscr=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 110.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mdbch/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mdbch/m/it on input line 122.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mdbch/m/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 126.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mdbch/b/it on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mdbch/b/n on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/mdbch/m/n --> OT1/mdbch/m/n on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 132.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/mdbch/m/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 135.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/mdbch/b/n --> OT1/mdbch/b/n on input line 137.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 138.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/mdbch/b/it on input line 139.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/b/n on input line 140.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 141.
+\symlettersupright=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
+(Font)                  OML/mdbch/m/n --> OML/mdbch/b/n on input line 144.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
 
-! LaTeX Error: Unknown option `bitstream-charter' for package `mathdesign'.
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \usepackage
-                [utf8]{inputenc}
-? 
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count100
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 18
+6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 186.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
+\symmathdesignA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdbch/m/n --> MDA/mdbch/b/n on input line 491.
+\symmathdesignB=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
+(Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
+\rulethickness=\skip46
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+mdbch on input line 105
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\t1mdbch.fd"
+File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
+)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 105.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -353,7 +457,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -394,7 +498,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -407,6 +511,10 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
+Now handling font encoding MDA ...
+... no UTF-8 mapping file for font encoding MDA
+Now handling font encoding MDB ...
+... no UTF-8 mapping file for font encoding MDB
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -418,64 +526,60 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip46
-\cftbeforetoctitleskip=\skip47
-\cftaftertoctitleskip=\skip48
-\cftbeforepartskip=\skip49
-\cftpartnumwidth=\skip50
-\cftpartindent=\skip51
-\cftbeforechapskip=\skip52
-\cftchapindent=\skip53
-\cftchapnumwidth=\skip54
-\cftbeforesecskip=\skip55
-\cftsecindent=\skip56
-\cftsecnumwidth=\skip57
-\cftbeforesubsecskip=\skip58
-\cftsubsecindent=\skip59
-\cftsubsecnumwidth=\skip60
-\cftbeforesubsubsecskip=\skip61
-\cftsubsubsecindent=\skip62
-\cftsubsubsecnumwidth=\skip63
-\cftbeforeparaskip=\skip64
-\cftparaindent=\skip65
-\cftparanumwidth=\skip66
-\cftbeforesubparaskip=\skip67
-\cftsubparaindent=\skip68
-\cftsubparanumwidth=\skip69
-\cftbeforeloftitleskip=\skip70
-\cftafterloftitleskip=\skip71
-\cftbeforefigskip=\skip72
-\cftfigindent=\skip73
-\cftfignumwidth=\skip74
-\c@lofdepth=\count100
-\c@lotdepth=\count101
-\cftbeforelottitleskip=\skip75
-\cftafterlottitleskip=\skip76
-\cftbeforetabskip=\skip77
-\cfttabindent=\skip78
-\cfttabnumwidth=\skip79
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip47
+\cftbeforetoctitleskip=\skip48
+\cftaftertoctitleskip=\skip49
+\cftbeforepartskip=\skip50
+\cftpartnumwidth=\skip51
+\cftpartindent=\skip52
+\cftbeforechapskip=\skip53
+\cftchapindent=\skip54
+\cftchapnumwidth=\skip55
+\cftbeforesecskip=\skip56
+\cftsecindent=\skip57
+\cftsecnumwidth=\skip58
+\cftbeforesubsecskip=\skip59
+\cftsubsecindent=\skip60
+\cftsubsecnumwidth=\skip61
+\cftbeforesubsubsecskip=\skip62
+\cftsubsubsecindent=\skip63
+\cftsubsubsecnumwidth=\skip64
+\cftbeforeparaskip=\skip65
+\cftparaindent=\skip66
+\cftparanumwidth=\skip67
+\cftbeforesubparaskip=\skip68
+\cftsubparaindent=\skip69
+\cftsubparanumwidth=\skip70
+\cftbeforeloftitleskip=\skip71
+\cftafterloftitleskip=\skip72
+\cftbeforefigskip=\skip73
+\cftfigindent=\skip74
+\cftfignumwidth=\skip75
+\c@lofdepth=\count101
+\c@lotdepth=\count102
+\cftbeforelottitleskip=\skip76
+\cftafterlottitleskip=\skip77
+\cftbeforetabskip=\skip78
+\cfttabindent=\skip79
+\cfttabnumwidth=\skip80
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen112
@@ -486,43 +590,43 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen117
 \caption@hangindent=\dimen118
 )
-\c@ContinuedFloat=\count102
+\c@ContinuedFloat=\count103
 )
-\c@KVtest=\count103
-\sf@farskip=\skip80
+\c@KVtest=\count104
+\sf@farskip=\skip81
 \sf@captopadj=\dimen119
-\sf@capskip=\skip81
-\sf@nearskip=\skip82
-\c@subfigure=\count104
-\c@subfigure@save=\count105
-\c@subtable=\count106
-\c@subtable@save=\count107
-\sf@top=\skip83
-\sf@bottom=\skip84
+\sf@capskip=\skip82
+\sf@nearskip=\skip83
+\c@subfigure=\count105
+\c@subfigure@save=\count106
+\c@subtable=\count107
+\c@subtable@save=\count108
+\sf@top=\skip84
+\sf@bottom=\skip85
 )
 Package caption Info: We need package `newfloat' on input line 25.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/newfloat.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\newfloat.sty"
 Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -530,230 +634,227 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count108
+\etb@tempcnta=\count109
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count109
+\lrq@indent=\count110
 
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write3
-\integerpart=\count110
-\decimalpart=\count111
+\integerpart=\count111
+\decimalpart=\count112
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count112
-\c@listtotal=\count113
-\c@listcount=\count114
-\c@liststart=\count115
-\c@liststop=\count116
-\c@citecount=\count117
-\c@citetotal=\count118
-\c@multicitecount=\count119
-\c@multicitetotal=\count120
-\c@instcount=\count121
-\c@maxnames=\count122
-\c@minnames=\count123
-\c@maxitems=\count124
-\c@minitems=\count125
-\c@citecounter=\count126
-\c@savedcitecounter=\count127
-\c@uniquelist=\count128
-\c@uniquename=\count129
-\c@refsection=\count130
-\c@refsegment=\count131
-\c@maxextratitle=\count132
-\c@maxextratitleyear=\count133
-\c@maxextrayear=\count134
-\c@maxextraalpha=\count135
-\c@abbrvpenalty=\count136
-\c@highnamepenalty=\count137
-\c@lownamepenalty=\count138
-\c@maxparens=\count139
-\c@parenlevel=\count140
-\blx@tempcnta=\count141
-\blx@tempcntb=\count142
-\blx@tempcntc=\count143
-\blx@maxsection=\count144
-\blx@maxsegment@0=\count145
-\blx@notetype=\count146
-\blx@parenlevel@text=\count147
-\blx@parenlevel@foot=\count148
-\blx@sectionciteorder@0=\count149
-\labelnumberwidth=\skip85
-\labelalphawidth=\skip86
-\biblabelsep=\skip87
-\bibitemsep=\skip88
-\bibnamesep=\skip89
-\bibinitsep=\skip90
-\bibparsep=\skip91
-\bibhang=\skip92
+\c@tabx@nest=\count113
+\c@listtotal=\count114
+\c@listcount=\count115
+\c@liststart=\count116
+\c@liststop=\count117
+\c@citecount=\count118
+\c@citetotal=\count119
+\c@multicitecount=\count120
+\c@multicitetotal=\count121
+\c@instcount=\count122
+\c@maxnames=\count123
+\c@minnames=\count124
+\c@maxitems=\count125
+\c@minitems=\count126
+\c@citecounter=\count127
+\c@savedcitecounter=\count128
+\c@uniquelist=\count129
+\c@uniquename=\count130
+\c@refsection=\count131
+\c@refsegment=\count132
+\c@maxextratitle=\count133
+\c@maxextratitleyear=\count134
+\c@maxextrayear=\count135
+\c@maxextraalpha=\count136
+\c@abbrvpenalty=\count137
+\c@highnamepenalty=\count138
+\c@lownamepenalty=\count139
+\c@maxparens=\count140
+\c@parenlevel=\count141
+\blx@tempcnta=\count142
+\blx@tempcntb=\count143
+\blx@tempcntc=\count144
+\blx@maxsection=\count145
+\blx@maxsegment@0=\count146
+\blx@notetype=\count147
+\blx@parenlevel@text=\count148
+\blx@parenlevel@foot=\count149
+\blx@sectionciteorder@0=\count150
+\labelnumberwidth=\skip86
+\labelalphawidth=\skip87
+\biblabelsep=\skip88
+\bibitemsep=\skip89
+\bibnamesep=\skip90
+\bibinitsep=\skip91
+\bibparsep=\skip92
+\bibhang=\skip93
 \blx@bcfin=\read1
 \blx@bcfout=\write4
-\c@mincomprange=\count150
-\c@maxcomprange=\count151
-\c@mincompwidth=\count152
+\c@mincomprange=\count151
+\c@maxcomprange=\count152
+\c@mincompwidth=\count153
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count153
-\c@savedafterword=\count154
-\c@annotator=\count155
-\c@savedannotator=\count156
-\c@author=\count157
-\c@savedauthor=\count158
-\c@bookauthor=\count159
-\c@savedbookauthor=\count160
-\c@commentator=\count161
-\c@savedcommentator=\count162
-\c@editor=\count163
-\c@savededitor=\count164
-\c@editora=\count165
-\c@savededitora=\count166
-\c@editorb=\count167
-\c@savededitorb=\count168
-\c@editorc=\count169
-\c@savededitorc=\count170
-\c@foreword=\count171
-\c@savedforeword=\count172
-\c@holder=\count173
-\c@savedholder=\count174
-\c@introduction=\count175
-\c@savedintroduction=\count176
-\c@namea=\count177
-\c@savednamea=\count178
-\c@nameb=\count179
-\c@savednameb=\count180
-\c@namec=\count181
-\c@savednamec=\count182
-\c@translator=\count183
-\c@savedtranslator=\count184
-\c@shortauthor=\count185
-\c@savedshortauthor=\count186
-\c@shorteditor=\count187
-\c@savedshorteditor=\count188
-\c@labelname=\count189
-\c@savedlabelname=\count190
-\c@institution=\count191
-\c@savedinstitution=\count192
-\c@lista=\count193
-\c@savedlista=\count194
-\c@listb=\count195
-\c@savedlistb=\count196
-\c@listc=\count197
-\c@savedlistc=\count198
-\c@listd=\count199
-\c@savedlistd=\count266
-\c@liste=\count267
-\c@savedliste=\count268
-\c@listf=\count269
-\c@savedlistf=\count270
-\c@location=\count271
-\c@savedlocation=\count272
-\c@organization=\count273
-\c@savedorganization=\count274
-\c@origlocation=\count275
-\c@savedoriglocation=\count276
-\c@origpublisher=\count277
-\c@savedorigpublisher=\count278
-\c@publisher=\count279
-\c@savedpublisher=\count280
-\c@language=\count281
-\c@savedlanguage=\count282
-\c@pageref=\count283
-\c@savedpageref=\count284
-\shorthandwidth=\skip93
-\shortjournalwidth=\skip94
-\shortserieswidth=\skip95
-\shorttitlewidth=\skip96
-\shortauthorwidth=\skip97
-\shorteditorwidth=\skip98
+\c@afterword=\count154
+\c@savedafterword=\count155
+\c@annotator=\count156
+\c@savedannotator=\count157
+\c@author=\count158
+\c@savedauthor=\count159
+\c@bookauthor=\count160
+\c@savedbookauthor=\count161
+\c@commentator=\count162
+\c@savedcommentator=\count163
+\c@editor=\count164
+\c@savededitor=\count165
+\c@editora=\count166
+\c@savededitora=\count167
+\c@editorb=\count168
+\c@savededitorb=\count169
+\c@editorc=\count170
+\c@savededitorc=\count171
+\c@foreword=\count172
+\c@savedforeword=\count173
+\c@holder=\count174
+\c@savedholder=\count175
+\c@introduction=\count176
+\c@savedintroduction=\count177
+\c@namea=\count178
+\c@savednamea=\count179
+\c@nameb=\count180
+\c@savednameb=\count181
+\c@namec=\count182
+\c@savednamec=\count183
+\c@translator=\count184
+\c@savedtranslator=\count185
+\c@shortauthor=\count186
+\c@savedshortauthor=\count187
+\c@shorteditor=\count188
+\c@savedshorteditor=\count189
+\c@labelname=\count190
+\c@savedlabelname=\count191
+\c@institution=\count192
+\c@savedinstitution=\count193
+\c@lista=\count194
+\c@savedlista=\count195
+\c@listb=\count196
+\c@savedlistb=\count197
+\c@listc=\count198
+\c@savedlistc=\count199
+\c@listd=\count266
+\c@savedlistd=\count267
+\c@liste=\count268
+\c@savedliste=\count269
+\c@listf=\count270
+\c@savedlistf=\count271
+\c@location=\count272
+\c@savedlocation=\count273
+\c@organization=\count274
+\c@savedorganization=\count275
+\c@origlocation=\count276
+\c@savedoriglocation=\count277
+\c@origpublisher=\count278
+\c@savedorigpublisher=\count279
+\c@publisher=\count280
+\c@savedpublisher=\count281
+\c@language=\count282
+\c@savedlanguage=\count283
+\c@pageref=\count284
+\c@savedpageref=\count285
+\shorthandwidth=\skip94
+\shortjournalwidth=\skip95
+\shortserieswidth=\skip96
+\shorttitlewidth=\skip97
+\shortauthorwidth=\skip98
+\shorteditorwidth=\skip99
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
 File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count285
-\c@textcitetotal=\count286
-\c@textcitemaxnames=\count287
-\c@biburlnumpenalty=\count288
-\c@biburlucpenalty=\count289
-\c@biburllcpenalty=\count290
-\c@smartand=\count291
+\c@textcitecount=\count286
+\c@textcitetotal=\count287
+\c@textcitemaxnames=\count288
+\c@biburlnumpenalty=\count289
+\c@biburlucpenalty=\count290
+\c@biburllcpenalty=\count291
+\c@smartand=\count292
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex-ieee\ieee.bbx"
 File: ieee.bbx 2017/03/27 v1.2d biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric-comp.bbx"
 File: numeric-comp.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
 File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count292
-\c@bbx:relatedtotal=\count293
+\c@bbx:relatedcount=\count293
+\c@bbx:relatedtotal=\count294
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex-ieee\ieee.cbx"
 File: ieee.cbx 2017/03/27 v1.2d biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric-comp.cbx"
 File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count294
-\c@cbx@tempcntb=\count295
+\c@cbx@tempcnta=\count295
+\c@cbx@tempcntb=\count296
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -772,57 +873,56 @@ Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
 \@input{information.aux}
 \openout2 = `information.aux'.
 
-(./information.tex)
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(information.tex) ("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip99
+\labelindent=\skip100
 \enit@outerparindent=\dimen120
-\enit@toks=\toks22
+\enit@toks=\toks24
 \enit@inbox=\box28
-\enitdp@description=\count296
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+\enitdp@description=\count297
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count297
-\Gm@cntv=\count298
-\c@Gm@tempcnt=\count299
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
 \Gm@bindingoffset=\dimen123
 \Gm@wd@mp=\dimen124
 \Gm@odd@mp=\dimen125
@@ -831,44 +931,45 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen128
 \Gm@layouthoffset=\dimen129
 \Gm@layoutvoffset=\dimen130
-\Gm@dimlist=\toks23
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\Gm@dimlist=\toks25
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip100
-\f@nch@O@elh=\skip101
-\f@nch@O@erh=\skip102
-\f@nch@O@olh=\skip103
-\f@nch@O@orh=\skip104
-\f@nch@O@elf=\skip105
-\f@nch@O@erf=\skip106
-\f@nch@O@olf=\skip107
-\f@nch@O@orf=\skip108
+\f@nch@headwidth=\skip101
+\f@nch@O@elh=\skip102
+\f@nch@O@erh=\skip103
+\f@nch@O@olh=\skip104
+\f@nch@O@orh=\skip105
+\f@nch@O@elf=\skip106
+\f@nch@O@erf=\skip107
+\f@nch@O@olf=\skip108
+\f@nch@O@orf=\skip109
 )
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box29
-\beforetitleunit=\skip109
-\aftertitleunit=\skip110
+\beforetitleunit=\skip110
+\aftertitleunit=\skip111
 \ttl@plus=\dimen131
 \ttl@minus=\dimen132
-\ttl@toksa=\toks24
+\ttl@toksa=\toks26
 \titlewidth=\dimen133
 \titlewidthlast=\dimen134
 \titlewidthfirst=\dimen135
 )
-\enitdp@abbrv=\count300
+\enitdp@abbrv=\count301
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count301
-\@quotereset=\count302
- (./main.aux)
+\@quotelevel=\count302
+\@quotereset=\count303
+ (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -883,6 +984,20 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdacmr.fd"
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbcmr.fd"
+File: mdbcmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 26.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -893,29 +1008,30 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl)
+ (main.bbl)
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
+\scratchcounter=\count304
 \scratchdimen=\dimen136
 \scratchbox=\box30
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count306
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count307
 \MPscratchDim=\dimen137
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks26
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks28
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -924,11 +1040,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -963,7 +1075,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./frontPages/0a.tex
+(frontPages/0a.tex
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 13.82408pt on input line 10.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 13.82408pt on input line 12.
 <frontPages/ytu_logo.png, id=1, 984.67876pt x 972.63374pt>
 File: frontPages/ytu_logo.png Graphic file (type png)
 <use frontPages/ytu_logo.png>
@@ -971,79 +1087,228 @@ Package pdftex.def Info: frontPages/ytu_logo.png  used on input line 15. on inp
 ut line 15.
 Package pdftex.def Info: Requested size: 106.69783pt x 105.38719pt on input lin
 e 15.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 18.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 22
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 22
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 22
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 22
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 22
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 22.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 22.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 22.
  [1
 
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./frontPages/ytu_logo.png>
-]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 56.
+{C:/Users/tarikw10/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./frontP
+ages/ytu_logo.png>]
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 56.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 56.
+LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 56.
  [1] [2
 
-] (./main.toc
-[3
+]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 23.88496pt on input line 88.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 23.88496pt on input line 88.
+ (main.toc
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+ [3
 
 ])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-) (./frontPages/0b2-listofabbrevations.tex [4]) (./frontPages/0b3-lists.tex
-\mylen=\skip111
-\tempp=\skip112
-[5
+) (frontPages/0b2-listofabbrevations.tex
+[4]) (frontPages/0b3-lists.tex
+\mylen=\skip112
+\tempp=\skip113
+ [5
 
-] (./main.lof)
+] (main.lof [6
+
+])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [6
+ [7] (main.lot
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+ [][] []\T1/mdbch/m/n/12 Minimum System Requirement for Mobile Application 
+ []
 
-] (./main.lot
-Underfull \hbox (badness 5726) in paragraph at lines 5--5
- [][] []\T1/cmr/m/n/12 Minimum System Requirement for Mobile Application 
+
+Underfull \hbox (badness 2158) in paragraph at lines 7--7
+ [][] []\T1/mdbch/m/n/12 Minimum System Requirement for Server Side Application
+ 
  []
 
 )
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [7
+ [8
 
-] [8
+] [9
 
 ]
-Underfull \hbox (badness 1122) in paragraph at lines 83--83
-\T1/cmr/m/n/12 ayr^^Yca yap^^Ylacak gezilerde varsa kullan^^Ylan ula³^^Ym araçl
-ar^^Yn^^Yn neler oldu§unu
+Underfull \hbox (badness 3029) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 ayrca yaplacak gezilerde varsa kullanlan ula³m araçlarnn
+ neler oldu§unu
  []
 
-[9
 
-]) [10] (./projectChapters/1-chapter.tex
+Underfull \hbox (badness 2261) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 alglayabilecek bir sistem geli³tirilecektir. Takm olarak düz
+enlenen gezilerde
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 kullanclar, takm üyelerinin birbirini takip etmesi amacyla
+ takm içi konum
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 payla³mn Internet ba§lants olmas ³aryla yapabilecektir.
+ Bir kullancnn
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 veya takmn olu³turdu§u bir güzergâh, di§er kullanclarn d
+a inceleyebilmesi
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 83--83
+\T1/mdbch/m/n/12 Mobil uygulama belirlenen güzergâh, kullancnn güzergâhnda
+n farkl olarak
+ []
+
+[10
+
+]) [11] (projectChapters/1-chapter.tex
  1.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 28.8002pt on input line 1.
 [1
 
 
-]) (./projectChapters/2-chapter.tex [2]
+]) (projectChapters/2-chapter.tex [2]
  2.
 [3
 
 ]
-Overfull \hbox (17.46063pt too wide) in paragraph at lines 20--34
+Overfull \hbox (1.77768pt too wide) in paragraph at lines 20--34
  [][] 
  []
 
-) (./projectChapters/3-chapter.tex [4]
+) (projectChapters/3-chapter.tex [4]
  3.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+
+Underfull \hbox (badness 1412) in paragraph at lines 15--33
+\OMS/mdbch/m/n/12  \T1/mdbch/m/n/12 Android Studio: Android Studio is the offi
+cial IDE for Android application
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--33
 
@@ -1067,66 +1332,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--42
  []
 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 \newline
-             
-? 
-[6] [7]
-Underfull \hbox (badness 2521) in paragraph at lines 85--88
-[]\OMS/cmsy/m/n/12 ^^O \T1/cmr/m/n/12 Spring Framework : The Spring Framework p
-rovides a comprehensive
+Underfull \hbox (badness 1708) in paragraph at lines 43--44
+[]\OMS/mdbch/m/n/12  \T1/mdbch/m/n/12 Operating System: An operating system in
+ required for developing mobile
  []
 
-[8]
-Underfull \hbox (badness 1436) in paragraph at lines 113--115
-\T1/cmr/m/n/12 The minimum hardware requirements for each program/IDE and a sys
-tem
+[6] [7] [8]
+
+LaTeX Warning: Citation 'JMeterTanim' on page 9 undefined on input line 111.
+
+
+LaTeX Warning: Citation 'htopTanim' on page 9 undefined on input line 114.
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 118--120
+\T1/mdbch/m/n/12 The minimum hardware requirements for each program/IDE and a s
+ystem
  []
 
 
-Overfull \hbox (65.25558pt too wide) in paragraph at lines 120--128
+Overfull \hbox (26.28867pt too wide) in paragraph at lines 125--133
  [][] 
  []
 
-[9] [10]
-<projectChapters/images/resource.png, id=82, 767.33736pt x 108.405pt>
+[9] [10] [11]
+<projectChapters/images/resource.png, id=84, 767.33736pt x 108.405pt>
 File: projectChapters/images/resource.png Graphic file (type png)
 <use projectChapters/images/resource.png>
 Package pdftex.def Info: projectChapters/images/resource.png  used on input lin
-e 229. on input line 229.
-Package pdftex.def Info: Requested size: 426.80225pt x 117.47758pt on input lin
-e 229.
- [11] [12 <./projectChapters/images/resource.png (PNG copy)>]
-<projectChapters/images/gant.png, id=91, 217.51852pt x 790.0103pt>
+e 234. on input line 234.
+Package pdftex.def Info: Requested size: 426.80225pt x 115.20648pt on input lin
+e 234.
+ [12 <./projectChapters/images/resource.png (PNG copy)>]
+<projectChapters/images/gant.png, id=88, 217.51852pt x 790.0103pt>
 File: projectChapters/images/gant.png Graphic file (type png)
 <use projectChapters/images/gant.png>
 Package pdftex.def Info: projectChapters/images/gant.png  used on input line 24
-4. on input line 244.
+9. on input line 249.
 Package pdftex.def Info: Requested size: 163.13847pt x 592.50627pt on input lin
-e 244.
- [13 <./projectChapters/images/gant.png (PNG copy)>]) (./projectChapters/4-chap
-ter.tex
+e 249.
+ [13 <./projectChapters/images/gant.png (PNG copy)>]) (projectChapters/4-chapte
+r.tex
 [14]
  4.
 [15
 
-] [16]
-Underfull \hbox (badness 3884) in paragraph at lines 42--43
-\T1/cmr/m/n/12 This module runs as a background task on Android device and save
-s
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\T1/mdbch/m/n/12 This module runs as a background task on Android device and sa
+ves
  []
 
-[17] [18] [19]) (./projectChapters/5-chapter.tex
+[16] [17] [18] [19]) (projectChapters/5-chapter.tex
  5.
 [20
 
 ]
-<projectChapters/images/databaseDesign.png, id=118, 1023.825pt x 1057.9525pt>
+<projectChapters/images/databaseDesign.png, id=116, 1023.825pt x 1057.9525pt>
 File: projectChapters/images/databaseDesign.png Graphic file (type png)
 <use projectChapters/images/databaseDesign.png>
 Package pdftex.def Info: projectChapters/images/databaseDesign.png  used on inp
@@ -1134,7 +1396,7 @@ ut line 10. on input line 10.
 Package pdftex.def Info: Requested size: 426.79135pt x 441.01155pt on input lin
 e 10.
  [21 <./projectChapters/images/databaseDesign.png>]
-<projectChapters/images/android_database.png, id=122, 723.70375pt x 338.26375pt
+<projectChapters/images/android_database.png, id=120, 723.70375pt x 338.26375pt
 >
 File: projectChapters/images/android_database.png Graphic file (type png)
 <use projectChapters/images/android_database.png>
@@ -1143,15 +1405,27 @@ nput line 20. on input line 20.
 Package pdftex.def Info: Requested size: 426.79135pt x 199.48613pt on input lin
 e 20.
  [22 <./projectChapters/images/android_database.png>]
-<projectChapters/images/ER.png, id=127, 704.6325pt x 433.62pt>
+<projectChapters/images/ER.png, id=125, 704.6325pt x 433.62pt>
 File: projectChapters/images/ER.png Graphic file (type png)
 <use projectChapters/images/ER.png>
 Package pdftex.def Info: projectChapters/images/ER.png  used on input line 31. 
 on input line 31.
 Package pdftex.def Info: Requested size: 422.78278pt x 260.17401pt on input lin
 e 31.
- [23 <./projectChapters/images/ER.png>] [24]
-<projectChapters/images/dataflow.png, id=135, 776.14969pt x 330.48468pt>
+
+Underfull \hbox (badness 1117) in paragraph at lines 45--46
+[]\T1/mdbch/b/n/12 Like,enrol,customize trip: \T1/mdbch/m/n/12 Users can like s
+hared trips using mobile and web
+ []
+
+[23 <./projectChapters/images/ER.png>]
+Underfull \hbox (badness 1297) in paragraph at lines 54--55
+\T1/mdbch/b/n/12 Evaluate com-plaints: \T1/mdbch/m/n/12 Administrators are able
+ to hide or not hide and close
+ []
+
+[24]
+<projectChapters/images/dataflow.png, id=133, 776.14969pt x 330.48468pt>
 File: projectChapters/images/dataflow.png Graphic file (type png)
 <use projectChapters/images/dataflow.png>
 Package pdftex.def Info: projectChapters/images/dataflow.png  used on input lin
@@ -1163,7 +1437,7 @@ Overfull \hbox (38.90205pt too wide) in paragraph at lines 62--63
  [][] 
  []
 
-<projectChapters/images/dataflow2.png, id=136, 810.02625pt x 395.97937pt>
+<projectChapters/images/dataflow2.png, id=134, 810.02625pt x 395.97937pt>
 File: projectChapters/images/dataflow2.png Graphic file (type png)
 <use projectChapters/images/dataflow2.png>
 Package pdftex.def Info: projectChapters/images/dataflow2.png  used on input li
@@ -1175,114 +1449,490 @@ Overfull \hbox (59.22815pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<projectChapters/images/dataflow3.png, id=137, 567.62062pt x 408.77719pt>
+<projectChapters/images/dataflow3.png, id=135, 567.62062pt x 408.77719pt>
 File: projectChapters/images/dataflow3.png Graphic file (type png)
 <use projectChapters/images/dataflow3.png>
 Package pdftex.def Info: projectChapters/images/dataflow3.png  used on input li
 ne 76. on input line 76.
 Package pdftex.def Info: Requested size: 340.57498pt x 245.2682pt on input line
  76.
-<projectChapters/images/dataflow4.png, id=138, 693.34032pt x 422.32782pt>
+<projectChapters/images/dataflow4.png, id=136, 693.34032pt x 422.32782pt>
 File: projectChapters/images/dataflow4.png Graphic file (type png)
 <use projectChapters/images/dataflow4.png>
 Package pdftex.def Info: projectChapters/images/dataflow4.png  used on input li
 ne 83. on input line 83.
 Package pdftex.def Info: Requested size: 416.0074pt x 253.39864pt on input line
  83.
-) [25 <./projectChapters/images/dataflow.png> <./projectChapters/images/dataflo
-w2.png>] [26 <./projectChapters/images/dataflow3.png> <./projectChapters/images
-/dataflow4.png>]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 1400) in paragraph at lines 67--67
-[]\T1/cmr/m/n/12 ^^V^^V, (2017). Android emulator, [Online]. Available: $\T1/cm
-tt/m/n/12 https : / / www .
- []
-
+) (projectChapters/6-chapter.tex [25 <./projectChapters/images/dataflow.png> <.
+/projectChapters/images/dataflow2.png>] [26 <./projectChapters/images/dataflow3
+.png> <./projectChapters/images/dataflow4.png>]
+ 6.
+<projectChapters/images/main1.png, id=148, 994.46532pt x 487.06969pt>
+File: projectChapters/images/main1.png Graphic file (type png)
+<use projectChapters/images/main1.png>
+Package pdftex.def Info: projectChapters/images/main1.png  used on input line 1
+1. on input line 11.
+Package pdftex.def Info: Requested size: 426.79135pt x 209.03455pt on input lin
+e 11.
 [27
 
+ <./projectChapters/images/main1.png>]
+<projectChapters/images/main2.png, id=153, 747.54282pt x 471.26062pt>
+File: projectChapters/images/main2.png Graphic file (type png)
+<use projectChapters/images/main2.png>
+Package pdftex.def Info: projectChapters/images/main2.png  used on input line 2
+2. on input line 22.
+Package pdftex.def Info: Requested size: 426.79135pt x 269.0528pt on input line
+ 22.
+ [28 <./projectChapters/images/main2.png>]
+<projectChapters/images/supportPage.png, id=158, 970.3753pt x 445.665pt>
+File: projectChapters/images/supportPage.png Graphic file (type png)
+<use projectChapters/images/supportPage.png>
+Package pdftex.def Info: projectChapters/images/supportPage.png  used on input 
+line 33. on input line 33.
+Package pdftex.def Info: Requested size: 426.79135pt x 196.0184pt on input line
+ 33.
+ [29 <./projectChapters/images/supportPage.png>]
+<projectChapters/images/homepageWeb.png, id=163, 1001.24063pt x 486.31688pt>
+File: projectChapters/images/homepageWeb.png Graphic file (type png)
+<use projectChapters/images/homepageWeb.png>
+Package pdftex.def Info: projectChapters/images/homepageWeb.png  used on input 
+line 44. on input line 44.
+Package pdftex.def Info: Requested size: 426.79135pt x 207.30156pt on input lin
+e 44.
+ [30 <./projectChapters/images/homepageWeb.png>]
+<projectChapters/images/homepageResponsive.png, id=168, 229.60782pt x 408.77719
+pt>
+File: projectChapters/images/homepageResponsive.png Graphic file (type png)
+<use projectChapters/images/homepageResponsive.png>
+Package pdftex.def Info: projectChapters/images/homepageResponsive.png  used on
+ input line 55. on input line 55.
+Package pdftex.def Info: Requested size: 114.80362pt x 204.38809pt on input lin
+e 55.
+ [31 <./projectChapters/images/homepageResponsive.png>]
+<projectChapters/images/notificationPage.png, id=174, 987.69pt x 340.27126pt>
+File: projectChapters/images/notificationPage.png Graphic file (type png)
+<use projectChapters/images/notificationPage.png>
+Package pdftex.def Info: projectChapters/images/notificationPage.png  used on i
+nput line 66. on input line 66.
+Package pdftex.def Info: Requested size: 426.79135pt x 147.03029pt on input lin
+e 66.
+
+[32 <./projectChapters/images/notificationPage.png>]
+<projectChapters/images/profileWeb1.png, id=178, 994.46532pt x 487.8225pt>
+File: projectChapters/images/profileWeb1.png Graphic file (type png)
+<use projectChapters/images/profileWeb1.png>
+Package pdftex.def Info: projectChapters/images/profileWeb1.png  used on input 
+line 78. on input line 78.
+Package pdftex.def Info: Requested size: 426.79135pt x 209.35764pt on input lin
+e 78.
+ [33 <./projectChapters/images/profileWeb1.png>]
+<projectChapters/images/profileWeb2.png, id=183, 987.69pt x 485.56406pt>
+File: projectChapters/images/profileWeb2.png Graphic file (type png)
+<use projectChapters/images/profileWeb2.png>
+Package pdftex.def Info: projectChapters/images/profileWeb2.png  used on input 
+line 89. on input line 89.
+Package pdftex.def Info: Requested size: 426.79135pt x 209.81093pt on input lin
+e 89.
+ [34 <./projectChapters/images/profileWeb2.png>]
+<projectChapters/images/profileWeb3.png, id=188, 985.43156pt x 425.33907pt>
+File: projectChapters/images/profileWeb3.png Graphic file (type png)
+<use projectChapters/images/profileWeb3.png>
+Package pdftex.def Info: projectChapters/images/profileWeb3.png  used on input 
+line 100. on input line 100.
+Package pdftex.def Info: Requested size: 426.79135pt x 184.21622pt on input lin
+e 100.
+ [35 <./projectChapters/images/profileWeb3.png>]
+<projectChapters/images/userpageWeb.png, id=193, 1000.48781pt x 225.84375pt>
+File: projectChapters/images/userpageWeb.png Graphic file (type png)
+<use projectChapters/images/userpageWeb.png>
+Package pdftex.def Info: projectChapters/images/userpageWeb.png  used on input 
+line 111. on input line 111.
+Package pdftex.def Info: Requested size: 426.79135pt x 96.34242pt on input line
+ 111.
+ [36 <./projectChapters/images/userpageWeb.png>]
+<projectChapters/images/complaintPage.png, id=198, 853.68938pt x 407.27156pt>
+File: projectChapters/images/complaintPage.png Graphic file (type png)
+<use projectChapters/images/complaintPage.png>
+Package pdftex.def Info: projectChapters/images/complaintPage.png  used on inpu
+t line 122. on input line 122.
+Package pdftex.def Info: Requested size: 426.79135pt x 203.61662pt on input lin
+e 122.
+ [37 <./projectChapters/images/complaintPage.png>]
+<projectChapters/images/tripDetail.png, id=204, 876.27374pt x 495.35063pt>
+File: projectChapters/images/tripDetail.png Graphic file (type png)
+<use projectChapters/images/tripDetail.png>
+Package pdftex.def Info: projectChapters/images/tripDetail.png  used on input l
+ine 134. on input line 134.
+Package pdftex.def Info: Requested size: 426.79135pt x 241.26515pt on input lin
+e 134.
+ [38 <./projectChapters/images/tripDetail.png>]
+<projectChapters/images/searchPageWeb.png, id=208, 856.70062pt x 490.08093pt>
+File: projectChapters/images/searchPageWeb.png Graphic file (type png)
+<use projectChapters/images/searchPageWeb.png>
+Package pdftex.def Info: projectChapters/images/searchPageWeb.png  used on inpu
+t line 145. on input line 145.
+Package pdftex.def Info: Requested size: 426.79135pt x 244.14998pt on input lin
+e 145.
+ [39 <./projectChapters/images/searchPageWeb.png>]
+<projectChapters/images/admin1.png, id=213, 1021.56656pt x 487.8225pt>
+File: projectChapters/images/admin1.png Graphic file (type png)
+<use projectChapters/images/admin1.png>
+Package pdftex.def Info: projectChapters/images/admin1.png  used on input line 
+155. on input line 155.
+Package pdftex.def Info: Requested size: 426.79135pt x 203.79729pt on input lin
+e 155.
+
+[40 <./projectChapters/images/admin1.png>]
+<projectChapters/images/admin2.png, id=218, 998.22937pt x 439.6425pt>
+File: projectChapters/images/admin2.png Graphic file (type png)
+<use projectChapters/images/admin2.png>
+Package pdftex.def Info: projectChapters/images/admin2.png  used on input line 
+166. on input line 166.
+Package pdftex.def Info: Requested size: 426.79135pt x 187.96924pt on input lin
+e 166.
+ [41 <./projectChapters/images/admin2.png>]
+<projectChapters/images/phoneRegister.png, id=223, 1445.4pt x 2569.6pt>
+File: projectChapters/images/phoneRegister.png Graphic file (type png)
+<use projectChapters/images/phoneRegister.png>
+Package pdftex.def Info: projectChapters/images/phoneRegister.png  used on inpu
+t line 182. on input line 182.
+Package pdftex.def Info: Requested size: 722.69824pt x 1284.79688pt on input li
+ne 182.
+ [42 <./projectChapters/images/phoneRegister.png>]
+<projectChapters/images/phoneLogin.png, id=227, 1445.4pt x 2569.6pt>
+File: projectChapters/images/phoneLogin.png Graphic file (type png)
+<use projectChapters/images/phoneLogin.png>
+Package pdftex.def Info: projectChapters/images/phoneLogin.png  used on input l
+ine 192. on input line 192.
+Package pdftex.def Info: Requested size: 867.2467pt x 1541.77194pt on input lin
+e 192.
+ [43 <./projectChapters/images/phoneLogin.png>]
+<projectChapters/images/phoneHome.png, id=232, 1445.4pt x 2569.6pt>
+File: projectChapters/images/phoneHome.png Graphic file (type png)
+<use projectChapters/images/phoneHome.png>
+Package pdftex.def Info: projectChapters/images/phoneHome.png  used on input li
+ne 204. on input line 204.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 204.
+ [44 <./projectChapters/images/phoneHome.png>]
+<projectChapters/images/notificationMobile.png, id=236, 1445.4pt x 2569.6pt>
+File: projectChapters/images/notificationMobile.png Graphic file (type png)
+<use projectChapters/images/notificationMobile.png>
+Package pdftex.def Info: projectChapters/images/notificationMobile.png  used on
+ input line 216. on input line 216.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 216.
+ [45 <./projectChapters/images/notificationMobile.png>]
+<projectChapters/images/profileMobile.png, id=240, 1445.4pt x 2569.6pt>
+File: projectChapters/images/profileMobile.png Graphic file (type png)
+<use projectChapters/images/profileMobile.png>
+Package pdftex.def Info: projectChapters/images/profileMobile.png  used on inpu
+t line 228. on input line 228.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 228.
+ [46 <./projectChapters/images/profileMobile.png>]
+<projectChapters/images/mobilGeziArama.png, id=244, 1445.4pt x 2569.6pt>
+File: projectChapters/images/mobilGeziArama.png Graphic file (type png)
+<use projectChapters/images/mobilGeziArama.png>
+Package pdftex.def Info: projectChapters/images/mobilGeziArama.png  used on inp
+ut line 240. on input line 240.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 240.
+ [47 <./projectChapters/images/mobilGeziArama.png>]
+<projectChapters/images/tripDownload.png, id=248, 1445.4pt x 2569.6pt>
+File: projectChapters/images/tripDownload.png Graphic file (type png)
+<use projectChapters/images/tripDownload.png>
+Package pdftex.def Info: projectChapters/images/tripDownload.png  used on input
+ line 252. on input line 252.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 252.
+ [48 <./projectChapters/images/tripDownload.png>]
+<projectChapters/images/downloadedTrip.png, id=252, 1445.4pt x 2569.6pt>
+File: projectChapters/images/downloadedTrip.png Graphic file (type png)
+<use projectChapters/images/downloadedTrip.png>
+Package pdftex.def Info: projectChapters/images/downloadedTrip.png  used on inp
+ut line 265. on input line 265.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 265.
+ [49 <./projectChapters/images/downloadedTrip.png>]
+<projectChapters/images/downloadedTripManage.png, id=257, 1445.4pt x 2569.6pt>
+File: projectChapters/images/downloadedTripManage.png Graphic file (type png)
+<use projectChapters/images/downloadedTripManage.png>
+Package pdftex.def Info: projectChapters/images/downloadedTripManage.png  used 
+on input line 276. on input line 276.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 276.
+ [50 <./projectChapters/images/downloadedTripManage.png>]
+<projectChapters/images/tripCreateSection.png, id=261, 1445.4pt x 2569.6pt>
+File: projectChapters/images/tripCreateSection.png Graphic file (type png)
+<use projectChapters/images/tripCreateSection.png>
+Package pdftex.def Info: projectChapters/images/tripCreateSection.png  used on 
+input line 287. on input line 287.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 287.
+ [51 <./projectChapters/images/tripCreateSection.png>]
+<projectChapters/images/createdMedias.png, id=265, 1445.4pt x 2569.6pt>
+File: projectChapters/images/createdMedias.png Graphic file (type png)
+<use projectChapters/images/createdMedias.png>
+Package pdftex.def Info: projectChapters/images/createdMedias.png  used on inpu
+t line 298. on input line 298.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 298.
+<projectChapters/images/timeLine.png, id=266, 1445.4pt x 2569.6pt>
+File: projectChapters/images/timeLine.png Graphic file (type png)
+<use projectChapters/images/timeLine.png>
+Package pdftex.def Info: projectChapters/images/timeLine.png  used on input lin
+e 309. on input line 309.
+Package pdftex.def Info: Requested size: 1011.77312pt x 1798.70778pt on input l
+ine 309.
+) (projectChapters/7-chapter.tex
+[52 <./projectChapters/images/createdMedias.png>] [53 <./projectChapters/images
+/timeLine.png>]
+ 7.
+<projectChapters/images/exampleCall.png, id=273, 469.00218pt x 903.375pt>
+File: projectChapters/images/exampleCall.png Graphic file (type png)
+<use projectChapters/images/exampleCall.png>
+Package pdftex.def Info: projectChapters/images/exampleCall.png  used on input 
+line 16. on input line 16.
+Package pdftex.def Info: Requested size: 426.79135pt x 822.05876pt on input lin
+e 16.
+
+LaTeX Warning: Float too large for page by 143.77567pt on input line 19.
+
+[54
+
+] [55 <./projectChapters/images/exampleCall.png>]
+<projectChapters/images/serveridle.png, id=282, 496.85625pt x 466.74374pt>
+File: projectChapters/images/serveridle.png Graphic file (type png)
+<use projectChapters/images/serveridle.png>
+Package pdftex.def Info: projectChapters/images/serveridle.png  used on input l
+ine 28. on input line 28.
+Package pdftex.def Info: Requested size: 426.79135pt x 400.92886pt on input lin
+e 28.
+ [56 <./projectChapters/images/serveridle.png>]
+<projectChapters/images/30users.png, id=287, 519.44063pt x 995.21812pt>
+File: projectChapters/images/30users.png Graphic file (type png)
+<use projectChapters/images/30users.png>
+Package pdftex.def Info: projectChapters/images/30users.png  used on input line
+ 40. on input line 40.
+Package pdftex.def Info: Requested size: 426.79135pt x 817.70903pt on input lin
+e 40.
+
+
+LaTeX Warning: Float too large for page by 139.42593pt on input line 43.
+
+[57] [58 <./projectChapters/images/30users.png>]
+<projectChapters/images/100users.png, id=295, 506.6428pt x 999.735pt>
+File: projectChapters/images/100users.png Graphic file (type png)
+<use projectChapters/images/100users.png>
+Package pdftex.def Info: projectChapters/images/100users.png  used on input lin
+e 52. on input line 52.
+Package pdftex.def Info: Requested size: 426.79135pt x 842.18193pt on input lin
+e 52.
+
+
+LaTeX Warning: Float too large for page by 163.89883pt on input line 55.
+
+[59] [60 <./projectChapters/images/100users.png>]
+<projectChapters/images/130users.png, id=303, 493.0922pt x 1005.7575pt>
+File: projectChapters/images/130users.png Graphic file (type png)
+<use projectChapters/images/130users.png>
+Package pdftex.def Info: projectChapters/images/130users.png  used on input lin
+e 64. on input line 64.
+Package pdftex.def Info: Requested size: 426.79135pt x 870.5668pt on input line
+ 64.
+
+
+LaTeX Warning: Float too large for page by 192.2837pt on input line 67.
+
+[61] [62 <./projectChapters/images/130users.png>]
+<projectChapters/images/180user.png, id=312, 506.6428pt x 1002.74625pt>
+File: projectChapters/images/180user.png Graphic file (type png)
+<use projectChapters/images/180user.png>
+Package pdftex.def Info: projectChapters/images/180user.png  used on input line
+ 77. on input line 77.
+Package pdftex.def Info: Requested size: 426.79135pt x 844.71861pt on input lin
+e 77.
+
+
+LaTeX Warning: Float too large for page by 166.43552pt on input line 80.
+
+[63] [64 <./projectChapters/images/180user.png>]
+<projectChapters/images/summaryReport.png, id=320, 280.04625pt x 722.7pt>
+File: projectChapters/images/summaryReport.png Graphic file (type png)
+<use projectChapters/images/summaryReport.png>
+Package pdftex.def Info: projectChapters/images/summaryReport.png  used on inpu
+t line 95. on input line 95.
+Package pdftex.def Info: Requested size: 426.79135pt x 1101.44873pt on input li
+ne 95.
+
+
+LaTeX Warning: Float too large for page by 423.16563pt on input line 98.
+
+) (projectChapters/8-chapter.tex [65] [66 <./projectChapters/images/summaryRepo
+rt.png>]
+ 8.
+[67
+
+]) [68]
+LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
+(Font)              scaled to size 12.86407pt on input line 70.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 T. Point. (2017). Sqlite, [Online]. Available: $\T1/cmtt/m/n
+/12 https : / / www .
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 , (2017). Android emulator, [Online]. Available: $\T1/cmtt
+/m/n/12 https : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 Wikipedia. (2018). Mac os, [Online]. Available: $\T1/cmtt/m/
+n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 / / www . wikizero . net / index . php ? q =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTWFjX09T$ \T1/mdbch/m/n
+/12 (visited
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 sublimetext.com/. (2016). Sublime text açklamas, [Online].
+ Available:
+ []
+
+[69
+
 ]
-Underfull \hbox (badness 1210) in paragraph at lines 67--67
-[]\T1/cmr/m/n/12 developer.mozilla.org/. (2016). Javascript aç^^Yklamas^^Y, [On
-line]. Available:
+Underfull \hbox (badness 4765) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 docs.angularjs.org/. (2016). Angular js açklamas, [Online]
+. Available:
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 67--67
-[]\T1/cmr/m/n/12 T. Ulakbim. (2017). Pardus minimum system requirements, [Onlin
-e].
+Underfull \hbox (badness 1418) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 developer.mozilla.org/. (2016). Javascript açklamas, [Onli
+ne]. Available:
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 67--67
-\T1/cmtt/m/n/12 ZH6Ch67XBopfQ8kmvQAXxoCSrcQAvD _ BwE & gclsrc = aw . ds$ \T1/cm
-r/m/n/12 (visited on
- []
-
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
-[]\T1/cmr/m/n/12 Gittigidiyor.com. (2017). General mobile gm6, [Online]. Availa
-ble:
+Underfull \hbox (badness 1137) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 https : / / docs . spring . io / spring / docs / current / spri
+ng -[]
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 67--67
-\T1/cmtt/m/n/12 https : / / urun . gittigidiyor . com / cep -[] telefonu -[] ve
- -[]
+Underfull \hbox (badness 1810) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 MySQL. (2017). Mysql, [Online]. Available: $\T1/cmtt/m/n/12 
+https : / / www . mysql .
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 67--67
-\T1/cmtt/m/n/12 aksesuar / general -[] mobile -[] gm -[] 6 -[] 4 -[] 5g -[] tek
- -[] sim -[] telpa -[]
+Underfull \hbox (badness 1348) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 com / support / supportedplatforms / workbench . html$ \T1/mdbc
+h/m/n/12 (visited on
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/mdbch/m/n/12 Hepsiburada.com. (2017). Dell vostro 5468 8gb ram 256 gb ssd
+,
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 67--67
-\T1/cmtt/m/n/12 garantilidir -[] 313702023 ? pkw = &pmt = &sc _ gcsp = gg & ggm
-ktg =
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/mdbch/m/n/12 [Online]. Available: $\T1/cmtt/m/n/12 https : / / urun . n11 .
+ com / dizustu -[]
  []
 
 
-Overfull \hbox (10.68231pt too wide) in paragraph at lines 67--67
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 bilgisayar / dell -[] vostro -[] 5468 -[] g20f82n -[] i5 -[] 72
+00 -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 1482564g -[] 940mx -[] P214420418 ? cid = 604001 & gclid =
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 / / urun . gittigidiyor . com / cep -[] telefonu -[] ve -[] aks
+esuar /
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 313702023 ? pkw = &pmt = &sc _ gcsp = gg & ggmktg = PaidSearch 
+*
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 70--70
+\T1/cmtt/m/n/12 PLA * 236136807 * 22544670567 * 58375879647 * %7btype % 7d *
+ []
+
+
+Overfull \hbox (43.9349pt too wide) in paragraph at lines 70--70
 \T1/cmtt/m/n/12 QCq9xKmi0Z1QR9HjtoWk73NrlFSrNGx0meWF46YyiDv9TP2wfqMU6xwBoCvMgQA
 vD _
  []
 
-[29] (./frontPages/cv.tex) [30
+[71] (frontPages/cv.tex)
+Underfull \hbox (badness 1264) in paragraph at lines 28--76
+\T1/mdbch/m/n/12 Boot,Javascript, AngularJS, Bootstrap, CSS, Android Emulator, 
+Postman, JUnit,
+ []
 
-] (./main.aux)
+[72
+
+] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12150 strings out of 494931
- 202274 string characters out of 6180852
- 627293 words of memory out of 5000000
- 15244 multiletter control sequences out of 15000+600000
- 16483 words of font info for 42 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 51i,11n,45p,1770b,1169s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600
-pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2986.60
-0pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.6
-00pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.
-600pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440
-.600pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm120
-0.600pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm17
-28.600pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
-728.600pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (41 pages, 854768 bytes).
+ 13745 strings out of 493314
+ 229560 string characters out of 3138857
+ 640953 words of memory out of 3000000
+ 16966 multiletter control sequences out of 15000+200000
+ 48254 words of font info for 84 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,11n,98p,2401b,1203s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:/Pro
+gram Files/MiKTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc}<C:/Program Files/MiKTeX
+ 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bit
+strea/charter/bchri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/m
+dbch/md-chb7y.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-
+chb8t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr7t.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr8t.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (84 pages, 4685154 bytes).
 PDF statistics:
- 605 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 382 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
