@@ -672,6 +672,54 @@
       \verb https://winscp.net/eng/docs/introduction
       \endverb
     \endentry
+    \entry{JMeterTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3cf0724ecb8af07ccbe721e11cf70823}{%
+           family={jmeter.apache.org/},
+           familyi={j\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cf0724ecb8af07ccbe721e11cf70823}
+      \strng{fullhash}{3cf0724ecb8af07ccbe721e11cf70823}
+      \strng{authornamehash}{3cf0724ecb8af07ccbe721e11cf70823}
+      \strng{authorfullhash}{3cf0724ecb8af07ccbe721e11cf70823}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JMeter Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://jmeter.apache.org
+      \endverb
+    \endentry
+    \entry{htopTanim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4e7ff763ced9343f183f30b2332dfba8}{%
+           family={en.wikipedia.org/wiki/Htop},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e7ff763ced9343f183f30b2332dfba8}
+      \strng{fullhash}{4e7ff763ced9343f183f30b2332dfba8}
+      \strng{authornamehash}{4e7ff763ced9343f183f30b2332dfba8}
+      \strng{authorfullhash}{4e7ff763ced9343f183f30b2332dfba8}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{htop Açıklaması}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Htop
+      \endverb
+    \endentry
     \entry{linuxMinimumSystemRequirements}{online}{}
       \name{author}{1}{}{%
         {{hash=3ca7ddbfb0571e86ec89407160f2aab4}{%
@@ -684,8 +732,8 @@
       \strng{fullhash}{3ca7ddbfb0571e86ec89407160f2aab4}
       \strng{authornamehash}{3ca7ddbfb0571e86ec89407160f2aab4}
       \strng{authorfullhash}{3ca7ddbfb0571e86ec89407160f2aab4}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Pardus Minimum System Requirements}
@@ -806,8 +854,8 @@
       \strng{fullhash}{73c733efb004028ab32181f48d8dbe79}
       \strng{authornamehash}{73c733efb004028ab32181f48d8dbe79}
       \strng{authorfullhash}{73c733efb004028ab32181f48d8dbe79}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Scaleway}
@@ -830,8 +878,8 @@
       \strng{fullhash}{fb960c1f5f519a52404c485f8327bace}
       \strng{authornamehash}{fb960c1f5f519a52404c485f8327bace}
       \strng{authorfullhash}{fb960c1f5f519a52404c485f8327bace}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{TMMOB 2017 yılı mühendis asgari ücretini belirledi}

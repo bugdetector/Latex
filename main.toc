@@ -44,72 +44,70 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Time Feasibility}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Economic Feasibility}{14}
+\contentsline {section}{\numberline {3.5}Economic Feasibility}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}System Analysis}{15}
+\contentsline {chapter}{\numberline {4}System Analysis}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Modules}{16}
+\contentsline {chapter}{\numberline {5}System Architecture Design}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}User Register Module}{16}
+\contentsline {section}{\numberline {5.1}Database Design}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}User Login Module}{16}
+\contentsline {section}{\numberline {5.2}Modules}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.3}Search Module}{16}
+\contentsline {subsection}{\numberline {5.2.1}User Register Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.4}Location Save Module}{17}
+\contentsline {subsection}{\numberline {5.2.2}User Login Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.5}Media Save Module}{17}
+\contentsline {subsection}{\numberline {5.2.3}User Password Reset Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.6}Feature Extraction Module}{17}
+\contentsline {subsection}{\numberline {5.2.4}Search Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.7}Trip Management Module}{17}
+\contentsline {subsection}{\numberline {5.2.5}Location Save Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.8}Notification Sender Module}{17}
+\contentsline {subsection}{\numberline {5.2.6}Media Save Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.9}Trip Upload Module}{17}
+\contentsline {subsection}{\numberline {5.2.7}Feature Extraction Module}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.10}Trip Download Module}{17}
+\contentsline {subsection}{\numberline {5.2.8}Trip Management Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.11}Team Trip Preparing Module}{18}
+\contentsline {subsection}{\numberline {5.2.9}Notification Sender Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.12}Team Content Merging Module}{18}
+\contentsline {subsection}{\numberline {5.2.10}Trip Upload Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.13}Team Members Location Tracking Module}{18}
+\contentsline {subsection}{\numberline {5.2.11}Trip Download Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.14}Content Complaint Module}{18}
+\contentsline {subsection}{\numberline {5.2.12}Team Trip Preparing Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.15}Shared Content Interaction Module}{18}
+\contentsline {subsection}{\numberline {5.2.13}Team Content Merging Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.16}Administrator Module}{18}
+\contentsline {subsection}{\numberline {5.2.14}Team Members Location Tracking Module}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.17}Users Interaction Module}{19}
+\contentsline {subsection}{\numberline {5.2.15}Content Complaint Module}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}System Architecture Design}{20}
+\contentsline {subsection}{\numberline {5.2.16}Shared Content Interaction Module}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Database UML Diagrams}{21}
+\contentsline {subsection}{\numberline {5.2.17}Administrator Module}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Software Design}{23}
+\contentsline {subsection}{\numberline {5.2.18}Users Interaction Module}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}User Modules}{23}
+\contentsline {subsection}{\numberline {5.2.19}Media Supplementation Module}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Administrator Modules}{24}
+\contentsline {chapter}{\numberline {6}Application}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Application}{27}
+\contentsline {section}{\numberline {6.1}Web Application}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Web Application}{27}
+\contentsline {section}{\numberline {6.2}Mobile Apllication}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Mobile Apllication}{42}
+\contentsline {chapter}{\numberline {7}Experimental Results And Performance Analysis}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Experimental Results And Performance Analysis}{54}
+\contentsline {section}{\numberline {7.1}Experimental Results}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Experimental Results}{54}
+\contentsline {section}{\numberline {7.2}Performance Analysis}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Performance Analysis}{54}
+\contentsline {subsection}{\numberline {7.2.1}Result}{63}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Result}{65}
+\contentsline {chapter}{\numberline {8}Conclusion}{65}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Conclusion}{67}
+\contentsline {chapter}{References}{67}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{69}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Curriculum Vitae}{72}
+\contentsline {chapter}{Curriculum Vitae}{70}
