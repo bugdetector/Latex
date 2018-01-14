@@ -2,18 +2,30 @@
 
 Project details and descriptions also architectural design of project are explained in this chapter.
 
-Mobile application will saved location, notes and media files also location of media files to storage when user start trip tracking feature of mobile application. Before starting a trip user can choose some of his/her friends to organize a trip with them when connected to Internet. If a person added a trip, this person will give an invitation notification which asks user to accept joining or reject joining to trip. If user accepted invitation he/she can join trip as a member. Inviter is accepted as leader of team. During the trip all user's behavior saved separately. If location sharing feature opened any member of this team can watch other members location. Hovewer as we mentioned this feature requires Internet connection. At the end of trip when user want to share his/her trip data, path data will be provided from team leader but all of media data will be merged. All users can select sharing data separately.
+Mobile application will saved location, notes and media files also location of media files to storage when user start trip tracking feature of mobile application. Before starting a trip user can choose some of his/her friends to organize a trip with them when connected to Internet. If a person added a trip, this person will give an invitation notification which asks user to accept joining or reject joining to trip. If user accepted invitation he/she can join trip as a member. Inviter is accepted as leader of team. During the trip all user's behaviour saved separately. If location sharing feature opened any member of this team can watch other members location. However as we mentioned this feature requires Internet connection. At the end of trip when user want to share his/her trip data, path data will be provided from team leader but all of media data will be merged. All users can select sharing data separately.
 
-In order to save location on background, Android application will use a location saving service. Using service is a must because, Android services can provide to execute a process for long time on the background. This application must to run location save service for long time. User can watch his/her location path on map during trip. If user wants to follow a path which is shared by anathor user, he/she can follow the path by looking at map.
+In order to save location on background, Android application will use a location saving service. Using service is a must because, Android services can provide to execute a process for long time on the background. This application must to run location save service for long time. User can watch his/her location path on map during trip. If user wants to follow a path which is shared by another user, he/she can follow the path by looking at map.
 
 \newpage
 \section{Database Design}
+
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/android_database.png}
 \caption{Mobile Application Database Diagram}
 \label{fig:roles}
 \end{figure}
+
+\newpage
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/databaseDesign.png}
+\caption{Server Side Database Diagram}
+\label{fig:roles}
+\end{figure}
+
+
 
 \newpage
 \section{Modules}
@@ -71,28 +83,28 @@ The dataflow diagrams are shown in Figure \ref{fig:roles}, \ref{fig:userdataflow
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/dataflow.png}
-\caption{Adını Değiştir}
+\caption{Level zero data flow diagram}
 \label{fig:dataflow}
 \end{figure}
 
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/dataflow2.png}
-\caption{Adını Değiştir}
+\caption{Level one data flow diagram}
 \label{fig:dataflow2}
 \end{figure}
 
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/dataflow3.png}
-\caption{User Data Flow Schema}
+\caption{Level two user data flow diagram}
 \label{fig:userdataflow}
 \end{figure}
 
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/dataflow4.png}
-\caption{Admin Data Flow Schema}
+\caption{Level two administrator data flow diagram}
 \label{fig:admindataflow}
 \end{figure}
 

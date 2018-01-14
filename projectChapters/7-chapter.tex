@@ -6,7 +6,7 @@ Web and mobile platform has been tested in our project. Different scenarios were
 
 \section{Performance Analysis}
 
-Performance tests were calculated with Apache JMeter tool which makes HTTP request simultaneously depending upon call number that we give. We monitored the CPU and RAM percentage at the server side by using HTOP tool. We called home page with GET method up to for 200 users simultaneously. Different outputs for different number of calls is shown below. HTTP calls loop count is 10 and time interval between loop counts is 10 seconds.
+Performance tests were calculated with Apache JMeter tool which makes HTTP request simultaneously depending upon call number that we give. We monitored the CPU and RAM percentage at the server side by using HTOP tool. Different outputs for different number of calls is shown below. HTTP calls loop count is 10 and time interval between loop counts is 10 seconds.
 
 One of the example HTTP call is shown in Figure 
 \ref{fig:exampleCall}.
@@ -14,7 +14,7 @@ One of the example HTTP call is shown in Figure
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/exampleCall.png}
-\caption{When server is idle position}
+\caption{Example HTTP call}
 \label{fig:exampleCall}
 \end{figure}
 
@@ -32,36 +32,57 @@ Server's idle performance is shown in Figure
 
 \newpage
 
-When server's performance 30 user simultaneous GET call is shown Figure
+When server's performance 30 simultaneous GET call is shown Figure
 \ref{fig:30users}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{projectChapters/images/30users.png}
+\includegraphics[width=\textwidth]{projectChapters/images/30users1.png}
+\caption{Server 30 GET HTTP calls simultaneously}
+\label{fig:30users}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/30users2.png}
 \caption{Server 30 GET HTTP calls simultaneously}
 \label{fig:30users}
 \end{figure}
 
 \newpage
 
-When server's performance 100 user simultaneous GET call is shown Figure
+When server's performance 100 simultaneous GET call is shown Figure
 \ref{fig:100users}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{projectChapters/images/100users.png}
+\includegraphics[width=\textwidth]{projectChapters/images/100users1.png}
+\caption{Server 100 GET HTTP calls simultaneously}
+\label{fig:100users}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/100users2.png}
 \caption{Server 100 GET HTTP calls simultaneously}
 \label{fig:100users}
 \end{figure}
 
 \newpage
 
-When server's performance 130 user simultaneous GET and POST call is shown Figure
+When server's performance 130 simultaneous GET and POST call is shown Figure
 \ref{fig:130users}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{projectChapters/images/130users.png}
+\includegraphics[width=\textwidth]{projectChapters/images/130users1.png}
+\caption{Server 130 GET and POST HTTP calls simultaneously}
+\label{fig:130users}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/130users2.png}
 \caption{Server 130 GET and POST HTTP calls simultaneously}
 \label{fig:130users}
 \end{figure}
@@ -69,12 +90,19 @@ When server's performance 130 user simultaneous GET and POST call is shown Figur
 \newpage
 
 
-When server's performance 180 user simultaneous GET and two POST call is shown Figure
+When server's performance 180 simultaneous GET and two POST call is shown Figure
 \ref{fig:180user}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{projectChapters/images/180user.png}
+\includegraphics[width=\textwidth]{projectChapters/images/180users1.png}
+\caption{Server 180 GET and two POST HTTP calls simultaneously}
+\label{fig:180user}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/180users2.png}
 \caption{Server 180 GET and two POST HTTP calls simultaneously}
 \label{fig:180user}
 \end{figure}
@@ -84,7 +112,7 @@ When server's performance 180 user simultaneous GET and two POST call is shown F
  
 \subsection{Result}
 
-As we seen the results above, the server can handle up to 200 users simultaneously, its bottleneck is its CPU power, because maximum RAM usage 20 percent even the highest limit of calls.
+As we seen the results above, the server can handle up to 200 simultaneously HTTP calls, its bottleneck is its CPU power, because maximum RAM usage 20 percent even the highest limit of calls. If we assume that average HTTP calls per web page is 20, (the number can vary depending upon the demand of the user) as a result, if server can handle 200 simultaneous calls and user makes 20 calls per page we can say the average number of users that our server can handle is 10.
 
 Comparison between HTTP calls and the result outputs of error rate, throughput, Received KB/sec, Sent KB/sec, Avg Bytes are shown in Figure
 
@@ -93,7 +121,7 @@ Comparison between HTTP calls and the result outputs of error rate, throughput, 
 \begin{figure}[!htbp]
 \centering
 \includegraphics[width=\textwidth]{projectChapters/images/summaryReport.png}
-\caption{Summary}
+\caption{Statistical summary report of HTTP calls}
 \label{fig:summaryReport}
 \end{figure}
 
