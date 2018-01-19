@@ -31,8 +31,8 @@
       \strng{fullhash}{813011e39d35e72c7119da0a60e4e351}
       \strng{authornamehash}{813011e39d35e72c7119da0a60e4e351}
       \strng{authorfullhash}{813011e39d35e72c7119da0a60e4e351}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Trip Tracker}
@@ -56,8 +56,8 @@
       \strng{fullhash}{813011e39d35e72c7119da0a60e4e351}
       \strng{authornamehash}{813011e39d35e72c7119da0a60e4e351}
       \strng{authorfullhash}{813011e39d35e72c7119da0a60e4e351}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Location and Obsevation Platform}
@@ -79,8 +79,8 @@
       \strng{fullhash}{71abf94240e4a19d7cbf7120dc6e7ca0}
       \strng{authornamehash}{71abf94240e4a19d7cbf7120dc6e7ca0}
       \strng{authorfullhash}{71abf94240e4a19d7cbf7120dc6e7ca0}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Route Tracker}
@@ -102,8 +102,8 @@
       \strng{fullhash}{5831f3017d292f90a6cf6a446dac8cba}
       \strng{authornamehash}{5831f3017d292f90a6cf6a446dac8cba}
       \strng{authorfullhash}{5831f3017d292f90a6cf6a446dac8cba}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{sortinit}{6}
+      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Polar Steps}
@@ -127,8 +127,8 @@
       \strng{fullhash}{2720e823db87672e3be1971d976ca746}
       \strng{authornamehash}{2720e823db87672e3be1971d976ca746}
       \strng{authorfullhash}{2720e823db87672e3be1971d976ca746}
-      \field{sortinit}{5}
-      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{sortinit}{7}
+      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Google Maps}
@@ -150,8 +150,8 @@
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
-      \field{sortinit}{6}
-      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{sortinit}{8}
+      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Android}
@@ -174,8 +174,8 @@
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
-      \field{sortinit}{7}
-      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{iOS}
@@ -188,6 +188,30 @@
       \verb http://www.wikizero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvxLBPUw
       \endverb
     \endentry
+    \entry{AndroidMarketShare}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0dfcc4a2577af287e948561de2e93e0e}{%
+           family={IDC},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dfcc4a2577af287e948561de2e93e0e}
+      \strng{fullhash}{0dfcc4a2577af287e948561de2e93e0e}
+      \strng{authornamehash}{0dfcc4a2577af287e948561de2e93e0e}
+      \strng{authorfullhash}{0dfcc4a2577af287e948561de2e93e0e}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Android Market Share}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.idc.com/promo/smartphone-market-share/os
+      \endverb
+    \endentry
     \entry{androidStudio}{online}{}
       \name{author}{1}{}{%
         {{hash=8b36e9207c24c76e6719268e49201d94}{%
@@ -198,8 +222,8 @@
       \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
-      \field{sortinit}{8}
-      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Android Studio}
@@ -224,8 +248,8 @@
       \strng{fullhash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authornamehash}{17c630bba78b078e4e4b5966c913d7a6}
       \strng{authorfullhash}{17c630bba78b078e4e4b5966c913d7a6}
-      \field{sortinit}{9}
-      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Sqlite}
@@ -394,8 +418,8 @@
       \strng{fullhash}{6e64a7192c8743807ee45160cc10e3a8}
       \strng{authornamehash}{6e64a7192c8743807ee45160cc10e3a8}
       \strng{authorfullhash}{6e64a7192c8743807ee45160cc10e3a8}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{MySQL Açıklaması}
@@ -418,8 +442,8 @@
       \strng{fullhash}{6e64a7192c8743807ee45160cc10e3a8}
       \strng{authornamehash}{6e64a7192c8743807ee45160cc10e3a8}
       \strng{authorfullhash}{6e64a7192c8743807ee45160cc10e3a8}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{MySQL WorkBench Açıklaması}
@@ -442,8 +466,8 @@
       \strng{fullhash}{3485c9ec2e6d7faae20270a21b0f3db6}
       \strng{authornamehash}{3485c9ec2e6d7faae20270a21b0f3db6}
       \strng{authorfullhash}{3485c9ec2e6d7faae20270a21b0f3db6}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bootstrap Açıklaması}
@@ -466,8 +490,8 @@
       \strng{fullhash}{e31fc9c182bd63fa9cf327db4082970e}
       \strng{authornamehash}{e31fc9c182bd63fa9cf327db4082970e}
       \strng{authorfullhash}{e31fc9c182bd63fa9cf327db4082970e}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Angular JS Açıklaması}
@@ -610,8 +634,8 @@
       \strng{fullhash}{b5f54617c9d2c674b2a635296cae2805}
       \strng{authornamehash}{b5f54617c9d2c674b2a635296cae2805}
       \strng{authorfullhash}{b5f54617c9d2c674b2a635296cae2805}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Putty Açıklaması}
@@ -634,8 +658,8 @@
       \strng{fullhash}{b5f54617c9d2c674b2a635296cae2805}
       \strng{authornamehash}{b5f54617c9d2c674b2a635296cae2805}
       \strng{authorfullhash}{b5f54617c9d2c674b2a635296cae2805}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{VNC Açıklaması}
@@ -658,8 +682,8 @@
       \strng{fullhash}{d2dca1eab4b2d597043173aa7d22c4b9}
       \strng{authornamehash}{d2dca1eab4b2d597043173aa7d22c4b9}
       \strng{authorfullhash}{d2dca1eab4b2d597043173aa7d22c4b9}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{VNC Açıklaması}
@@ -682,15 +706,15 @@
       \strng{fullhash}{3cf0724ecb8af07ccbe721e11cf70823}
       \strng{authornamehash}{3cf0724ecb8af07ccbe721e11cf70823}
       \strng{authorfullhash}{3cf0724ecb8af07ccbe721e11cf70823}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{JMeter Açıklaması}
       \field{urlday}{31}
       \field{urlmonth}{12}
       \field{urlyear}{2017}
-      \field{year}{2016}
+      \field{year}{2017}
       \field{urldateera}{ce}
       \verb{url}
       \verb http://jmeter.apache.org
@@ -806,8 +830,8 @@
       \strng{fullhash}{62a004b95946bb97541afa471dcca73a}
       \strng{authornamehash}{62a004b95946bb97541afa471dcca73a}
       \strng{authorfullhash}{62a004b95946bb97541afa471dcca73a}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{MySQL}
@@ -830,8 +854,8 @@
       \strng{fullhash}{541f43e716665456675cff4f4800b110}
       \strng{authornamehash}{541f43e716665456675cff4f4800b110}
       \strng{authorfullhash}{541f43e716665456675cff4f4800b110}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Zip Compression Benchmarks}
@@ -902,8 +926,8 @@
       \strng{fullhash}{34f5a1fd93722fd396a0940588534588}
       \strng{authornamehash}{34f5a1fd93722fd396a0940588534588}
       \strng{authorfullhash}{34f5a1fd93722fd396a0940588534588}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Dell Vostro 5468 8GB RAM 256 GB SSD}
@@ -926,8 +950,8 @@
       \strng{fullhash}{9679a9e224f5d123d7afa7c549fb1d70}
       \strng{authornamehash}{9679a9e224f5d123d7afa7c549fb1d70}
       \strng{authorfullhash}{9679a9e224f5d123d7afa7c549fb1d70}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{General Mobile GM6}

@@ -1,107 +1,103 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Resource Chart\relax }}{12}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Smartphone OS Market Share \cite {AndroidMarketShare}\relax }}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Gantt Diagram Drawing\relax }}{13}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Resource Chart\relax }}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces PERT Diagram Drawing\relax }}{14}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Gantt Diagram Drawing\relax }}{14}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces System Schema\relax }}{17}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces PERT Diagram Drawing\relax }}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces User Roles\relax }}{17}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces System Schema\relax }}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Mobile Application Database Diagram\relax }}{19}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces User Roles\relax }}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Server Side Database Diagram\relax }}{20}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Mobile Application Database Diagram\relax }}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Level zero data flow diagram\relax }}{24}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Server Side Database Diagram\relax }}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Level one data flow diagram\relax }}{24}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Level zero data flow diagram\relax }}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Level two user data flow diagram\relax }}{25}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Level one data flow diagram\relax }}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Level two administrator data flow diagram\relax }}{25}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Level two user data flow diagram\relax }}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Main page of the website\relax }}{26}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Level two administrator data flow diagram\relax }}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Register screen for users\relax }}{27}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Main page of the website\relax }}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Register screen for users\relax }}{28}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {6.3}{\ignorespaces Activation screen for users\relax }}{28}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {6.4}{\ignorespaces Forgot my password screen for users\relax }}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Support screen for users\relax }}{30}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Support screen for users\relax }}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Home screen for users\relax }}{31}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Home screen for users\relax }}{30}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Responsive home screen for users\relax }}{32}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Notification screen for users\relax }}{31}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Notification screen for users\relax }}{33}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Profile page for users\relax }}{31}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Profile page for users\relax }}{34}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Profile page for users\relax }}{32}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Profile page for users\relax }}{35}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Profile page for users\relax }}{32}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Profile page for users\relax }}{36}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces User page\relax }}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.12}{\ignorespaces User page\relax }}{37}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Creating complaint screen for users, trips and comments\relax }}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Creating complaint screen for users, trips and comments\relax }}{38}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Trip details screen\relax }}{34}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Trip details screen\relax }}{39}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Search page\relax }}{34}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Search page\relax }}{40}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Administrator page\relax }}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Administrator page\relax }}{41}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Administrator page\relax }}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Administrator page\relax }}{42}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Mobile application register page\relax }}{36}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.18}{\ignorespaces Mobile application register page\relax }}{43}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Mobile application Welcome Screen and Navigation Bar\relax }}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.19}{\ignorespaces Mobile application login page\relax }}{44}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Mobile application home page\relax }}{38}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.20}{\ignorespaces Mobile application Welcome Screen and Navigation Bar\relax }}{45}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Mobile application notification page\relax }}{38}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.21}{\ignorespaces Mobile application home page\relax }}{46}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Mobile application search page\relax }}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.22}{\ignorespaces Mobile application notification page\relax }}{47}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces Mobile application trip download module\relax }}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.23}{\ignorespaces Mobile application profile page\relax }}{48}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Mobile application downloaded trip section\relax }}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.24}{\ignorespaces Mobile application search page\relax }}{49}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Mobile application downloaded trip section\relax }}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.25}{\ignorespaces Mobile application trip download module\relax }}{50}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Mobile application trip creating module\relax }}{41}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.26}{\ignorespaces Mobile application downloaded trip section\relax }}{51}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Mobile application trip creating module bottom view\relax }}{41}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.27}{\ignorespaces Mobile application downloaded trip section\relax }}{52}
+\contentsline {figure}{\numberline {6.27}{\ignorespaces Mobile application timeline module\relax }}{42}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.28}{\ignorespaces Mobile application trip creating module\relax }}{53}
+\contentsline {figure}{\numberline {6.28}{\ignorespaces Media manipulation and view screens\relax }}{42}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.29}{\ignorespaces Mobile application trip creating module bottom view\relax }}{54}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Example HTTP call\relax }}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.30}{\ignorespaces Mobile application timeline module\relax }}{55}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces When server is idle position\relax }}{44}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.31}{\ignorespaces Media manipulation and view screens\relax }}{56}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Server 30 GET HTTP calls simultaneously\relax }}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Example HTTP call\relax }}{57}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Server 30 GET HTTP calls simultaneously\relax }}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.2}{\ignorespaces When server is idle position\relax }}{58}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Server 100 GET HTTP calls simultaneously\relax }}{47}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Server 30 GET HTTP calls simultaneously\relax }}{59}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Server 100 GET HTTP calls simultaneously\relax }}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Server 30 GET HTTP calls simultaneously\relax }}{60}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Server 130 GET and POST HTTP calls simultaneously\relax }}{49}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Server 100 GET HTTP calls simultaneously\relax }}{61}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Server 130 GET and POST HTTP calls simultaneously\relax }}{50}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Server 100 GET HTTP calls simultaneously\relax }}{62}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Server 180 GET and two POST HTTP calls simultaneously\relax }}{51}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Server 130 GET and POST HTTP calls simultaneously\relax }}{63}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Server 180 GET and two POST HTTP calls simultaneously\relax }}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.8}{\ignorespaces Server 130 GET and POST HTTP calls simultaneously\relax }}{64}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.9}{\ignorespaces Server 180 GET and two POST HTTP calls simultaneously\relax }}{65}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.10}{\ignorespaces Server 180 GET and two POST HTTP calls simultaneously\relax }}{66}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.11}{\ignorespaces Statistical summary report of HTTP calls\relax }}{67}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Statistical summary report of HTTP calls\relax }}{53}

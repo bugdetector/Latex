@@ -3,10 +3,11 @@
 \newif\if@turkish \@turkishfalse
 \newif\if@phd \@phdfalse
 
+\DeclareOption{computer}{\@turkishtrue \@phdfalse}
 \DeclareOption{senior}{\@turkishfalse \@phdtrue}
 
 \newif\if@final \@finalfalse
-%s\DeclareOption{report}{\@finalfalse}
+\DeclareOption{report}{\@finalfalse}
 \DeclareOption{final}{\@finaltrue}
 
 \DeclareOption*{Invalid Option \CurrentOption}
