@@ -165,7 +165,19 @@ Other & Internet Connection & \\ \hline
 \newpage
 \subsection{Communication Feasibility}
 
-Media files and path files are seperately stored on users android device. It so hard to send all of trip data one by one to one device to another without any loss. So we thought about that to compressing all files in a zip file before sending from mobile device to web server or vice versa. So we sended all data in one file. Also we will use less data bandwidth by compression.
+Media files and path files are seperately stored on users android device. It so hard to send all of trip data one by one to one device to another without any loss. So we thought about that to compressing all files in a zip file before sending from mobile device to web server or vice versa. So we sended all data in one file. Also we will use less data bandwidth by compression. 
+
+We had to compress photo files also. An uncompressed photo can be 5 MB but if we compress a photo using a compression technic the size of file will decreased seriously. Android provides three types of compression technic; WEBP, PNG and JPEG. We using JPEG for compression. Our decide three shown in Figure \ref{fig:photoCompression}.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=\textwidth]{projectChapters/images/photoCompression.png}
+\caption{Photo Compression}
+\label{fig:photoCompression}
+\end{figure}
+
+Our web server is not support WEBP format. PNG format is more successful over JPEG when there is poor color variety in a photo. If there is rich variety of colors JPEG is more successful over PNG format. We thought about that our application will used in real life and our photos has rich variety of colors. So we have chosen JPEG format to compress photos.
+
 The Internet is the main communication technology used in this project. The
 anticipated communication variables are shown in Table \ref{table:commparameters}.
 

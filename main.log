@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.1)  19 JAN 2018 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.1)  20 JAN 2018 02:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,9 +870,6 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotereset=\count302
  (./main.aux
 
-LaTeX Warning: Label `fig:roles' multiply defined.
-
-
 LaTeX Warning: Label `fig:registerWeb' multiply defined.
 
 
@@ -1111,312 +1108,365 @@ Overfull \hbox (4.62741pt too wide) in paragraph at lines 135--147
  [][] 
  []
 
-[10] [11]
-<projectChapters/images/resource.png, id=92, 641.92764pt x 113.3647pt>
+[10]
+<projectChapters/images/photoCompression.png, id=89, 807.72353pt x 370.56088pt>
+
+File: projectChapters/images/photoCompression.png Graphic file (type png)
+<use projectChapters/images/photoCompression.png>
+Package pdftex.def Info: projectChapters/images/photoCompression.png  used on i
+nput line 174. on input line 174.
+Package pdftex.def Info: Requested size: 426.79135pt x 195.79697pt on input lin
+e 174.
+ [11 <./projectChapters/images/photoCompression.png>]
+<projectChapters/images/resource.png, id=94, 641.92764pt x 113.3647pt>
 File: projectChapters/images/resource.png Graphic file (type png)
 <use projectChapters/images/resource.png>
 Package pdftex.def Info: projectChapters/images/resource.png  used on input lin
-e 236. on input line 236.
+e 248. on input line 248.
 Package pdftex.def Info: Requested size: 426.79816pt x 117.47615pt on input lin
-e 236.
+e 248.
  [12] [13 <./projectChapters/images/resource.png (PNG copy)>]
-<projectChapters/images/gant.png, id=102, 240.19147pt x 975.645pt>
+<projectChapters/images/gant.png, id=104, 240.19147pt x 975.645pt>
 File: projectChapters/images/gant.png Graphic file (type png)
 <use projectChapters/images/gant.png>
-Package pdftex.def Info: projectChapters/images/gant.png  used on input line 25
-1. on input line 251.
+Package pdftex.def Info: projectChapters/images/gant.png  used on input line 26
+3. on input line 263.
 Package pdftex.def Info: Requested size: 153.722pt x 624.41068pt on input line 
-251.
-<projectChapters/images/pert.png, id=103, 123.99265pt x 896.2897pt>
+263.
+<projectChapters/images/pert.png, id=105, 123.99265pt x 896.2897pt>
 File: projectChapters/images/pert.png Graphic file (type png)
 <use projectChapters/images/pert.png>
-Package pdftex.def Info: projectChapters/images/pert.png  used on input line 25
-8. on input line 258.
+Package pdftex.def Info: projectChapters/images/pert.png  used on input line 27
+0. on input line 270.
 Package pdftex.def Info: Requested size: 86.79424pt x 627.39853pt on input line
- 258.
+ 270.
  [14 <./projectChapters/images/gant.png (PNG copy)>] [15 <./projectChapters/ima
-ges/pert.png (PNG copy)>]) (./projectChapters/4-chapter.tex [16]
+ges/pert.png (PNG copy)>])
+(./projectChapters/4-chapter.tex [16]
  4.
-<projectChapters/images/system_diagram.png, id=113, 845.27559pt x 597.2903pt>
+<projectChapters/images/system_diagram.png, id=115, 845.27559pt x 597.2903pt>
 File: projectChapters/images/system_diagram.png Graphic file (type png)
 <use projectChapters/images/system_diagram.png>
 Package pdftex.def Info: projectChapters/images/system_diagram.png  used on inp
 ut line 13. on input line 13.
 Package pdftex.def Info: Requested size: 426.79135pt x 301.5882pt on input line
  13.
-<projectChapters/images/ER.png, id=114, 704.6325pt x 433.62pt>
+<projectChapters/images/ER.png, id=116, 704.6325pt x 433.62pt>
 File: projectChapters/images/ER.png Graphic file (type png)
 <use projectChapters/images/ER.png>
 Package pdftex.def Info: projectChapters/images/ER.png  used on input line 20. 
 on input line 20.
 Package pdftex.def Info: Requested size: 426.79135pt x 262.64195pt on input lin
 e 20.
+<projectChapters/images/usedTechnologies.png, id=117, 1212.02812pt x 685.8122pt
+>
+File: projectChapters/images/usedTechnologies.png Graphic file (type png)
+<use projectChapters/images/usedTechnologies.png>
+Package pdftex.def Info: projectChapters/images/usedTechnologies.png  used on i
+nput line 27. on input line 27.
+Package pdftex.def Info: Requested size: 426.79135pt x 241.49245pt on input lin
+e 27.
+<projectChapters/images/personalTripWorkflow.png, id=118, 597.2903pt x 845.2755
+9pt>
+File: projectChapters/images/personalTripWorkflow.png Graphic file (type png)
+<use projectChapters/images/personalTripWorkflow.png>
+Package pdftex.def Info: projectChapters/images/personalTripWorkflow.png  used 
+on input line 34. on input line 34.
+Package pdftex.def Info: Requested size: 426.79135pt x 603.99344pt on input lin
+e 34.
+<projectChapters/images/teamTripWorkflow.png, id=119, 597.2903pt x 845.27559pt>
+
+File: projectChapters/images/teamTripWorkflow.png Graphic file (type png)
+<use projectChapters/images/teamTripWorkflow.png>
+Package pdftex.def Info: projectChapters/images/teamTripWorkflow.png  used on i
+nput line 41. on input line 41.
+Package pdftex.def Info: Requested size: 426.79135pt x 603.99344pt on input lin
+e 41.
 ) (./projectChapters/5-chapter.tex [17
 
 ] [18 <./projectChapters/images/system_diagram.png> <./projectChapters/images/E
-R.png>]
+R.png>] [19 <./projectChapters/images/usedTechnologies.png>] [20 <./projectChap
+ters/images/personalTripWorkflow.png>]
+[21 <./projectChapters/images/teamTripWorkflow.png>]
  5.
-[19
+[22
 
 ]
-<projectChapters/images/android_database.png, id=127, 723.70375pt x 364.36125pt
+<projectChapters/images/creatingZipFile.png, id=144, 913.29442pt x 452.04176pt>
+
+File: projectChapters/images/creatingZipFile.png Graphic file (type png)
+<use projectChapters/images/creatingZipFile.png>
+Package pdftex.def Info: projectChapters/images/creatingZipFile.png  used on in
+put line 17. on input line 17.
+Package pdftex.def Info: Requested size: 426.79135pt x 211.24567pt on input lin
+e 17.
+<projectChapters/images/metadata.png, id=145, 826.85382pt x 381.89735pt>
+File: projectChapters/images/metadata.png Graphic file (type png)
+<use projectChapters/images/metadata.png>
+Package pdftex.def Info: projectChapters/images/metadata.png  used on input lin
+e 26. on input line 26.
+Package pdftex.def Info: Requested size: 426.79135pt x 197.1193pt on input line
+ 26.
+ [23 <./projectChapters/images/creatingZipFile.png> <./projectChapters/images/m
+etadata.png>]
+<projectChapters/images/android_database.png, id=151, 723.70375pt x 364.36125pt
 >
 File: projectChapters/images/android_database.png Graphic file (type png)
 <use projectChapters/images/android_database.png>
 Package pdftex.def Info: projectChapters/images/android_database.png  used on i
-nput line 15. on input line 15.
+nput line 38. on input line 38.
 Package pdftex.def Info: Requested size: 426.79135pt x 214.87675pt on input lin
-e 15.
-<projectChapters/images/databaseDesign.png, id=128, 1023.825pt x 1057.9525pt>
+e 38.
+<projectChapters/images/databaseDesign.png, id=152, 1023.825pt x 1057.9525pt>
 File: projectChapters/images/databaseDesign.png Graphic file (type png)
 <use projectChapters/images/databaseDesign.png>
 Package pdftex.def Info: projectChapters/images/databaseDesign.png  used on inp
-ut line 22. on input line 22.
+ut line 45. on input line 45.
 Package pdftex.def Info: Requested size: 469.88727pt x 681.33292pt on input lin
-e 22.
+e 45.
 
-Overfull \hbox (43.09592pt too wide) in paragraph at lines 22--23
+Overfull \hbox (43.09592pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 3.04982pt on input line 25.
+LaTeX Warning: Float too large for page by 3.04982pt on input line 48.
 
-[20 <./projectChapters/images/android_database.png>] [21 <./projectChapters/ima
+[24 <./projectChapters/images/android_database.png>] [25 <./projectChapters/ima
 ges/databaseDesign.png>]
-Underfull \hbox (badness 3884) in paragraph at lines 40--41
+Underfull \hbox (badness 3884) in paragraph at lines 63--64
 \T1/cmr/m/n/12 This module runs as a background task on Android device and save
 s
  []
 
-[22] [23]
-<projectChapters/images/dataflow.png, id=142, 776.14969pt x 330.48468pt>
+[26] [27]
+<projectChapters/images/dataflow.png, id=167, 776.14969pt x 330.48468pt>
 File: projectChapters/images/dataflow.png Graphic file (type png)
 <use projectChapters/images/dataflow.png>
 Package pdftex.def Info: projectChapters/images/dataflow.png  used on input lin
-e 83. on input line 83.
+e 106. on input line 106.
 Package pdftex.def Info: Requested size: 426.80075pt x 293.69171pt on input lin
-e 83.
-<projectChapters/images/dataflow2.png, id=143, 810.02625pt x 395.97937pt>
+e 106.
+<projectChapters/images/dataflow2.png, id=168, 810.02625pt x 395.97937pt>
 File: projectChapters/images/dataflow2.png Graphic file (type png)
 <use projectChapters/images/dataflow2.png>
 Package pdftex.def Info: projectChapters/images/dataflow2.png  used on input li
-ne 90. on input line 90.
+ne 113. on input line 113.
 Package pdftex.def Info: Requested size: 426.80278pt x 293.68478pt on input lin
-e 90.
-<projectChapters/images/dataflow3.png, id=144, 567.62062pt x 408.77719pt>
+e 113.
+<projectChapters/images/dataflow3.png, id=169, 567.62062pt x 408.77719pt>
 File: projectChapters/images/dataflow3.png Graphic file (type png)
 <use projectChapters/images/dataflow3.png>
 Package pdftex.def Info: projectChapters/images/dataflow3.png  used on input li
-ne 97. on input line 97.
+ne 120. on input line 120.
 Package pdftex.def Info: Requested size: 426.79135pt x 307.36804pt on input lin
-e 97.
-<projectChapters/images/dataflow4.png, id=145, 693.34032pt x 422.32782pt>
+e 120.
+<projectChapters/images/dataflow4.png, id=170, 693.34032pt x 422.32782pt>
 File: projectChapters/images/dataflow4.png Graphic file (type png)
 <use projectChapters/images/dataflow4.png>
 Package pdftex.def Info: projectChapters/images/dataflow4.png  used on input li
-ne 104. on input line 104.
+ne 127. on input line 127.
 Package pdftex.def Info: Requested size: 426.79135pt x 259.97173pt on input lin
-e 104.
-) (./projectChapters/6-chapter.tex [24] [25 <./projectChapters/images/dataflow.
-png> <./projectChapters/images/dataflow2.png>] [26 <./projectChapters/images/da
+e 127.
+) (./projectChapters/6-chapter.tex [28] [29 <./projectChapters/images/dataflow.
+png> <./projectChapters/images/dataflow2.png>] [30 <./projectChapters/images/da
 taflow3.png> <./projectChapters/images/dataflow4.png>]
  6.
-<projectChapters/images/main1.png, id=160, 994.46532pt x 487.06969pt>
+<projectChapters/images/main1.png, id=185, 994.46532pt x 487.06969pt>
 File: projectChapters/images/main1.png Graphic file (type png)
 <use projectChapters/images/main1.png>
 Package pdftex.def Info: projectChapters/images/main1.png  used on input line 1
 1. on input line 11.
 Package pdftex.def Info: Requested size: 426.79135pt x 209.03455pt on input lin
 e 11.
-[27
+[31
 
  <./projectChapters/images/main1.png>]
-<projectChapters/images/main2.png, id=165, 747.54282pt x 471.26062pt>
+<projectChapters/images/main2.png, id=190, 747.54282pt x 471.26062pt>
 File: projectChapters/images/main2.png Graphic file (type png)
 <use projectChapters/images/main2.png>
 Package pdftex.def Info: projectChapters/images/main2.png  used on input line 2
 2. on input line 22.
 Package pdftex.def Info: Requested size: 426.79135pt x 269.0528pt on input line
  22.
-<projectChapters/images/activasion.png, id=166, 1009.52156pt x 490.83376pt>
+<projectChapters/images/activasion.png, id=191, 1009.52156pt x 490.83376pt>
 File: projectChapters/images/activasion.png Graphic file (type png)
 <use projectChapters/images/activasion.png>
 Package pdftex.def Info: projectChapters/images/activasion.png  used on input l
 ine 31. on input line 31.
 Package pdftex.def Info: Requested size: 426.79135pt x 207.50436pt on input lin
 e 31.
- [28 <./projectChapters/images/main2.png> <./projectChapters/images/activasion.
+ [32 <./projectChapters/images/main2.png> <./projectChapters/images/activasion.
 png>]
-<projectChapters/images/forgetpass.png, id=172, 950.80219pt x 487.06969pt>
+<projectChapters/images/forgetpass.png, id=197, 950.80219pt x 487.06969pt>
 File: projectChapters/images/forgetpass.png Graphic file (type png)
 <use projectChapters/images/forgetpass.png>
 Package pdftex.def Info: projectChapters/images/forgetpass.png  used on input l
 ine 42. on input line 42.
 Package pdftex.def Info: Requested size: 426.79135pt x 218.63678pt on input lin
 e 42.
-<projectChapters/images/supportPage.png, id=173, 970.3753pt x 445.665pt>
+<projectChapters/images/supportPage.png, id=198, 970.3753pt x 445.665pt>
 File: projectChapters/images/supportPage.png Graphic file (type png)
 <use projectChapters/images/supportPage.png>
 Package pdftex.def Info: projectChapters/images/supportPage.png  used on input 
 line 51. on input line 51.
 Package pdftex.def Info: Requested size: 426.79135pt x 196.0184pt on input line
  51.
- [29 <./projectChapters/images/forgetpass.png> <./projectChapters/images/suppor
+ [33 <./projectChapters/images/forgetpass.png> <./projectChapters/images/suppor
 tPage.png>]
-<projectChapters/images/homepageWeb.png, id=179, 845.27559pt x 439.99677pt>
+<projectChapters/images/homepageWeb.png, id=204, 845.27559pt x 439.99677pt>
 File: projectChapters/images/homepageWeb.png Graphic file (type png)
 <use projectChapters/images/homepageWeb.png>
 Package pdftex.def Info: projectChapters/images/homepageWeb.png  used on input 
 line 65. on input line 65.
 Package pdftex.def Info: Requested size: 426.79135pt x 222.1664pt on input line
  65.
- [30 <./projectChapters/images/homepageWeb.png>]
-<projectChapters/images/notificationPage.png, id=185, 987.69pt x 340.27126pt>
+ [34 <./projectChapters/images/homepageWeb.png>]
+<projectChapters/images/notificationPage.png, id=209, 987.69pt x 340.27126pt>
 File: projectChapters/images/notificationPage.png Graphic file (type png)
 <use projectChapters/images/notificationPage.png>
 Package pdftex.def Info: projectChapters/images/notificationPage.png  used on i
 nput line 76. on input line 76.
 Package pdftex.def Info: Requested size: 426.79135pt x 147.03029pt on input lin
 e 76.
-<projectChapters/images/profileWeb1.png, id=186, 994.46532pt x 487.8225pt>
+<projectChapters/images/profileWeb1.png, id=210, 994.46532pt x 487.8225pt>
 File: projectChapters/images/profileWeb1.png Graphic file (type png)
 <use projectChapters/images/profileWeb1.png>
 Package pdftex.def Info: projectChapters/images/profileWeb1.png  used on input 
 line 85. on input line 85.
 Package pdftex.def Info: Requested size: 426.79135pt x 209.35764pt on input lin
 e 85.
- [31 <./projectChapters/images/notificationPage.png> <./projectChapters/images/
+ [35 <./projectChapters/images/notificationPage.png> <./projectChapters/images/
 profileWeb1.png>]
-<projectChapters/images/profileWeb2.png, id=191, 987.69pt x 485.56406pt>
+<projectChapters/images/profileWeb2.png, id=215, 987.69pt x 485.56406pt>
 File: projectChapters/images/profileWeb2.png Graphic file (type png)
 <use projectChapters/images/profileWeb2.png>
 Package pdftex.def Info: projectChapters/images/profileWeb2.png  used on input 
 line 96. on input line 96.
 Package pdftex.def Info: Requested size: 426.79135pt x 209.81093pt on input lin
 e 96.
-<projectChapters/images/profileWeb3.png, id=192, 985.43156pt x 425.33907pt>
+<projectChapters/images/profileWeb3.png, id=216, 985.43156pt x 425.33907pt>
 File: projectChapters/images/profileWeb3.png Graphic file (type png)
 <use projectChapters/images/profileWeb3.png>
 Package pdftex.def Info: projectChapters/images/profileWeb3.png  used on input 
 line 105. on input line 105.
 Package pdftex.def Info: Requested size: 426.79135pt x 184.21622pt on input lin
 e 105.
- [32 <./projectChapters/images/profileWeb2.png> <./projectChapters/images/profi
+ [36 <./projectChapters/images/profileWeb2.png> <./projectChapters/images/profi
 leWeb3.png>]
-<projectChapters/images/userpageWeb.png, id=198, 1000.48781pt x 225.84375pt>
+<projectChapters/images/userpageWeb.png, id=223, 1000.48781pt x 225.84375pt>
 File: projectChapters/images/userpageWeb.png Graphic file (type png)
 <use projectChapters/images/userpageWeb.png>
 Package pdftex.def Info: projectChapters/images/userpageWeb.png  used on input 
 line 116. on input line 116.
 Package pdftex.def Info: Requested size: 426.79135pt x 96.34242pt on input line
  116.
-<projectChapters/images/complaintPage.png, id=199, 853.68938pt x 407.27156pt>
+<projectChapters/images/complaintPage.png, id=224, 853.68938pt x 407.27156pt>
 File: projectChapters/images/complaintPage.png Graphic file (type png)
 <use projectChapters/images/complaintPage.png>
 Package pdftex.def Info: projectChapters/images/complaintPage.png  used on inpu
 t line 125. on input line 125.
 Package pdftex.def Info: Requested size: 426.79135pt x 203.61662pt on input lin
 e 125.
- [33 <./projectChapters/images/userpageWeb.png> <./projectChapters/images/compl
+ [37 <./projectChapters/images/userpageWeb.png> <./projectChapters/images/compl
 aintPage.png>]
-<projectChapters/images/tripDetail.png, id=205, 876.27374pt x 495.35063pt>
+<projectChapters/images/tripDetail.png, id=231, 876.27374pt x 495.35063pt>
 File: projectChapters/images/tripDetail.png Graphic file (type png)
 <use projectChapters/images/tripDetail.png>
 Package pdftex.def Info: projectChapters/images/tripDetail.png  used on input l
 ine 137. on input line 137.
 Package pdftex.def Info: Requested size: 350.50328pt x 198.13673pt on input lin
 e 137.
-<projectChapters/images/searchPageWeb.png, id=206, 856.70062pt x 490.08093pt>
+<projectChapters/images/searchPageWeb.png, id=232, 856.70062pt x 490.08093pt>
 File: projectChapters/images/searchPageWeb.png Graphic file (type png)
 <use projectChapters/images/searchPageWeb.png>
 Package pdftex.def Info: projectChapters/images/searchPageWeb.png  used on inpu
 t line 146. on input line 146.
 Package pdftex.def Info: Requested size: 342.67418pt x 196.0289pt on input line
  146.
- [34 <./projectChapters/images/tripDetail.png> <./projectChapters/images/search
+ [38 <./projectChapters/images/tripDetail.png> <./projectChapters/images/search
 PageWeb.png>]
-<projectChapters/images/admin1.png, id=211, 1026.08344pt x 338.01282pt>
+<projectChapters/images/admin1.png, id=237, 1026.08344pt x 338.01282pt>
 File: projectChapters/images/admin1.png Graphic file (type png)
 <use projectChapters/images/admin1.png>
 Package pdftex.def Info: projectChapters/images/admin1.png  used on input line 
 156. on input line 156.
 Package pdftex.def Info: Requested size: 426.79135pt x 140.59247pt on input lin
 e 156.
-<projectChapters/images/admin2.png, id=212, 998.22937pt x 439.6425pt>
+<projectChapters/images/admin2.png, id=238, 998.22937pt x 439.6425pt>
 File: projectChapters/images/admin2.png Graphic file (type png)
 <use projectChapters/images/admin2.png>
 Package pdftex.def Info: projectChapters/images/admin2.png  used on input line 
 165. on input line 165.
 Package pdftex.def Info: Requested size: 426.79135pt x 187.96924pt on input lin
 e 165.
- [35 <./projectChapters/images/admin1.png> <./projectChapters/images/admin2.png
+ [39 <./projectChapters/images/admin1.png> <./projectChapters/images/admin2.png
 >]
-<projectChapters/images/phoneLogin.png, id=218, 845.27559pt x 539.19089pt>
+<projectChapters/images/phoneLogin.png, id=244, 845.27559pt x 539.19089pt>
 File: projectChapters/images/phoneLogin.png Graphic file (type png)
 <use projectChapters/images/phoneLogin.png>
 Package pdftex.def Info: projectChapters/images/phoneLogin.png  used on input l
 ine 183. on input line 183.
 Package pdftex.def Info: Requested size: 426.79135pt x 272.25223pt on input lin
 e 183.
- [36 <./projectChapters/images/phoneLogin.png>]
-<projectChapters/images/baslangic.png, id=224, 529.98pt x 481.8pt>
+ [40 <./projectChapters/images/phoneLogin.png>]
+<projectChapters/images/baslangic.png, id=249, 529.98pt x 481.8pt>
 File: projectChapters/images/baslangic.png Graphic file (type png)
 <use projectChapters/images/baslangic.png>
 Package pdftex.def Info: projectChapters/images/baslangic.png  used on input li
 ne 193. on input line 193.
 Package pdftex.def Info: Requested size: 426.79135pt x 387.99889pt on input lin
 e 193.
-<projectChapters/images/phoneHome.png, id=225, 845.27559pt x 539.19089pt>
+<projectChapters/images/phoneHome.png, id=250, 845.27559pt x 539.19089pt>
 File: projectChapters/images/phoneHome.png Graphic file (type png)
 <use projectChapters/images/phoneHome.png>
 Package pdftex.def Info: projectChapters/images/phoneHome.png  used on input li
 ne 206. on input line 206.
 Package pdftex.def Info: Requested size: 426.79135pt x 272.25223pt on input lin
 e 206.
- [37 <./projectChapters/images/baslangic.png>]
-<projectChapters/images/notificationMobile.png, id=231, 722.7pt x 1284.8pt>
+ [41 <./projectChapters/images/baslangic.png>]
+<projectChapters/images/notificationMobile.png, id=255, 722.7pt x 1284.8pt>
 File: projectChapters/images/notificationMobile.png Graphic file (type png)
 <use projectChapters/images/notificationMobile.png>
 Package pdftex.def Info: projectChapters/images/notificationMobile.png  used on
  input line 217. on input line 217.
 Package pdftex.def Info: Requested size: 144.53743pt x 256.95544pt on input lin
 e 217.
- [38 <./projectChapters/images/phoneHome.png> <./projectChapters/images/notific
+ [42 <./projectChapters/images/phoneHome.png> <./projectChapters/images/notific
 ationMobile.png>]
-<projectChapters/images/mobilGeziArama.png, id=236, 1445.4pt x 2569.6pt>
+<projectChapters/images/mobilGeziArama.png, id=261, 1445.4pt x 2569.6pt>
 File: projectChapters/images/mobilGeziArama.png Graphic file (type png)
 <use projectChapters/images/mobilGeziArama.png>
 Package pdftex.def Info: projectChapters/images/mobilGeziArama.png  used on inp
 ut line 229. on input line 229.
 Package pdftex.def Info: Requested size: 130.08038pt x 231.25403pt on input lin
 e 229.
-<projectChapters/images/tripDownload.png, id=237, 1445.4pt x 2569.6pt>
+<projectChapters/images/tripDownload.png, id=262, 1445.4pt x 2569.6pt>
 File: projectChapters/images/tripDownload.png Graphic file (type png)
 <use projectChapters/images/tripDownload.png>
 Package pdftex.def Info: projectChapters/images/tripDownload.png  used on input
  line 239. on input line 239.
 Package pdftex.def Info: Requested size: 130.08038pt x 231.25403pt on input lin
 e 239.
- [39 <./projectChapters/images/mobilGeziArama.png> <./projectChapters/images/tr
+ [43 <./projectChapters/images/mobilGeziArama.png> <./projectChapters/images/tr
 ipDownload.png>]
-<projectChapters/images/downloadedTrip.png, id=241, 722.7pt x 1284.8pt>
+<projectChapters/images/downloadedTrip.png, id=266, 722.7pt x 1284.8pt>
 File: projectChapters/images/downloadedTrip.png Graphic file (type png)
 <use projectChapters/images/downloadedTrip.png>
 Package pdftex.def Info: projectChapters/images/downloadedTrip.png  used on inp
 ut line 252. on input line 252.
 Package pdftex.def Info: Requested size: 144.53743pt x 256.95544pt on input lin
 e 252.
-<projectChapters/images/downloadedTripManage.png, id=242, 722.7pt x 1284.8pt>
+<projectChapters/images/downloadedTripManage.png, id=267, 722.7pt x 1284.8pt>
 File: projectChapters/images/downloadedTripManage.png Graphic file (type png)
 <use projectChapters/images/downloadedTripManage.png>
 Package pdftex.def Info: projectChapters/images/downloadedTripManage.png  used 
 on input line 261. on input line 261.
 Package pdftex.def Info: Requested size: 144.53743pt x 256.95544pt on input lin
 e 261.
- [40 <./projectChapters/images/downloadedTrip.png> <./projectChapters/images/do
+ [44 <./projectChapters/images/downloadedTrip.png> <./projectChapters/images/do
 wnloadedTripManage.png>]
-<projectChapters/images/tripCreateSection.png, id=246, 845.27559pt x 597.2903pt
+<projectChapters/images/tripCreateSection.png, id=271, 845.27559pt x 597.2903pt
 >
 File: projectChapters/images/tripCreateSection.png Graphic file (type png)
 <use projectChapters/images/tripCreateSection.png>
@@ -1424,7 +1474,7 @@ Package pdftex.def Info: projectChapters/images/tripCreateSection.png  used on
 input line 272. on input line 272.
 Package pdftex.def Info: Requested size: 295.85089pt x 209.05473pt on input lin
 e 272.
-<projectChapters/images/createdMedias.png, id=247, 1445.4pt x 2569.6pt>
+<projectChapters/images/createdMedias.png, id=272, 1445.4pt x 2569.6pt>
 File: projectChapters/images/createdMedias.png Graphic file (type png)
 <use projectChapters/images/createdMedias.png>
 Package pdftex.def Info: projectChapters/images/createdMedias.png  used on inpu
@@ -1432,108 +1482,108 @@ t line 281. on input line 281.
 Package pdftex.def Info: Requested size: 112.32611pt x 199.70123pt on input lin
 e 281.
 
-[41 <./projectChapters/images/tripCreateSection.png> <./projectChapters/images/
+[45 <./projectChapters/images/tripCreateSection.png> <./projectChapters/images/
 createdMedias.png>]
-<projectChapters/images/timeLine.png, id=252, 845.27559pt x 597.2903pt>
+<projectChapters/images/timeLine.png, id=277, 845.27559pt x 597.2903pt>
 File: projectChapters/images/timeLine.png Graphic file (type png)
 <use projectChapters/images/timeLine.png>
 Package pdftex.def Info: projectChapters/images/timeLine.png  used on input lin
 e 292. on input line 292.
 Package pdftex.def Info: Requested size: 332.48079pt x 234.94263pt on input lin
 e 292.
-<projectChapters/images/media.png, id=253, 845.27559pt x 597.2903pt>
+<projectChapters/images/media.png, id=278, 845.27559pt x 597.2903pt>
 File: projectChapters/images/media.png Graphic file (type png)
 <use projectChapters/images/media.png>
 Package pdftex.def Info: projectChapters/images/media.png  used on input line 3
 02. on input line 302.
 Package pdftex.def Info: Requested size: 332.48079pt x 234.94263pt on input lin
 e 302.
-) (./projectChapters/7-chapter.tex [42 <./projectChapters/images/timeLine.png> 
+) (./projectChapters/7-chapter.tex [46 <./projectChapters/images/timeLine.png> 
 <./projectChapters/images/media.png>]
  7.
-<projectChapters/images/exampleCall.png, id=260, 903.375pt x 469.00218pt>
+<projectChapters/images/exampleCall.png, id=284, 903.375pt x 469.00218pt>
 File: projectChapters/images/exampleCall.png Graphic file (type png)
 <use projectChapters/images/exampleCall.png>
 Package pdftex.def Info: projectChapters/images/exampleCall.png  used on input 
 line 16. on input line 16.
 Package pdftex.def Info: Requested size: 426.79135pt x 221.57608pt on input lin
 e 16.
-[43
+[47
 
  <./projectChapters/images/exampleCall.png>]
-<projectChapters/images/serveridle.png, id=265, 496.85625pt x 466.74374pt>
+<projectChapters/images/serveridle.png, id=289, 496.85625pt x 466.74374pt>
 File: projectChapters/images/serveridle.png Graphic file (type png)
 <use projectChapters/images/serveridle.png>
 Package pdftex.def Info: projectChapters/images/serveridle.png  used on input l
 ine 28. on input line 28.
 Package pdftex.def Info: Requested size: 426.79135pt x 400.92886pt on input lin
 e 28.
- [44 <./projectChapters/images/serveridle.png>]
-<projectChapters/images/30users1.png, id=270, 494.59781pt x 408.02437pt>
+ [48 <./projectChapters/images/serveridle.png>]
+<projectChapters/images/30users1.png, id=295, 494.59781pt x 408.02437pt>
 File: projectChapters/images/30users1.png Graphic file (type png)
 <use projectChapters/images/30users1.png>
 Package pdftex.def Info: projectChapters/images/30users1.png  used on input lin
 e 40. on input line 40.
 Package pdftex.def Info: Requested size: 426.79135pt x 352.08327pt on input lin
 e 40.
-<projectChapters/images/30users2.png, id=271, 493.0922pt x 417.81094pt>
+<projectChapters/images/30users2.png, id=296, 493.0922pt x 417.81094pt>
 File: projectChapters/images/30users2.png Graphic file (type png)
 <use projectChapters/images/30users2.png>
 Package pdftex.def Info: projectChapters/images/30users2.png  used on input lin
 e 47. on input line 47.
 Package pdftex.def Info: Requested size: 426.79135pt x 361.65013pt on input lin
 e 47.
- [45 <./projectChapters/images/30users1.png>] [46 <./projectChapters/images/30u
+ [49 <./projectChapters/images/30users1.png>] [50 <./projectChapters/images/30u
 sers2.png>]
-<projectChapters/images/100users1.png, id=278, 511.15968pt x 419.31656pt>
+<projectChapters/images/100users1.png, id=303, 511.15968pt x 419.31656pt>
 File: projectChapters/images/100users1.png Graphic file (type png)
 <use projectChapters/images/100users1.png>
 Package pdftex.def Info: projectChapters/images/100users1.png  used on input li
 ne 59. on input line 59.
 Package pdftex.def Info: Requested size: 426.79135pt x 350.10568pt on input lin
 e 59.
-<projectChapters/images/100users2.png, id=279, 481.8pt x 417.81094pt>
+<projectChapters/images/100users2.png, id=304, 481.8pt x 417.81094pt>
 File: projectChapters/images/100users2.png Graphic file (type png)
 <use projectChapters/images/100users2.png>
 Package pdftex.def Info: projectChapters/images/100users2.png  used on input li
 ne 66. on input line 66.
 Package pdftex.def Info: Requested size: 426.79135pt x 370.11649pt on input lin
 e 66.
- [47 <./projectChapters/images/100users1.png>]
-[48 <./projectChapters/images/100users2.png>]
-<projectChapters/images/130users1.png, id=287, 505.13719pt x 416.30531pt>
+ [51 <./projectChapters/images/100users1.png>]
+[52 <./projectChapters/images/100users2.png>]
+<projectChapters/images/130users1.png, id=311, 505.13719pt x 416.30531pt>
 File: projectChapters/images/130users1.png Graphic file (type png)
 <use projectChapters/images/130users1.png>
 Package pdftex.def Info: projectChapters/images/130users1.png  used on input li
 ne 78. on input line 78.
 Package pdftex.def Info: Requested size: 426.79135pt x 351.73952pt on input lin
 e 78.
-<projectChapters/images/130users2.png, id=288, 485.56406pt x 414.79968pt>
+<projectChapters/images/130users2.png, id=312, 485.56406pt x 414.79968pt>
 File: projectChapters/images/130users2.png Graphic file (type png)
 <use projectChapters/images/130users2.png>
 Package pdftex.def Info: projectChapters/images/130users2.png  used on input li
 ne 85. on input line 85.
 Package pdftex.def Info: Requested size: 426.79135pt x 364.58813pt on input lin
 e 85.
- [49 <./projectChapters/images/130users1.png>] [50 <./projectChapters/images/13
+ [53 <./projectChapters/images/130users1.png>] [54 <./projectChapters/images/13
 0users2.png>]
-<projectChapters/images/180users1.png, id=295, 507.39563pt x 408.02437pt>
+<projectChapters/images/180users1.png, id=320, 507.39563pt x 408.02437pt>
 File: projectChapters/images/180users1.png Graphic file (type png)
 <use projectChapters/images/180users1.png>
 Package pdftex.def Info: projectChapters/images/180users1.png  used on input li
 ne 98. on input line 98.
 Package pdftex.def Info: Requested size: 426.79135pt x 343.21753pt on input lin
 e 98.
-<projectChapters/images/180users2.png, id=296, 485.56406pt x 413.29407pt>
+<projectChapters/images/180users2.png, id=321, 485.56406pt x 413.29407pt>
 File: projectChapters/images/180users2.png Graphic file (type png)
 <use projectChapters/images/180users2.png>
 Package pdftex.def Info: projectChapters/images/180users2.png  used on input li
 ne 105. on input line 105.
 Package pdftex.def Info: Requested size: 426.79135pt x 363.26476pt on input lin
 e 105.
- [51 <./projectChapters/images/180users1.png>] [52 <./projectChapters/images/18
+ [55 <./projectChapters/images/180users1.png>] [56 <./projectChapters/images/18
 0users2.png>]
-<projectChapters/images/summaryReport.png, id=303, 722.7pt x 280.04625pt>
+<projectChapters/images/summaryReport.png, id=328, 722.7pt x 280.04625pt>
 File: projectChapters/images/summaryReport.png Graphic file (type png)
 <use projectChapters/images/summaryReport.png>
 Package pdftex.def Info: projectChapters/images/summaryReport.png  used on inpu
@@ -1541,12 +1591,12 @@ t line 123. on input line 123.
 Package pdftex.def Info: Requested size: 426.79135pt x 165.38394pt on input lin
 e 123.
 )
-(./projectChapters/8-chapter.tex [53 <./projectChapters/images/summaryReport.pn
+(./projectChapters/8-chapter.tex [57 <./projectChapters/images/summaryReport.pn
 g>]
  8.
-[54
+[58
 
-]) [55]
+]) [59]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 70.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1556,7 +1606,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 70--70
 tt/m/n/12 https : / / www .
  []
 
-[56
+[60
 
 ]
 Underfull \hbox (badness 1210) in paragraph at lines 70--70
@@ -1570,7 +1620,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 70--70
 e].
  []
 
-[57]
+[61]
 Underfull \hbox (badness 1406) in paragraph at lines 70--70
 \T1/cmtt/m/n/12 ZH6Ch67XBopfQ8kmvQAXxoCSrcQAvD _ BwE & gclsrc = aw . ds$ \T1/cm
 r/m/n/12 (visited on
@@ -1606,7 +1656,7 @@ Overfull \hbox (10.68231pt too wide) in paragraph at lines 70--70
 vD _
  []
 
-[58] (./frontPages/cv.tex) [59
+[62] (./frontPages/cv.tex) [63
 
 ] (./main.aux)
 
@@ -1617,10 +1667,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12414 strings out of 494931
- 211132 string characters out of 6180852
- 628937 words of memory out of 5000000
- 15456 multiletter control sequences out of 15000+600000
+ 12451 strings out of 494931
+ 212520 string characters out of 6180852
+ 629014 words of memory out of 5000000
+ 15487 multiletter control sequences out of 15000+600000
  16483 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  51i,10n,50p,2206b,1171s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1637,10 +1687,10 @@ pk> </home/murat/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2986.60
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (72 pages, 6301251 bytes).
+Output written on main.pdf (76 pages, 6995131 bytes).
 PDF statistics:
- 780 PDF objects out of 1000 (max. 8388607)
- 209 compressed objects within 3 object streams
+ 806 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 
