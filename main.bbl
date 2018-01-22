@@ -988,6 +988,32 @@
       \verb https://urun.gittigidiyor.com/bilgisayar-tablet/toshiba-satellite-l9w-b-103-2-gb-intel-atom-64gb-ikisi-bir-arada-notebook-325916913
       \endverb
     \endentry
+    \entry{ttnet}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a1da2b91159540353fc30df3c53c6ae9}{%
+           family={Telekom},
+           familyi={T\bibinitperiod},
+           given={Türk},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1da2b91159540353fc30df3c53c6ae9}
+      \strng{fullhash}{a1da2b91159540353fc30df3c53c6ae9}
+      \strng{authornamehash}{a1da2b91159540353fc30df3c53c6ae9}
+      \strng{authorfullhash}{a1da2b91159540353fc30df3c53c6ae9}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Türk Telekom}
+      \field{urlday}{22}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://internet-kampanya-basvuru-merkezi1.blogspot.com.tr/
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput
