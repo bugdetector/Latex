@@ -964,6 +964,30 @@
       \verb https://urun.gittigidiyor.com/cep-telefonu-ve-aksesuar/general-mobile-gm-6-4-5g-tek-sim-telpa-garantilidir-313702023?pkw=&pmt=&sc_gcsp=gg&ggmktg=PaidSearch*PLA*236136807*22544670567*58375879647*%7btype%7d*313702023*pla-387386522094&gclid=CjwKCAiAr_TQBRB5EiwAC_QCq9xKmi0Z1QR9HjtoWk73NrlFSrNGx0meWF46YyiDv9TP2wfqMU6xwBoCvMgQAvD_BwE&gclsrc=aw.ds&mpch=ads&scxid=14489-145818-2357-0
       \endverb
     \endentry
+    \entry{toshiba}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4fd19cc791256f60f63712b1e55cd9b3}{%
+           family={Gittigidiyor},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fd19cc791256f60f63712b1e55cd9b3}
+      \strng{fullhash}{4fd19cc791256f60f63712b1e55cd9b3}
+      \strng{authornamehash}{4fd19cc791256f60f63712b1e55cd9b3}
+      \strng{authorfullhash}{4fd19cc791256f60f63712b1e55cd9b3}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Toshiba Satellite}
+      \field{urlday}{22}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://urun.gittigidiyor.com/bilgisayar-tablet/toshiba-satellite-l9w-b-103-2-gb-intel-atom-64gb-ikisi-bir-arada-notebook-325916913
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

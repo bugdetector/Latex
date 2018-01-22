@@ -37,21 +37,29 @@ Server's idle performance is shown in Figure
 
 As we seen the results below, the server can handle up to 200 simultaneously HTTP calls, its bottleneck is its CPU power, because maximum RAM usage 20 percent even the highest limit of calls. If we assume that average HTTP calls per web page is 20, (the number can vary depending upon the demand of the user) as a result, if server can handle 200 simultaneous calls and user makes 20 calls per page we can say the average number of users that our server can handle is 10.
 
+\newpage
 \begin{table}[!ht]
 \centering
 \caption{Server performance test results}
 \label{my-label}
-\begin{tabular}{|l|l|l|}
+\begin{tabular}{|l|r|r|}
 \hline
-\textbf{HTTP Calls}                & \textbf{Maximum Memory Usage(\%)} & \textbf{Maximum CPU Usage(\%)} \\ \hline
-30 GET Requests           & 15.2                     & 18.1  \\ \hline
-100 GET Requests          & 15.2                     & 56.6  \\ \hline
-130 GET and POST Requests & 15                       & 68.8  \\ \hline
-180 GET and POST Requests & 15                       & 89.4  \\ \hline
+\textbf{HTTP Calls (Requests)}                & \textbf{Maximum Memory(\%)} & \textbf{Maximum CPU(\%)} \\ \hline
+30 GET           & 15.2                     & 18.1  \\ \hline
+100 GET          & 15.2                     & 56.6  \\ \hline
+130 GET and POST& 15                       & 68.8  \\ \hline
+180 GET and POST& 15                       & 89.4  \\ \hline
 \end{tabular}
 \end{table}
 
-\newpage
+Performance test results graphics is shown in Figure \ref{fig:performanceGraphic}.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[height = 20em]{projectChapters/images/performanceTestResult.png}
+\caption{Performance test result graphics}
+\label{fig:performanceGraphic}
+\end{figure}
 
 Comparison between HTTP calls and the result outputs of error rate, throughput, Received KB/sec, Sent KB/sec, Avg Bytes are shown in Figure
 
